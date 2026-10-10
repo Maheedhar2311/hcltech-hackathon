@@ -1,0 +1,967 @@
+PAGES: 27
+=== PAGE 1 ===
+Ordinances and Regulations
+for
+UNDERGRADUATE PROGRAMME
+2023
+(Applicable from 2023 Batch Onwards)
+DR B R AMBEDKAR
+NATIONAL INSTITUTE OF TECHNOLOGY JALANDHAR - 144008
+(An Institute of National Importance)
+=== PAGE 2 ===
+B.TECH. ORDINANCES
+O.1 All B.Tech. programmes offered by the Institute shall be governed by the B. Tech. Rules
+and Regulations.
+O.2 The B.Tech. rules and regulations shall be applicable to any new discipline(s) under
+these programmes that may be introduced in future.
+O.3 A student becomes eligible for the award of the B.Tech. degree after fulfilling all the
+academic requirements and extra-academic activities as prescribed by the B.Tech. Rules
+and Regulations.
+O.4 The Academic departments involved in running the various B.Tech. programmes and the
+different disciplines in which B.Tech. degrees are currently offered, are as follows:
+Departments B.Tech. Programmes
+1. Bio Technology  Bio Technology
+2. Chemical Engineering  Chemical Engineering
+3. Civil Engineering  Civil Engineering
+4. Chemistry ------------
+5. Computer Science and Engineering  Computer Science and Engineering
+ Data Science and Engineering
+6. Electrical Engineering  Electrical Engineering
+7. Electronics and Communication
+ Electronics and Communication Engineering
+Engineering
+ Electronics and VLSI Engineering
+8. Humanities and Management ------------
+9. Instrumentation and Control Engineering  Instrumentation and Control Engineering
+10. Mathematics ------------
+11. Industrial and Production Engineering  Industrial and Production Engineering
+12. Information Technology  Information Technology
+13. Mechanical Engineering  Mechanical Engineering
+14. Physics ------------
+15. Textile Technology  Textile Technology
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 2
+=== PAGE 3 ===
+B.TECH. RULES AND REGULATIONS
+ACADEMIC YEAR
+R1.1 Academic Year of the Institute continues for a period, generally from July to June of the next year, as
+defined in the Academic Calendar. Each Academic Year comprises two regular Semesters: Odd
+semester (July to December) and Even semester (January to June). Each semester is of approximately
+18 weeks duration (with at least 80 working days in a semester)
+ACADEMIC CALENDAR
+R2.1 The Academic Calendar of the institute defines the exact dates of all the important events, such as
+orientation, registration dates, last date for applying for additional B.Tech. programmes,
+commencement of classes, Mid-semester and End-semester examinations, vacation, etc., during the
+Academic year and is approved by the Senate.
+ADMISSION
+R3.1 Admission to any undergraduate B.Tech. programme requires that the applicant be eligible, go
+through the laid-down admission procedure, and pay the prescribed fees.
+I. Admission through JoSAA
+Admissions to the B.Tech. programmes of the Institute are carried out each year on the basis of
+performance of the students in the Joint Entrance Examination (JEE-Main) by common counseling
+through Joint Seat Allocation Authority (JoSAA). For admission to the B. Tech. programmes, the
+Institute shall follow the reservation policy as notified by MoE, Govt. of India from time to time.
+II. Admission under DASA Programme
+Direct Admission Students who are foreign nationals either residing in India or abroad, or Indian
+nationals residing abroad may be admitted to UG programme under the Direct Admission Students
+Abroad (DASA) scheme according to the policy guidelines laid down by the MoE Govt. of India from
+time to time. A few admissions are also given through the Ministry of External Affairs based on self-
+financing scheme as decided by the MoE Govt.of India from time to time.
+III. Admission under Cultural Exchange Programme
+A few admissions are offered under the Cultural Exchange Fellowship Programme of the Government
+of India, administered by the Indian Council of Cultural Relations (ICCR), New Delhi through the
+Ministry of External Affairs as decided by the MoE, Govt. of India from time to time. For these
+admissions, the candidates are required to apply through the Indian High Commission/Embassy in their
+respective countries.
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 3
+=== PAGE 4 ===
+IV. Admission under Study in India Programme
+A few admissions are offered under the Study in India Programme for the foreign students under
+Government of India Scheme to Study in India.
+R3.2 The number of seats in each branch of the undergraduate programme for which admission is to be made
+in NIT Jalandhar will be decided by the Senate of NIT Jalandhar.
+R3.3 If, at any time after admission, it is found that a candidate has not fulfilled all the requirements
+stipulated in the offer of admission, the Dean Academic may revoke the admission of the candidate and
+report the matter to the Senate.
+R3.4 The Institute reserves the right to cancel the admission of any student and ask him/her to discontinue
+his/her studies at any stage of his/her career on the grounds of unsatisfactory academic performance or
+on disciplinary grounds. The criteria for the former will be governed by these Rules and Regulations,
+while the criteria for the latter will be governed by the Rules and Regulations of the Ordinance on Code
+and Conduct of Students.
+R3.5 The Institute will follow the fee refund policy as notified by the Government of India from time to time.
+REGISTRATION
+R4.1 Every student is required to register in each semester for the approved courses through the
+assigned Academic Counselor within the time frame notified in the academic calendar. No credit is
+given to the student who attends a course without a formal registration. Registration is a mandatory
+procedural part of the academic system which includes payment of Institution Fees and Academic
+registration.
+I. Payment of Fee: Payment of Fee is essential for completing the registration process.
+Following rules shall be applicable for payment of fee:
+Normal
+Registration Before Start of classes Without late fee fine
+Late
+Within 01 week of the Start of Classes With late fee fine as per Institute
+norms
+Registration
+Within 02 weeks of the Start of Classes
+Special
+Registration* Within 02 months of the Start of Classes Without late fee fine
+* Special Registration: Those students who deposit their fee either through Loan/State
+Government Credit Card Scheme/Scholarship, etc. may apply for extension for fee submission
+date if their finances are delayed. Requests of students who are unable to pay their fees by the
+stipulated deadline due to severe financial crisis may also be considered subject to verification
+of their claims. The request of such students will be approved by Dean Academic. Such
+students may submit their fee at a later date as per the time limit sought by them but such time
+limit shall not exceed more than two months from the date of the start of classes.
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 4
+=== PAGE 5 ===
+The guidelines of fee structure required for registration are placed in Appendix-A.
+Any exceptional approval after this date will be under the purview of Chairman, Senate.
+II. Academic registration: Each student needs to complete the Academic Registration through
+online ERP portal within the time frame as notified in the academic calendar. Even for those
+students who fall under the cases of Late Registration/ Special Registration, Academic
+Registration and attending the classes is mandatory from the due date as per academic
+calendar. The attendance requirements of 75% will not be relaxed for such cases and the same
+will be counted from the date of start of the class.
+R4.2 Only those students will be permitted to register who have:
+I. cleared all Institute, Hostel and Library dues and fines (if any) of the previous semesters,
+II. paid all required advance payments of Institute and Hostel dues (for hostellers) for the current
+semester, and
+III. not been debarred from registering on any specific ground.
+R4.3 During registration following conditions must be fulfilled:
+I. For registering in the 3rd/5th/7th semesters, a student needs to successfully complete a minimum
+number of credits in the preceding semesters. The details of the minimum credit requirements
+for registering in the 3rd/5th/7th semesters are placed in Appendix-A.
+II. The number of credits registered for during a semester should not exceed 32.
+R4.4 Registration for Additional courses is to be done along with the registration of regular semester
+courses through online institute ERP portal.
+R4.5 Registration for Summer Contact courses/Supplementary Exam is to be done as per schedule notified
+in the Academic Calendar through institute ERP portal.
+R4.6 A student securing ‘E’ grade is allowed to improve the grade by re-registering for the course as
+Additional course(s), provided, the course(s) is/are being offered therein. However, only one
+attempt will be allowed for each course.
+R4.7 For Registration of each Additional course/ Summer Contact course, the student is required to pay
+the course fee as per Institute norms.
+R4.8 When a student re-registers for a course, in accordance with clause R4.6, the better of the two
+grades (the old and the new) in the course will be considered towards calculation of SGPA and
+CGPA.
+SEMESTER WITHDRAWAL/ CANCELLATION
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 5
+=== PAGE 6 ===
+R5.1 A registered student can apply [Form UG-3] for withdrawal from the semester on medical grounds/
+other special circumstances. Approval of Dean Academic is required for withdrawing from a semester.
+In case of withdrawal from a semester, a ‘W’ grade shall be awarded in all courses of that semester.
+Such applications must be made as early as possible and latest before the start of the End-semester
+examinations. No application for semester withdrawal will be considered after the End-semester
+examination have commenced. Each application for semester withdrawal will be examined by the Dean
+Academic and depending on the merit of the case, an appropriate recommendation will be made.
+However, fee paid for the semester will not be refunded. The fee shall be adjusted against the semester
+registration fee when such student registers for the same semester again.
+R5.2 The Dean academic can cancel the semester registration due to disciplinary or any such proceeding
+against the student. The Senate approval will be required for cancellation of semester. An ‘X’ grade
+shall be awarded in all courses of that semester. Fee paid for the semester will be forfeited.
+COURSE(S) WITHDRAWAL/CANCELLATION
+R6.1 A student can withdraw from one or more registered Additional courses in a semester before the last
+date as announced in the academic calendar [Form UG-3]. (This date will be normally one week after
+the Mid-semester examinations). The course(s) will be removed from the list of registered courses for
+that student for that semester.
+R6.2 The Dean academic can cancel the registration in one or more courses of a student due to disciplinary or
+any such proceeding against him/her. An ‘X’ grade shall be awarded in those courses.
+TERMINATION FROM PROGRAMME
+R7.1 A student is required to leave the Institute on the following grounds:
+I. If a student is absent for more than 6 (six) weeks in a semester without intimation, his/her name
+will be struck off the rolls
+II. A student may also be required to leave the Institute on disciplinary grounds.
+III. On having been found to have produced false documents or having made false declaration at the
+time of seeking admission
+IV. On having been found to be pursuing regular studies (leading to degree or diploma) in any other
+college, university or an educational institution without approval.
+V. On having been found to be concurrently employed and performing duty or carrying out business
+in contravention to academic schedules of the Institute without approval from the Institute
+ATTENDANCE
+R8.1 All students must attend every lecture, tutorial and practical class. The Institute desires 100%
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 6
+=== PAGE 7 ===
+attendance. However, a minimum attendance requirement of 75% is compulsory for appearing in the
+End-semester examination.
+R8.2 A student with less than 75% attendance in a course during a semester will be awarded ‘L’ grade in that
+course and attendance grade of ‘LL’.
+R8.3 The percentage of attendance will be indicated in the Detailed Mark-sheet as attendance grade in terms
+of code letters as follows:
+Attendance rounded to Attendance Grade
+95% and above HH
+85% to less than 95% HL
+75% to less than 85% LH
+Below 75% LL
+A student who has attendance grade ‘LL’ will not be allowed to sit for the End-semester examination in
+the course in which the shortfall exists. Chairman, Senate can condone the attendance requirements to
+a student to the tune of 10% beyond the minimum required attendance of 75% for appearing in the end
+semester examination on the recommendations of DUGC/DPGC of the Department. However, the
+DUGC/DPGC shall ensure that the request of the student is under special circumstances i.e. Medical
+reasons, other reasons beyond the control of the student etc. and not general circumstances.
+R8.4 For all female students the minimum attendance requirement for appearing in the Institute examinations
+is 73%, in compliance with the recommendations of Ministry of Women & Child Development (MWCD)
+regarding “Menstrual Leave” for female students
+CONDUCT AND DISCIPLINE
+R9.1 Students shall conduct themselves within and outside the precincts of the Institute in a manner befitting
+the students of an institution of national importance. The Institute has a separate Ordinance for Code
+and Conduct of Students which is applicable to all students of the Institute.
+COURSE STRUCTURE
+R10.1 All courses defined in the curriculum have a lecture-tutorial-practical (L-T-P) component to indicate
+the contact hours. E.g. a theory course in Digital Electronics has structure (3-1-0), indicating that there
+will be 3 lectures and 1 tutorial in a week, a separate laboratory course Digital Electronics has structure
+(0-0-2), indicating that there will be one Practical class of 2 hours in a week.
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 7
+=== PAGE 8 ===
+R10.2 Each course has a certain number of credit(s) assigned to it depending upon its
+lectures/tutorials/practical contact hours as mentioned below:
+ Lectures/Tutorials: One lecture/tutorial hour per week over the period of one semester is
+assigned one credit.
+ Practical/Project: One practical/project work of two hours per week over the period of one
+semester is assigned one credit.
+R10.3 In order to qualify for a B. Tech. degree of the Institute, a student is required to complete the credit
+requirements as prescribed in the curriculum for a particular programme. In addition, a student may
+also qualify for his/her Major degree with Minor by earning additional credits. For details related to
+Minor, refer to clause R20.
+Detailed UG programme curriculum structure is appended at Annexure-1.
+R10.4 The course work requirements may be broadly divided into following categories:
+ Foundation Courses (FC)
+ Foundation Electives (FE)
+ Department Core Courses (DC)
+ Department Elective/Generic Elective Courses (DE/GE)
+ Training
+ Project
+A student is required to earn the prescribed credits in all the above categories.
+Prescribed number of credits in FC, FE, DE/GE courses should be completed within the requirement of
+total 164 credits for the B.Tech. degree.
+R10.5 Every B. Tech. Programme will have a curriculum and syllabi for the courses approved by the Senate.
+DUGC will recommend the syllabi of all the UG courses offered by the department in consultation
+with the Department Faculty Board (DFB) from time to time before sending the same to the Senate
+Undergraduate Committee (SUGC). The composition, tenure and functions of DUGC, SUGC, and
+DFB are indicated in Appendix-B.
+R10.6 A student can earn extra credits by registering in courses outside his prescribed curriculum of
+Major/Minor discipline. Such additional credits, however, will not be counted towards fulfilling the
+minimum credit requirements of his/her major/minor programme.
+EXAMINATIONS AND EVALUATION
+R11.1 I. In case of theory courses, the evaluation will be based on the internal continuous assessment, the
+Mid-semester examination and the End-semester examination. The Mid-semester examination
+and the End-semester examination shall be coordinated by the Academic section.
+II. For laboratory based courses, the evaluation will be done on the basis of continuous internal
+assessment along with End-semester examination. The weightage assigned to different
+components of assessment can be found in Appendix-C.
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 8
+=== PAGE 9 ===
+III. Project evaluation will be based on the internal continuous assessment by the project guide, Mid-
+semester review, and End-semester viva-voce examination. The Mid-semester review and the
+End-semester viva-voce examination will be conducted by a committee constituted by the Head
+of the Department
+IV. For Industrial Training and Summer Internship, evaluation will be based on the assessment by the
+respective Industry (Proforma-1), report submitted by the student, and presentation and viva-voce
+examination by the assessment committee formulated by the Head of the Department.
+R11.2 A student must secure minimum 30 % in End-semester examination and 40% cumulatively to clear any
+course.
+MAKE-UP EXAMINATIONS
+R12.1 Students who are unable to appear in their Mid-semester examination on grounds of medical
+emergency/or any other special circumstances can apply for the Make-Up examination [Form UG-4].
+The Make-Up examination shall be held after the End-semester examination and the exam shall cover
+full syllabus of the course. The dates for Make-Up examination (03 consecutive days) will be notified in
+the Institute Academic calendar. A fee as specified by the Institute shall be charged for appearing in the
+Make-Up examination. Detailed guidelines are available in Appendix-D.
+GRADING SYSTEM
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 9
+=== PAGE 10 ===
+R13.1 The student is awarded a letter grade in each registered course, based on his/her performances evaluated
+through a prescribed scheme of evaluation. The letter grades and the corresponding grade points along
+with description of performance are as follows
+Letter Grades S 10 A 09 B 08 C 07 Grade Point I* Description of performance
+Outstanding
+Excellent
+Very Good
+Good
+D 06 Average
+E 05 Marginal
+U 01 Unsuccessful but with satisfactory attendance
+- Incomplete
+L 00 Unsuccessful due to less than 75% attendance
+X 00 Cancellation for disciplinary action
+W - Withdrawal from Semester
+* An ‘I’ grade denotes incomplete performance in any course due to absence in the End-semester
+examination because of extraordinary emergency situation. ‘I’ grade is to be converted into
+appropriate letter grade as per clause 13.4.
+‘L’ grade award: Refer to clause R8.2
+‘X’ grade award: Refer to clauses- R5.2 and R6.2
+‘W’ grade award: Refer to clause R5.1
+R13.2 A student is considered to have completed a course successfully and earned the corresponding defined
+credits if he/she secures a letter grade other than U/I/L/X/W in that course.
+R13.3 For awarding any grade (E and above) the student should score at least 30% marks in the End-semester
+examination. In case the student scores less than 30% in the End-semester examination, or remains
+absent in the End-semester examination, he/she will be awarded a ‘U’ grade.
+R13.4 An ‘I’ grade denotes incomplete performance in any course due to absence in the End-semester
+examination because of extraordinary emergency situation. 75% attendance in a course is necessary for
+being eligible for request of ‘I’ grade in that course.
+An application requesting an ‘I’ grade should be made at the earliest, but not later than two days after
+the End-semester examinations to the concerned Head of department through the concerned course
+coordinator. Depending on the merits of the case in discussions with concerned course coordinator,
+HoD will approve allotment of ‘I’ grade. An ‘I’ grade must be converted by the course coordinator into
+an appropriate letter grade after conducting the examination. The examination can be conducted any
+time after the allotment of ‘I’ grade but not later than 15 days after End-semester examinations, failing
+which it will be converted to U grade.
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 10
+=== PAGE 11 ===
+R13.5 The structure and guidelines for award of grades based on “absolute grading” method are given as
+under.
+Recommended
+Grades Point
+Cut off Marks
+≥ 90 S 10
+≥ 80 A 09
+≥ 70 B 08
+≥ 60 C 07
+≥ 50 D 06
+≥ 40 E 05
+< 40 U 01
+For 20 or more number of students in a course, “relative grading” method may be adopted. The
+grading criterion is flexible to the recommendations of individual course coordinators with proper
+justification.
+R13.6 The performance of a student will be evaluated in terms of two indices, viz, the Semester Grade Point
+Average (SGPA) which is the Grade Point Average for a semester and Cumulative Grade Point
+Average (CGPA) which is the Grade Point Average for all the completed semesters at any point of
+time.
+The SGPA is calculated on the basis of grades obtained in all courses of one semester, registered for in
+the semester.
+SGPA = ∑(Course credit x Grade point)
+∑Course credits
+The CGPA is calculated on the basis of grades obtained in all completed semesters.
+CGPA =∑(Course credit x Grade point)
+∑ Course credits of all registered courses
+A sample copy of Detailed Marksheet and corresponding SGPA/CGPA calculations are illustrated in
+Appendix-E.
+R13.7 SGPA calculation of a semester will be done on the basis of Grade Points obtained in all the
+regular courses of that semester.
+For SGPA/CGPA calculations, the Grade Points of Additional courses for earning additional
+credits outside the prescribed curriculum shall not be included.
+However, grades awarded for Additional courses registered for earning additional credits outside
+the prescribed curriculum shall be shown on the Detailed Marksheet.
+SUMMER CONTACT COURSE, SUPPLEMENTARY EXAM AND ADDITIONAL
+COURSE
+R14.1 A Summer Contact course is conducted during the summer vacation (as notified in the Academic
+calendar). A student can register online through institute ERP portal for a Summer Contact course if
+offered. The DUGCs of respective departments shall display the list of Summer Contact courses to be
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 11
+=== PAGE 12 ===
+offered in a summer break before the commencement of the End-semester examination of even
+semester.
+I. A student can register for course(s) as Summer Contact course(s) if he/she is awarded ‘L’/‘W’
+grade in those course(s).
+II. The maximum number of courses that can be registered as Summer Contact course in one
+summer break will be limited to 02 courses. However, students of the graduating batch whose
+academic programme is expected to be completed by the end of on-going semester (8th
+semester) may register for up to 03 courses.
+III. The total number of contact hours in any Summer Contact course will be the same as in the
+regular semester course (minimum 40 with maximum 2 hours per day). The assessment
+procedure for the Summer Contact course shall be the same as that for a regular semester
+course.
+IV. The students appearing for the Summer Contact course shall be awarded one grade less than the
+actual grade obtained in that course and the highest grade that a student can get through this
+option is ‘D’. However, an ‘E’ grade shall remain as ‘E’.
+The detailed guidelines for Summer Contact course are placed in Appendix-F1.
+R14.2 Supplementary exam
+I. A student obtaining 'U' grade in a theory course may register for a supplementary exam in that
+course. The supplementary examination will be held within a duration starting after the
+‘Display of grades’ after the regular end semester exams up to one week after the
+commencement of classes in the next semester.
+II. The maximum number of times a supplementary examination can be taken for each course is
+02. If the student fails to clear the course in 02 supplementary chances, he / she will have to
+repeat the course as additional course with 75% attendance requirement.
+III. The grade will be decided only on the basis of the performance in this examination. However,
+attendance grade awarded in that course during the regular semester will be considered. The
+students opting for supplementary exam shall be awarded one grade less than the actual grade
+obtained and the highest grade that a student can get through this option is ‘D’. However, an ‘E’
+grade shall remain as ‘E’. Appendix-F2
+R14.3 A student can register online through institute ERP portal for Additional course(s) during regular
+semesters in addition to his/her prescribed curriculum courses, under the following cases:
+I. Students awarded U//L/X/W or ‘E’ grade in any course(s) can register for its respective
+Additional course(s).
+II. Students willing to earn additional credits outside their curriculum, provided, the course(s)
+is/are being offered therein.
+a. Refer to clause 4.3 (II) for maximum number of credits that can be registered for
+during a regular semester.
+III. L/X/W grade students have to attend classes and satisfy the attendance requirement.
+IV. The students with ‘U’/’E’ Grade will not be required to attend classes, but will have to
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 12
+=== PAGE 13 ===
+participate in the entire course evaluation process.
+V. For an elective course in which U/L/X/W grade has been obtained, the student may take the
+same course or any other course from the same category. However, students with ‘U’ grade will
+have to attend classes if the elective course is changed.
+For the students with ‘E’ grade, the Additional course is an improvement chance. The maximum
+number of courses that can be registered as additional courses for students with ‘E’ grade will be
+limited to 06 courses during his/her entire B.Tech programme.
+The detailed guidelines for Additional Course are placed in Appendix-F3.
+CHANGE OF BRANCH
+R15.1 A student admitted to a particular discipline of B. Tech. will normally continue in that discipline
+till completion of the degree. However, there is a provision for change of discipline of study of a
+student after the completion of the first two semesters (1st year) provided vacancies/vacancy
+exist(s) in discipline(s). The filling of vacancies for change of discipline shall be done category
+wise (General/OBC-NCL/Gen-EWS/SC/ST/PWD or any other category notified by the Ministry of
+Education, Govt. of India, New Delhi).
+R15.2 A student is eligible to apply for change of discipline at the end of the first year through institute
+ERP portal (after 2nd semester) only, provided he/she satisfies the following criteria:
+I. CGPA for General/OBC-NCL/Gen-EWS category students: greater than or equal to 7.50 in
+the first attempt.
+II. CGPA for SC/ST/PWD category students: greater than or equal to 6.50 in the first attempt.
+III. Earned credits at the end of the 1st year must be equal to the credits prescribed in the scheme
+of first and second semesters of their studies.
+IV. Any credits earned through summer contact course, shall not be considered for discipline
+change.
+V. Change of discipline shall be made strictly on the basis of inter-se-merit of the applicants
+based on CGPA at the end of the first year to the limitation that
+a. The actual number of students in the 3rd semester in the branch to which transfer is to be
+made, should not exceed the sanctioned strength, and
+b. Maximum 10% registered students in 3rd semester of the discipline from which transfer is
+sought, will be allowed the change of discipline.
+c. Ties will be broken by JEE (Main) rank of applicants
+R15.3 After the upgradation of the branch, if the academic requirement of a B. Tech. student is not
+fulfilled as per the requirement for earning B. Tech. degree of the upgraded branch, the student is
+required to attend and qualify the necessary course(s). These courses need to be offered as
+a. Credit based crash courses with the start of the third semester (in case a course is
+prerequisite of 3rd semester courses), or
+b. during the winter vacation by the respective departments.
+The final CGPA of the upgraded students will be calculated on the basis of their grades obtained in
+the courses approved in teaching scheme of their upgraded discipline. Rules for summer contact
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 13
+=== PAGE 14 ===
+courses will be applicable (Available in Clause R14). No separate fee will be charged for these
+courses.
+ELIGIBILITY FOR THE AWARD OF B. TECH. DEGREE
+R16.1 A student would be eligible to obtain B. Tech. Degree, if he/she
+I. Completes all the credit requirements for the degree programme (Theory, Laboratory, Training,
+Project etc.)
+II. Obtains a minimum Cumulative Grade Point Average (CGPA) of 5.0
+III. Maximum duration of B. Tech. degree programme is 07 years
+IV. Has cleared all Institute, Hostel and Library dues and fines (if any) by completing No Dues
+Form [Form UG-6]
+R16.2 The award of B. Tech. degree will be recommended by the Senate and approved by the Board
+of Governors of the Institute.
+CONTINUATION FEE FOR CLEARING BACKLOGS
+R17.1 Pass out students who have completed 4 years /8 semesters of study and are carrying backlogs shall
+have to pay a continuation fee as defined by the Institute in addition to the fee for additional course(s)
+The students need to apply to Dean Academic and register for backlog courses online through institute
+ERP portal registration.
+PROVISION FOR CGPA IMPROVEMENT FOR PASSED OUT STUDENTS
+R18.1 Passed out students of B. Tech. programme of the Institute can apply for improvement in their CGPA.
+A student can opt for improvement in CGPA only after the declaration of his/her 8th semester result and
+within seven years of his/her initial registration. The improvement has to be done through additional
+courses only. However, such students can apply for a maximum of 6 additional courses with fee as
+defined by the Institute. Only two such chances for each course can be availed by a student.
+The students need to apply to Dean Academic and register for the courses through online institute ERP
+portal
+B.TECH. (HONOURS)
+R19.1 All B.Tech. students who have cleared all courses in first attempt with minimum duration of
+programme and secured 8.5 CGPA shall be provided B.Tech. (Honours) degree
+B.TECH. WITH MINOR
+R20.1 Minor degree programmes are secondary areas of study that offer students to gain specialized
+knowledge and create opportunities in their career. This is a 4-year programme in which a student
+earns a Minor in the emerging areas of the same discipline or in an area offered by other
+departments in addition to the Major degree in the B.Tech. programme in which he/she is admitted.
+I. The Minor programme will start from the 3rd semester. The option for enrolment in Minor
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 14
+=== PAGE 15 ===
+programme may be exercised by any student after the 2nd semester provided he/she has
+cleared 1st and 2nd semester without backlog.
+II. A student will be allowed to enroll for one Minor programme. Each Minor programme will
+be of 20 credits.
+III. The Minor programme courses should not be a repetition of any of the courses comprising
+the Major programme.
+IV. A fee per semester as defined by the Institute shall be charged.
+The programme detail of Minor scheme along with eligibility and application process are placed in
+Appendix-G.
+B.TECH. WITH RESEARCH
+R21.1 B.Tech. with research is a program in which a student earns additional 10 credits for rigorous research
+project work in his/her areas of study in addition to the Major degree of B.Tech. programme in which
+he/she is admitted.
+I. The option for enrolment in B.Tech. with Research may be exercised by any student after
+the 4th semester provided he/she has secured 8.0 CGPA and above without any backlog.
+II. All such B.Tech. students who have cleared their B.Tech. programme within the minimum
+stipulated duration along with fulfilling additional requirements of research work, in the
+entire duration of the programme, shall be provided B.Tech. with Research.
+III. The research project work will span across the last four semesters of the B.Tech. with
+Research programme and the 10 additional credits shall be distributed in 4 semesters.
+IV. A fee per semester as defined by the Institute shall be charged.
+V. The programme detail of B.Tech. with Research. scheme along with eligibility and
+application process is mentioned in Appendix-H.
+MULTIPLE EXIT/ MULTIPLE ENTRY
+R22.1 During the 4 Year degree programme, a student is allowed to take 2 exits. They will be awarded
+following certificates:
+Award Minimum Requirement
+UG Certificate in
+Successfully earned 50% Credits of Total Credits (50% of 164 = 82
+Engineering
+Credits)
+stream
+Min 40 Credits from DC + 3 weeks Industrial Training
+UG Diploma in
+Successfully earned 75% Credits of Total Credits (75% of 164 = 123 Credits)
+Engineering
+Min 80 Credits from DC/DE + 3weeks Industrial Training + Project
+stream
+R22.2 During the 4 Year degree programme, a student is allowed to leave the programme at any time due to
+any reason. For taking an exit, the student needs to apply to Dean, Academic [Form UG-9] for the
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 15
+=== PAGE 16 ===
+same through concerned Head of the department, and after sanction of the application only, the student
+can leave. His/her credits will remain preserved.
+A UG student registered at NITJ, who makes an exit without completing the course or at a specific exit
+point, can re-enter the course maximum within three years of his/her exit and continue to complete
+B.Tech. degree within a time limit of seven years. Meantime, if teaching scheme gets revised, then the
+student will have to fulfill the condition of revised requirements of the programme prevailing at the
+time of his re-entry. The credits earned in the past under different categories (Core, electives etc.) will
+remain preserved.
+NON-DEGREE STUDENTS
+R23.1 A non-degree student is one who is registered for a degree in an Institute of repute in India or abroad
+(other than NIT Jalandhar), and who is officially sponsored by other Institute/University to complete a
+part of her/his academic programme at NIT Jalandhar. An external student may be admitted for a
+maximum period of two semesters (a maximum of one year).
+During stay at NITJ, such students admitted shall be governed by the academic and other
+rules/regulations of NIT Jalandhar.
+Any credits earned at the Institute by an external student cannot be counted towards any degree
+programme of NIT Jalandhar at any time.
+AWARDS AND SCHOLARSHIPS
+R24.1 A number of Merit-cum-Means (MCM) scholarships, fee waivers, and SC/ST scholarships are
+awarded to the UG students in accordance with the prescribed procedure laid down by the Senate.
+Announcements of these scholarships stating eligibility, number and amount of scholarships etc. shall
+be made while inviting applications from time to time. These scholarships/ fellowships are
+administered by a designated committee. The details about these scholarships/fellowships can be
+found from the DSW office.
+WAIVER AND AMENDMENTS
+R25.1 The procedures and requirements set out in this manual, other than those in clause R13.1 (Grading
+Criterion), and clause R16 (Eligibility for the award of B.Tech. Degree), may be relaxed or waived off
+in special circumstances by the Chairman, Senate. However, all such exceptions are to be reported to
+the Senate in its subsequent meeting.
+R25.2 Notwithstanding anything contained in these Regulations, all categories shall be governed by the rules
+and procedures framed by the Senate, and in force from time to time. Any doubt or dispute about the
+interpretation of these Regulations shall be referred to the Director whose decision shall be final.
+R25.3 All exceptions and issues not covered in this document may be referred by the Director to the SUGC.
+Recommendations of the SUGC are to be put up to the Director for consideration and to be
+implemented only if approved.
+Appendix-A: Guideline for Registration
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 16
+=== PAGE 17 ===
+1. A student who fails to register during the period of registration as per the Academic Calendar without any prior
+approval, he/she may register maximum within two weeks of commencement of classes by paying late
+registration fee along with other necessary Institute and Hostel dues. Following rules will be applicable for late
+registration
+Before Start of classes Without any late fee fine
+Within one week of the Start of Classes With late fee fine of Rs. 2000/-
+Within two weeks of the Start of Classes With late fee fine of Rs. 5000/-
+2. For a student to be able to register in his/her 3rd/5th/7th semesters, following minimum credits need to be earned:
+S. No. Promotion to the next year from the
+previous year
+Minimum Credits
+i 1st to 2nd year (3rd Semester) 25
+ii 2nd to 3rd year (5th Semester) 20 credits from 2nd Year
+iii 3rd to 4th year (7th Semester) 20 credits from 3rd Year
+Back
+Appendix-B: SUGC, DFB, DUGC and ABFC
+Senate Under Graduate Committee (SUGC)
+Constitution of SUGC
+Dean Academic Chairperson Ex-officio
+Associate Dean Academic - UG Vice Chairperson Ex-officio
+Chairpersons of DUGC of all
+Departments
+Members 02 years from date of
+nomination
+(respective department)
+Associate Dean Examination Invited member
+(on the basis of agenda)
+02 student nominees Members*
+(at least 01 girl)
+(preferably 3rd and 4th year)
+01 year from the date of their
+nomination or until they cease
+to be students of the Institute,
+whichever is earlier
+Assistant Registrar Academic Secretary
+*The selection of UG students for SUGC is done through a selection process on the basis of their academic, co-
+curricular and extra-curricular performance. The selection committee for the same would be constituted by the Dean,
+Academic.
+Functions of SUGC
+Subject to the overall jurisdiction and control of the Senate, the SUGC has the following functions covering the UG
+academic programmes of the Institute:
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 17
+=== PAGE 18 ===
+(i) To oversee the conduct of all undergraduate courses of the Institute.
+(ii) To consider the proposals from the departments and make recommendations to the Senate for consideration and
+approval.
+a. Proposal of new under graduate programmes/courses/curriculum
+b. Proposal of restructuring/renaming/modification of existing under graduate
+Programme/courses/curriculum
+(iii) To Consider policy matters related to examinations of UG programmes and to suggest such actions to be taken
+by various Authorities/Bodies/Functionaries of the Institute, as may be considered necessary
+(iv) Recommendation for the award of degrees
+(v) To recommend an increase/decrease of intake in a programme
+(vi) To consider and recommend any other matter concerning the undergraduate programme of the Institute.
+(vii) Other related matters as may be referred to it by the Senate
+(viii) Constitute such number of its Sub-Committees as it deems fit to assist it in discharging its duties and
+responsibilities
+The SUGC reports to the Senate for all its recommendations and decisions. The Senate has the power of final review
+and decision on all such matters, either on its own or on a reference/ appeal to it.
+SUGC shall meet at least 04 times during an academic year, or can meet more frequently depending on the requirement.
+Department Faculty Board (DFB)
+The Department Faculty Board (DFB) consists of all regular faculty members of the department.
+Whenever changes/modifications in the existing courses/curriculum, proposing and implementing new courses and
+programmes are to be carried out, the departments should preferably conduct a curriculum revision workshop ensuring
+participation of all stake holders i.e. external expert(s) from academics, Alumni of the department from Industry/ R&D
+organization, and faculty from allied engineering departments and sciences departments (If required).
+Departmental Under Graduate Committee (DUGC)
+The Department Undergraduate Committee (DUGC) is a statutory committee constituted at the department level for
+governing and monitoring all the issues related to the Undergraduate Academic Programmes and their activities. This
+committee shall be responsible for all matters connected with the UG programme(s) of the department.
+All academic policy and routine matters come under the purview of the Chairperson of the DUGC. The committee is
+responsible to follow the Senate approved rules and regulations along with guidelines prescribed in the Manuals.
+Constitution of DUGC
+Head of the Department Chairperson Ex-officio
+Coordinator/ Academic
+Counsellors of 1st, 2nd
+,
+3rd and 4th year students
+Members Every 02 years, 50% of the faculty members of
+the DUGC shall vacate their membership and their
+vacancies shall be filled by new faculty members.
+Department Placement Officer Member Ex-officio
+02 student nominees*
+(01 girl student)
+Members 01 year from the date of their nomination or until
+they cease to be students of the Institute,
+whichever is earlier
+Faculty coordinator of final year Member Secretary
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 18
+=== PAGE 19 ===
+* Student nominees from 2nd and 3rd year B.Tech. programme to be nominated by the respective batches on the basis of
+their academic, co-curricular and extra-curricular performance.
+The student members of the Senate and all its sub-committees abstain from the meetings, when the matters pertaining to
+academic evaluation of one or more students, admissions, or other administrative matters are to be considered.
+Functions of DUGC
+(i) To review the conduct of all UG courses/programmes of UG level being run by the Department
+(ii) To ensure academic standard and excellence of the courses offered by the department
+(iii) To recommend the changes/modifications in the existing courses/curriculum, proposing and implementing new
+courses and programmes in consultation with DFB
+(iv) To allot Minor, project supervisors, electives, supervisor for research
+(v) To coordinate evaluation of projects, trainings
+(vi) To attend to students’ problems and mentoring, counselling them in academic matters
+(vii) Internal moderation of result before submission to Associate Dean Examination.
+(viii) To evaluate the overall academic performance of UG students, and take corrective steps
+The DUGC is fully responsible to the SUGC for its functions. DUGC considers and gives its opinion to the SUGC on
+such matters as may be referred to it. DUGC also deals with the academic matters raised by a UG student(s) and/ or a
+faculty member(s). It also advises the students in their academic programmes in general, with the focused advice being
+rendered by the Year Academic Counsellors.
+Back
+App
+Appendix-C: Components of Evaluation
+1. The evaluation of a theory course will be done in accordance with the following components:
+endi
+xD2
+Component Weightage Duration
+Internal Continuous Assessment 20% Throughout the semester
+Mid-Semester Examination* 30% 2 Hrs written test
+End-Semester Examination* 50% 3 Hrs written test
+2. The evaluation in a Lab-course will be decided in following component-wise weightage:
+Component Weightage Duration
+Internal Continuous Assessment 40% Throughout Semester
+Practical file 10% Throughout Semester
+End-Semester
+Examination
+Practical exam 25% 2 Hrs/each sub-group
+Viva-voce 25%
+3. The project evaluation will be done in following component-wise weightage:
+Component Weightage
+Internal Continuous Assessment By Project Guide 25%
+Mid-Semester review 25%
+End-Semester viva-voce examination 50%
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 19
+=== PAGE 20 ===
+4. For Industrial Training and Summer Internship, evaluation will be based on the assessment by the respective
+Industry (Profroma-1), report submitted by the student, and presentation and viva-voce examination by the
+assessment committee formulated by the Head of the Department.
+5. A student must secure minimum 30 % in End-Semester Examination and 40% cumulatively to clear any
+course.
+6. The Departments can evolve their own rubrics for the Mid-semester and End-semester evaluation of Project work.
+The marks may be distributed among various components like selection of topic, problem statement, literature
+review, methodology, oral and written presentation of the work done and performance in viva-voce examination.
+7. In case of the internal continuous assessment component, the course coordinators will have freedom to devise
+appropriate assessment or evaluation methods of their respective courses. The course coordinators may use the mix
+of quizzes, mini-projects, term paper, open-book tests, case studies or assignments or any other challenging and
+innovative exercise that they deem fit and relevant for the respective course. However, the assessment model of the
+course shall be approved by the DUGC of the department and shall be communicated to the students before the
+commencement of the course.
+8. Mid-semester and End-semester examinations will be coordinated by the Academic section for all the courses of
+different undergraduate programmes. The dates for both examinations will be notified in the institute Academic
+Calendar.
+9. The maximum percentage of students to be awarded ‘S’ grade in a course may be around 5%.
+10. The different components of assessment need to be mapped with Course Outcomes (COs) of respective courses.
+Back
+Appendix-D: Guidelines for Make-up Examination
+All such students who will not be able to appear in their Mid-semester examination on grounds of medical emergency/or
+any other special circumstances, can apply for the Make-up examination. The Make-up examination shall be held after
+the End-semester examination and shall cover full syllabus of the course. The dates for Make-up examination (03
+consecutive days) are to be notified in the Institute Academic Calendar. An additional fee as specified by the Institute
+shall be charged per course. Following are the guidelines for Make-up examination:
+1. A student can apply for Make-up examination only on grounds of medical emergency/or any other special
+circumstances.
+2. The student has to apply for Make-up exam to the HoD within 7 days after the end of Mid-semester examination. No
+application shall be entertained afterwards in any case.
+3. The students residing in the Hostels shall first report to the Institute Dispensary in case of any medical problem.
+4. The Medical Officer of the Institute should clearly specify the rest period permitted.
+5. Referral to other Hospitals shall be made by the Medical Officer of the Institute.
+6. The medical certificate to be produced for Make-up application shall have to be issued either from the Institute
+Dispensary or from a Government Hospital only, clearly mentioning the rest period.
+7. In case of any Competitive Examination/Interview/participation in any event, the student has to obtain prior approval
+before the commencement of the Mid-semester examination from the concerned HoD.
+Dates for online registration for Make-up examination shall be notified in the Academic Calendar. The students
+shall fill the courses details on the portal, after evaluation of cases, the HoDs will approve the registered
+candidates online, and the students shall pay the fee of the approved courses through the portal. The academic
+section shall circulate a list of all registered students for the conduct of Make-up exam.
+In case(s) of any ambiguity other than the above-mentioned guidelines, the matter shall be referred to Director by Dean
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in BackPage 20
+=== PAGE 21 ===
+Academic and the decision of the Director shall be final and binding.
+Appendix-E: Illustration of SGPA and CGPA Calculation
+An Example of SGPA & CGPA Calculations of a student is given below:
+Result of 1st Semester and corresponding Grade Points and Credits
+Course No Mathematics-I Applied Physics Program Core-1 Computer Programming English Communication and Report
+Writing
+English Communication Lab Applied Physics Lab Computer Programming Lab E 1 5
+Foundation Elective-1 C 1 7
+Grade
+Awarded
+21
+Course
+Credits
+Grade Points
+C 4 7
+D 4 6
+A 4 9
+B 3 8
+U 2 1
+S 1 10
+B 1 8
+The SGPA is calculated on the basis of grades obtained in all courses, registered for in the semester.
+Result of 2nd Semester and corresponding Grade Points and Credits
+Course No Grade
+Awarde
+d
+Course
+Credits
+Grade
+Points
+Mathematics-II C 4 7
+Applied Chemistry and
+Environmental Sciences
+D 3 6
+Problem Solving using Python A 2 9
+Program Core-2 B 4 8
+Management principles Indian
+Constitutional Values
+A 3 9
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 21
+=== PAGE 22 ===
+Applied Chemistry Lab U 1 1
+Python Lab B 1 8
+Product Realization through
+manufacturing Processes
+(workshop Training)
+FE-2* B 2 8
+C 1 7
+21
+The SGPA is calculated on the basis of grades obtained in all courses, registered for in the semester.
+The CGPA is calculated on the basis of all grades, obtained in all completed semesters.
+Back
+App
+endi
+xD2
+Appendix-F1: Guidelines for Summer Contact Course
+A Summer Contact course is conducted during the summer vacation (as notified in the Academic calendar). A Student
+can register for Summer Contact course if being offered by the respective department. The DUGCs of respective
+departments shall display the list of Summer Contact courses to be offered in a summer break before the commencement
+of the End-semester examination of the even semester.
+1. A student can register for course(s) as Summer Contact course(s) if he/she is awarded ‘L’/‘W’ grade in those
+course(s).
+2. Registration for Summer Contact courses is to be done as per schedule notified in the Academic Calendar
+through online institute ERP portal form.
+3. A fee as specified by the Institute is to be submitted by the students for registering in each Summer Contact course.
+4. The maximum number of courses that can be registered as Summer Contact Course in one summer break will be
+limited to 02 courses. However, students of the graduating batch whose academic programme is expected to be
+completed by the end of on-going semester (8th semester) may register for up to 03 courses.
+5. The total number of contact hours in any Summer Contact course will be the same as in the regular semester course
+(minimum 40). The assessment procedure for the Summer Contact course shall be same as that for a regular
+semester course.
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 22
+=== PAGE 23 ===
+6. The students during Summer Contact course shall be awarded one grade less than the actual grade obtained and the
+highest grade that a student can get through this option is ‘D’. However, an ‘E’ grade shall remain as ‘E’.
+7. For elective courses the student may take the same course or any other course from the same category.
+Summer Contact Course guidelines for the faculty:
+A faculty member can take maximum of 02 summer courses during summer vacations. Lab courses (maximum 02
+Labs) can be conducted during the summer vacations as a special case. Number of classes has to be the same as in
+the regular semester with a maximum of two contact hours for one course in a day (typically 40 classes). However,
+a teacher cannot engage more than 4 hours for Summer Contact Courses (Theory and Practical) for the students of
+‘L’ Grade.
+Back
+Appendix-F2: Guidelines for Supplementary Exam
+1. A student obtaining 'U' grade in a theory course may register for a supplementary exam in that course. The
+supplementary examination will be held within a duration starting after the ‘Display of grades’ after the
+regular end semester exams up to one week after the commencement of classes in the next semester.
+2. The maximum number of times a supplementary examination can be taken for each course is 02. If the student
+fails to clear the course in 02 supplementary chances, he / she will have to repeat the course as additional
+course with 75% attendance requirement.
+3. The grade will be decided only on the basis of the performance in this examination. However, attendance grade
+awarded in that course during the regular semester will be considered. The students opting for supplementary
+exam shall be awarded one grade less than the actual grade obtained and the highest grade that a student can get
+through this option is ‘D’. However, an ‘E’ grade shall remain as ‘E’.
+4. Registration for supplementary exam is to be done as per schedule notified in the Academic Calendar
+through institute ERP portal.
+5. A fee as specified by the Institute is to be submitted by the students for registering in each supplementary
+exam.
+Back
+App
+endi
+xF22
+Appendix-F3: Guidelines for Additional Course
+1. A student can register for course(s) as Additional course(s) during the regular semesters in addition to their
+prescribed curriculum courses, under following cases:
+a. Students awarded with ‘U’/‘L’/‘X’/‘W’ or ‘E’ grade in any course(s) can register for them as Additional
+course(s). However, such students cannot register for more than the prescribed limit of 32 credits.
+b. Students willing to earn additional credits outside their curriculum, provided, the course(s) is/are being
+offered therein. However, such students cannot register for credits more than the prescribed limit of 32
+credits.
+2. Registration for Additional courses is to be done along with the registration of regular semester courses
+through online institute ERP portal.
+3. A fee as prescribed by the Institute is to be submitted by the students for registering in each Additional course.
+4. The students with ‘U’/’E’ Grade will not be required to attend classes.
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 23
+=== PAGE 24 ===
+5. The students with ‘L’/‘X’/‘W’ Grade will have to attend classes and satisfy the attendance requirement.
+6. A course of Even/Odd semester can be carried as Additional course with the corresponding regular semester only
+i.e, Even semester courses can be opted in Even semester and Odd semester courses can be opted in Odd semester.
+7. There will be no change in the grade obtained by the student if appeared in regular semester examination as
+Additional course.
+8. The evaluation process for all registered students in Additional course shall be based on all the components of
+evaluation, i.e. continuous assessment, Mid-term examination and End-semester examination.
+9. For an elective course in which U/L/X/W grade has been obtained, the student may take the same course or any
+other course from the same category. However, students with ‘U’ grade will have to attend classes if the elective
+course is changed.
+10. The Additional course is an improvement chance for students with ‘E’ grade. The maximum number of courses that
+can be registered as additional courses for students with ‘E’ grade will be limited to 06 courses during his/her entire
+B.Tech programme.
+Back
+Appendix-G: Guidelines for B.Tech. with Minor
+Minor degree programmes are secondary areas of study that offers students to gain specialized knowledge and create
+opportunities in their career. This is a 4-year programme in which a student earns a Major degree in the discipline in
+which he/she is admitted, along with Minor in the emerging areas of the same discipline or in an area offered by other
+departments. A student who is keen to enhance his/her skill sets can opt for this scheme subject to fulfilling the
+eligibility criteria. All such B.Tech. students who have cleared all the courses of their Major and Minor within the
+stipulated duration shall be provided B.Tech. with Minor.
+The Minor is awarded to a student along with his/her Major discipline provided the student earns requisite additional 20
+credits of Minor.
+Each Department will offer Minor in their own discipline as well as Minor in emerging areas as shown below:
+1. Minor in General Engineering Discipline For the students of other
+engineering disciplines
+2. Minor in Emerging Areas of an Engineering
+Discipline
+For students of their own as well as
+other Engineering disciplines
+Programme Details
+Each Minor programme will have total 20 credits that will be duly approved by the department DUGC, and
+subsequently by the Institute Senate. The structure of these 20 credits will be as follows:
+ 3 Core Courses (09 credits) relevant to the Minor programme
+ 3 Elective Courses (09 credits) There should be a basket of Electives for each Minor. 03 Elective Courses are to be
+selected from the basket depending on the available faculty expertise.
+ 2 Lab Courses (02 credits) to be designed specifically for the Minor programme to give practical exposure to the
+students in the relevant area.
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 24
+=== PAGE 25 ===
+A department may offer multiple Minor programmes in different emerging areas depending on the facilities and faculty
+strength available.
+Semester Wise Course Allocation for Minor Degree
+Semester - III
+S. No. Course L T P Credits
+1. XXMI (Core-1) 3 0 0 3
+2. XXMI (Core-1 Lab) 0 0 2 1
+Semester - IV
+S. No. Course L T P Credits
+3. XXMI (Core-2) 3 0 0 3
+4. XXMI (Core-2 Lab) 0 0 2 1
+Semester - V
+S. No. Course L T P Credits
+5. XXMI (Elective-1) 3 0 0 3
+Semester - VI
+S. No. Course L T P Credits
+6. XXMI (Core-3) 3 0 0 3
+Semester - VII
+S. No. Course L T P Credits
+7. XXMI (Elective-2) 3 0 0 3
+Semester - VIII
+S. No. Course L T P Credits
+8. XXMI (Elective-3) 3 0 0 3
+Total 20
+(*Institute shall have a common slot in the time table for Minor Programme courses)
+ Application Process
+● The option for enrolment in Minor programme may be exercised by any student after the 2nd semester provided he/she
+has cleared 1st and 2nd semester without backlog. The last date of applying for additional programmes will be notified
+in the academic calendar.
+● The concerned department will invite applications after the declaration of 2nd semester result. List of courses being
+offered under each Minor will be displayed by all departments at the same time.
+● A student can apply with his/her preferential choice from all departments and multiple Minor programmes. No change
+will be permitted once the programme is allotted.
+● Before applying for any Minor, the students must ensure that there is no repetition of their Major courses in the core
+curriculum of the Minor they wish to apply for.
+● A student can apply for more than one Minor programmes, however, he/she can enroll in only one Minor Programme.
+● The number of students enrolled in a particular Minor programme of a department cannot be more than the sanctioned
+intake for Major degree of that department, i.e. If Department of Mechanical Engineering has a sanctioned intake of 90
+students in B.Tech. (Mechanical Engineering) in a batch, then the maximum number of students who can be enrolled
+for each Minor programme in Mechanical Engineering will be limited to 90 only.
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 25
+=== PAGE 26 ===
+● In case of number of applications for enrolment in a programme are higher than the number of seats available, allotment
+will be done on the basis of CGPA up to 2nd semester.
+● A list of shortlisted students will be released by the offering department latest by the commencement of registration of
+3rd semester.
+● Students shall register for Minor programme along with 3rd semester registration.
+● Additional fee will be applicable per semester for the registered students.
+● The DUGC may also suggest and offer some bridge courses (additional) to the deficient candidates.
+Back
+Appendix-H: Guidelines for B.Tech. with Research
+Each Department will offer B.Tech. with Research programme in emerging areas for the students of their own
+discipline.
+ Programme Details
+The B.Tech. with Research is awarded to a student along with his/her major discipline provided the student earns the
+requisite additional 10 credits. The credits will be awarded to enrolled students upon execution of a rigorous research
+project in his/her major area(s) of study, as specified by the offering department, with at least 01 SCI/Scopus
+journal/IPR publication. The DUGC will constitute an evaluation committee for assessing the performance and
+authenticity of the work done by the enrolled students. The evaluation committee shall comprise of the following
+members:
+Chairperson of DUGC Chairperson
+Associate Dean Academic-UG
+(or his/her nominee)
+Member
+Head of the Department Member
+Supervisor Member
+02 Senior Faculty Members of the Department Members
+The evaluation committee may also recommend awarding the requisite 10 credits to a student without publication
+provided he/she has made significant contribution in his/her project.
+ Application Process
+● The concerned department will invite applications after the declaration of 4th semester result.
+● The option for enrolment in B.Tech. with Research may be exercised by any student after the 4th semester provided
+he/she has secured 8.0 CGPA and above without any backlog. The last date of applying for additional programmes
+will be notified in the academic calendar.
+● A list of shortlisted students will be released by the offering department latest by the commencement of registration
+of 5th semester.
+● Additional fee will be applicable per semester for the registered students.
+● The DUCG will allot one faculty mentor to each enrolled student for supervision considering their interest and
+performance in preceding semesters.
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 26
+=== PAGE 27 ===
+● The DUGC may also suggest and offer some bridge courses (additional) to the deficient candidates for executing
+the research work.
+Back
+ack
+Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 27

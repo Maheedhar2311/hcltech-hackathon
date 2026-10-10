@@ -1,0 +1,17 @@
+You are generating SYNTHETIC test data for a university student-services demo. The data is fictional and must not describe any real person.
+
+Create one fictional student record as JSON.
+
+Rules:
+1. full_name: a fictional full name. Do not use the name of any real person, public figure, or anyone you know. Do not use any of these names, which are already taken: {used_names}
+2. cgpa: a number between 6.00 and 9.50 with at most two decimal places.
+3. courses: exactly {course_count} entries, in this order, for these course codes: {course_codes}
+   - course_code: copy the code exactly as given for that position.
+   - classes_held: a whole number between 36 and 44.
+   - classes_attended: a whole number from 0 up to classes_held. Choose a value between 0.80 and 1.00 of classes_held.
+   - internal_marks: a whole number between 12 and 30.
+   - external_marks: a whole number between 25 and 70.
+4. Do not add any fields other than those in the schema.
+5. Output only the JSON object.
+
+Student context (for realism only): programme {programme}, admission batch {batch_year}.

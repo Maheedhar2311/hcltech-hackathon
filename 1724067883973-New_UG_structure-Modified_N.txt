@@ -1,0 +1,581 @@
+PAGES: 13
+=== PAGE 1 ===
+Annexure-1
+Revised
+UNDERGRADUATE PROGRAMME
+STRUCTURE
+With NEP Implementation
+Dr B R AMBEDKAR
+NATIONAL INSTITUTE OF TECHNOLOGY JALANDHAR - 144008
+(An Institute of National Importance)
+2023
+=== PAGE 2 ===
+Annexure-1
+Introduction
+This following draft guidelines are being presented in order to implement National Education Policy
+(NEP) 2020 in an effective manner, taking into consideration various factors, such as flexible
+curriculum, more stress on electives. This document is a draft of the revised curriculum of
+Undergraduate programme to be implemented at Dr B R Ambedkar National Institute of Technology
+Jalandhar (NITJ), with a perspective to execute the NEP 2020 in a phased manner.
+Identified NEP areas and their proposed implementation at NITJ
+The NEP 2020 envisions a complete overhaul and re-energizing of the higher education system. The
+policy’s vision includes the following major changes to the current system. Following NEP areas have
+been identified for initial implementation at NITJ:
+NEP Recommendations Corresponding courses added in new Undergraduate curriculum of
+NIT Jalandhar
+ Holistic education with
+more arts and humanities
+ Value Added Courses
+(Credit Based Courses)
+ Management Principles and Indian
+Constitutional Values
+ Environmental Sciences and lab
+Foundation Courses (1st year)
+Foundation Electives of 01 credit each (1st
+, 2nd and 4th semesters)
+ FE-1 (Community Service Engagement)
+ FE-2 (Cultural Clubs, Sports and languages)
+ FE-3 (Value education, Ethics, and Stress management)
+ Multidisciplinary education
+ Flexibility of courses and
+programs
+Students shall have freedom to choose electives from Department Electives/
+Generic Electives from other engineering departments and Science departments
+of NITJ/ NPTEL, MOOCs platforms. Students may also opt for Generic
+Electives in other streams such as languages, arts, music, literature etc. within
+defined framework of the Institute.
+In addition to Regular B.Tech. Degree, students shall have additional choices:
+ B.Tech. with Minor
+ B.Tech. with Research
+ Branch change option after 1st year (Based on CGPA after 1st year)
+Skill Enhancement Courses
+(Practical, Hands on Training)
+Product Realization through Manufacturing Processes (Workshop
+Practice)
+ Computer Programming
+Foundation Courses (1st year)
+ Problem Solving with Python
+Internships  Mandatory Summer Internships
+○ 3-to-4 weeks Industrial Training after 4th semester
+(Other Educational or Research Institute of Repute/Industry/Parent
+Institute)
+○ 4-to-6 weeks Industrial Training after 6th semester
+(Other Educational or Research Institute /Industry/Parent Institute)
+ Optional 6 months Industry Internship
+[Students can avail only once in 7th/8th semester (50% students allowed in
+each semester)]
+Offer multiple entry and exit
+points
+ Specific exit points at
+o UG Certificate in Engineering stream
+o UG Diploma in Engineering stream
+ Students allowed to leave the programme at any time and re-enter within three
+years to complete the degree
+ Non- Degree Students (sponsored by other Institutes to complete a part of their
+academic programme at NIT Jalandhar)
+=== PAGE 3 ===
+Annexure-1
+Faculty and institutional
+autonomy
+Component Weightage
+Internal Continuous Assessment 20%
+Mid-Semester Examination 30%
+End-Semester Examination 50%
+ Course coordinators will have freedom to devise appropriate
+assessment/evaluation methods for internal continuous assessment. Course
+coordinators may use mix of quizzes, mini-projects, term paper, open-book
+tests, case studies or assignments or any other challenging and innovative
+exercise that they deem fit and relevant for the respective course.
+ Different components of assessment need to be mapped with Course Outcomes
+(COs) of respective courses.
+ The contents of the common first year courses shall be designed by the
+department offering the course in consultation with all the other
+engineering departments.
+ Every department shall ensure periodic revision of curriculum every 2 years to
+align it with the technological advancements keeping in view the national and
+societal needs.
+Academic Bank of Credits
+(ABC) Implementation
+The Institute has registered for Academic Bank of Credits (ABC) portal.
+Accounts for 2021 and 2022 batches have been created on the Portal
+Institute is in the process of uploading Academic data of these 2 batches
+Institute is following guidelines issued by the MoE Govt. of India from time to
+time.
+=== PAGE 4 ===
+Annexure-1
+B.Tech. Programme Curriculum Restructuring
+Basic Structure
+All the courses shall have well defined course outcomes (COs). Courses shall be of following categories:
+ FC-Foundation Course
+ FE-Foundation Elective
+ Training
+ Project
+ DC-Department Core
+o Theory and Laboratory Courses
+ Elective
+o DE-Department Elective (Elective offered by parent department)
+o GE-Generic Elective (Department Elective offered by other Engineering departments/Electives
+offered by Science and Management Departments)
+o Students can opt for any elective course of any programme offered by other
+engineering/science/management departments during their DE/GE slots towards the completion of
+02 Generic Elective courses.
+ MI-Minor Course
+Internship/Training/Industrial Lecture
+ Orientation and Induction Programme in 1st semester (First 2 weeks after admission)
+ Mandatory Summer Internships
+○ 3-to-4 weeks Industrial Training after 4th semester
+(Other Educational or Research Institute of Repute/Industry/Parent Institute)
+○ 4-to-6 weeks Industrial Training after 6th semester
+(Other Educational or Research Institute of Repute/Industry/Parent Institute)
+ Optional 6 months Industry Internship
+[Students can avail only once in 7th/8th semester (50% students allowed in each semester)]
+ Industrial Lecture during Third and Final Years*
+[(Non-Credit)]
+* Department should organize Industrial Lectures (minimum 04) during Third and Final years
+Revised Undergraduate Programme with NEP Implementation 4 | P a g e
+=== PAGE 5 ===
+Annexure-1
+Revised B.Tech. Programme Scheme
+1st year students have been grouped as Group-A and Group-B on the basis of sanctioned strengths in
+different disciplines. The schemes for Group-A and Group-B are different in the 1st semester and are
+swapped in the 2nd semester.
+First Year (Group-A)
+Semester - I
+S. No. Course
+Subject L T P Credits Contact
+Code
+Hours
+1. MAFC0101 Mathematics-I 3 1 0 4 4
+2. XXFC0101 Foundation Course-1 from Pool# 3 0 0 3 3
+3. XXDC0101 Department Core-1 3 1 0 4 4
+4. CSFC0101 Computer Programming 3 0 0 3 3
+5. HMFC0101 English Communication and
+Report Writing
+2 0 0 2 2
+6. IDFC0101 Environmental Sciences 3 0 0 3 3
+7. XXFC0131 Lab of same Foundation Course
+0 0 2 1 2
+from Pool#
+8. CSFC0131 Computer Programming Lab 0 0 2 1 2
+9. HMFC0131 English Communication Lab 0 0 2 1 2
+10. IDFC0131 Environmental Sciences Lab 0 0 2 1 2
+11. PDFE01XX Foundation Elective-1* - 1 3
+Total 24 30
+Semester - II
+S. No. Subject L T P Credits Contact
+Hours
+1. MAFC0102 Mathematics-II 3 1 0 4 4
+2. XXFC0102 Foundation Course-2 from Pool# 3 0 0 3 3
+3. ITFC0101 Problem Solving using Python 2 0 0 2 2
+4. XXDC0102 Department Core-2 3 1 0 4 4
+5. HMFC0102 Management Principles and Indian
+Constitutional Values
+3 0 0 3 3
+6. XXFC0132 Lab of same Foundation Course
+0 0 2 1 2
+from Pool#
+7. ITFC0131 Python Lab 0 0 2 1 2
+8. WPFC0131 Product Realization through
+Manufacturing Processes
+(Workshop Practice)
+0 0 4 2 4
+9. PDFE01XX Foundation Elective-2* - 1 3
+Total 21 27
+# There is a common pool of Foundation courses offered by all Sciences, and Engineering
+departments. Each engineering department opts for 02 foundation courses along with their
+laboratory courses offered by other departments for the students of their discipline. The detailed
+schemes along with curriculum of all B.Tech programs are available at NITJ website under the
+respective engineering department link.
+* Foundation Elective-1 & 2 (FE-1 & FE-2) Guidelines
+ Students can select FE-1 and FE-2 from the corresponding pool of FEs. The faculty coordinators
+of the corresponding FE will certify the completion of 30 hrs in respective activity.
+ Slots for these activities may be outside the working hours of the institute also.
+ There should be minimum 25 students to run one FE.
+Revised Undergraduate Programme with NEP Implementation 5 | P a g e
+=== PAGE 6 ===
+Annexure-1
+ Load of 02 hrs shall be considered towards the total teaching load of the respective Faculty
+coordinator.
+ Students opting for engagement with communities/NGOs outside NITJ (under FE-1) will require
+prior approval from the Faculty coordinator of NSS, specifying the details of the organization.
+Certificates regarding completion of 30 hrs issued by the concerned communities/NGOs may
+then be considered. There is no bar on mi nimum number of students in this case only.
+ Evaluation will be done by the respective faculty coordinator based on the continuous evaluation
+and/or any other evaluation instrument suitable to the course.
+List of Foundation Electives (01 Credit Course)
+S.
+No
+.
+Codes FE-1
+(Community
+Service
+Engagement)
+Codes
+FE-2
+(All Cultural Clubs, Sports
+and Languages)
+Codes FE-3
+(Value Education,
+Ethics and Stress
+Management)
+1. PDFE0101 NCC PDFE0111 Music Club PDFE0201 Information Security
+2. PDFE0102 NSS PDFE0112 Dance Club PDFE0202 Professional Ethics
+3. PDFE0103 PDFE0113 4. PDFE0104 5.
+6. 7. Community
+Service
+Engagement
+with – Clubs
+of NITJ/
+Outside
+NGO#
+Social Works and
+Rural Activity
+Club
+PDFE0117 Dramatics Club PDFE0203 Organizational
+Behavior
+PDFE0114 Literary and Debating Club PDFE0204 Stress Management
+- PDFE0115 Yoga and Meditation Club PDFE0205 Ethical Decision
+Making
+- PDFE0116 Photography & Movie Club -
+Fine Art Society
+8. PDFE0118 Website Developing
+Management Club
+9. PDFE0119 Sports (NSO)
+10.
+- PDFE0120 Sanskrit/French/ & other
+Languages
+-
+11 PDFE0121 Finance Society-FinNEST
+# Students opting for engagement with communities/NGOs outside NITJ will require prior approval
+from the faculty coordinator of NSS, specifying the details of the organization. Certificates
+regarding completion of 30 hrs issued by the concerned communities/NGOs may then be considered
+for issuing the requisite credit. There is no bar on the minimum number of students in this case only.
+Revised Undergraduate Programme with NEP Implementation 6 | P a g e
+=== PAGE 7 ===
+Annexure-1
+First Year (Group-B)
+Semester - I
+S. No. Course Code Subject L T P Credits Contact
+Hours
+1. MAFC0102 Mathematics-II 3 1 0 4 4
+2. XXFC0101 Foundation Course-1 from Pool 3 0 0 3 3
+3. ITFC0101 Problem Solving using Python 2 0 0 2 2
+4. XXDC0101 Department Core-1 3 1 0 4 4
+5. HMFC0102 Management principles Indian
+Constitutional Values
+3 0 0 3 3
+6. XXFC0131 Lab of same Foundation Course from
+0 0 2 1 2
+Pool
+7. ITFC0131 Python Lab 0 0 2 1 2
+8. WPFC0131 Product Realization through
+Manufacturing Processes (Workshop
+Practice)
+0 0 4 2 4
+9. PDFE01XX Foundation Elective-2*
+- 1 3
+Total 21 27
+Semester - II
+S. No. Subject L T P Credits Contact
+Hours
+1. MAFC0101 Mathematics-I 3 1 0 4 4
+2. XXFC0102 Foundation Course-2 from Pool# 3 0 0 3 3
+3. XXDC0102 Department Core-2 3 1 0 4 4
+4. CSFC0101 Computer Programming 3 0 0 3 3
+5. HMFC0101 English Communication and Report
+Writing
+2 0 0 2 2
+6. IDFC0101 Environmental Sciences 3 0 0 3 3
+7. XXFC132 Lab of same Foundation Course from
+Pool#
+0 0 2 1 2
+8. CSFC0131 Computer Programming Lab 0 0 2 1 2
+9. HMFC0131 English Communication Lab 0 0 2 1 2
+10. IDFC0131 Environmental Sciences Lab 0 0 2 1 2
+11. PDFE01XX Foundation Elective-1*
+- 1 3
+Total 24 30
+Revised Undergraduate Programme with NEP Implementation 7 | P a g e
+=== PAGE 8 ===
+Annexure-1
+Group-A (CSE, ECE, IT, DS, BT, EE, VLSI)
+Group-B (ME, CE, CH, IPE, TT, ICE)
+Revised Undergraduate Programme with NEP Implementation 8 | P a g e
+=== PAGE 9 ===
+Annexure-1
+Curricula structure of Second and Third years may be designed by the Engineering
+departments offering Undergraduate programmes within the framework defined
+below.
+Subject Semester L T P Credits
+Mathematics-III/Department Core1 3rd 3/- 1 0 4
+FE-3 4th 2 0 0 1
+Department Elective-1/Generic
+Elective-1
+5th 3 0 0 3
+Industrial training (After 4th
+Semester)
+- - - - 2
+Department Elective-2/Generic
+Elective-2
+6th 3 0 0 3
+Project-1 (Phase-I) 5th 0 0 4 2
+Project-1 (Phase-II) 6th 0 0 4 2
+Total 13* - 17**
+1 Programme Specific Mathematics courses designed as per the requirement of Engineering departments in the 3rd
+semester/ Department Core can be added in this slot by the engineering departments as per disciple
+requirement.
+*For Engineering Departments opting for Mathematics-III
+** For Engineering Departments opting for Department Core in this slot
+Semester wise Credit (Course) Distribution
+Semester Credits
+1st and 2nd 24+21= 45
+7th and 8th 16+13= 29
+Fixed credits for 2nd and 3rd years 13 to 17
+Departments can design their scheme for 2nd and 3rd
+year within remaining credits 73 to 77
+Each Engineering department must have 16 Theory courses (Min) and 06 Lab courses (Min)
+ Maximum 05 DCs may by designed by all Engineering Departments to be taught by
+Sciences/Humanities/other Engineering Departments depending upon Programme specific
+requirement.
+ All Science Departments and Humanities & Management Department shall offer elective courses
+corresponding to all 08 DE/GE slots
+* FE-3 Guidelines
+ One FE-3 of 4th semester will be offered by each department of the Institute.
+ Student can select FE-3 from the list of offered courses.
+ There would be a common slot in the Institute time-table for FE-3 of 4th semester.
+ Evaluation will be done by the respective faculty coordinator based on the continuous evaluation and/or
+any other evaluation instrument suitable to the course along with the fulfillment of 75% attendance
+criterion.
+Revised Undergraduate Programme with NEP Implementation 9 | P a g e
+=== PAGE 10 ===
+Annexure-1
+Fourth Year
+Semester - VII
+S. No. Subject L T P Credits Contact Hours
+1. Department Elective-3/ Generic Elective* 3 0 0 3 3
+2. Department Elective-4/ Generic Elective* 3 0 0 3 3
+3. Department Elective-5/ Generic Elective* 3 0 0 3 3
+4. Industrial Training (After 6th Sem.) - - - 3 -
+5. Project-21 0 0 8 4 8
+Total 16 17
+Semester - VIII
+S. No. Subject L T P Credits Contact
+Hours
+1. Department Elective-6/ Generic Elective* 3 0 0 3 3
+2. Department Elective-7/ Generic Elective* 3 0 0 3 3
+3. Department Elective-8/ Generic Elective* 3 0 0 3 3
+5. Project-22 0 0 8 4 8
+Total 13 17
+* Institute shall have a common slot in the time table for DE/GE courses
+Guidelines for DE/GE
+Students have to complete 08 electives towards completion of B.Tech. Programme, with following
+requirements:
+Out of 08 Electives-
+ At least 04 DE (from respective department)
+ At least 02 GE (DE offered by all other Engineering/Sciences/Management departments)
+ Remaining 02 electives to be opted from DE/GE. A student is also allowed to pursue a maximum of
+02 generic elective courses in online mode through Massive Open Online Courses (MOOC)
+platforms like NPTEL, Swayam, and other similar reputed platforms provided the same courses are
+not being offered in the institute. The student will have the option to pick these courses from
+Engineering, Sciences, Management, Humanities, History, Music, Art, Philosophy, Finance,
+Psychology etc., However, prior approval from respective DUGC is required for all such courses.
+The courses to be opted through MOOC platforms should meet either of the following criteria:
+ Credits – Minimum 3 credits
+ Duration – Minimum 8 weeks
+ Contact hours – Minimum 32 hrs
+The result of the candidate in respective online course would be mapped to an appropriate letter grade as
+per the norms of the institute. Further, the letter grade awarded by the respective MOOCS course will be
+considered as such. Absolute marks/percentage will be converted into appropriate letter grade using
+absolute grading criterion if letter grade not awarded by the respective MOOCs courses. Further, the
+students who will pursue GE in online mode through MOOCs platform will be required to obtain a Pass
+Certificate for that particular course from the concerned MOOCs platform. The credits earned through
+online courses will be counted towards major degree.
+Revised Undergraduate Programme with NEP Implementation 10 | P a g e
+=== PAGE 11 ===
+Annexure-1
+However, students pursuing 6-months internship during their 7th semester/8th semester have to complete
+05 electives towards completion of B.Tech. programme, with following requirements:
+Out of 05 Electives-
+ 03 DE (from respective department)
+ 02 GE (DE offered by all other Engineering/Sciences/Management departments)
+The provision for maximum 02 generic elective courses in online mode through MOOC platforms as
+mentioned above are also applicable for these students
+6-Months Internship
+The Institute facilitates the students to pursue 6-months Internship during their 7th/8th semester (2023
+batch onwards) subject to fulfilling the Institute guidelines. The purpose of providing this opportunity to
+the students is to enhance their practical exposure and skill-sets in the relevant stream and eventually
+their employability.
+However, a maximum of 50% Students from the total class size will be allowed to avail the Internship in
+a given semester.
+ The students can opt for this internship opportunity either in the 7th or in the 8th semester provided
+they do not have more than three backlogs in the preceding semesters.
+ The Institute allows On-campus Internships for 6-months/1 semester duration to the 7th/ 8th semester
+students. To facilitate this proposal, the TPO shall initiate the on-campus placement drive in the
+mid of the 6th semester.
+ Institute also allows Off-campus Internships at reputed research organizations e.g., ISRO, DRDO
+etc., PSUs, and at Academic Institutes of repute.
+ Course/project waiver of 13 Credits will be provided to a student in lieu of Internship in the 7th/8th
+semester.
+ No student will be allowed to apply to the respective department/TPO for Internship through
+Off-campus mode after the last date of End-semester examination of 6th/7th Semester.
+ If a student arranges off-campus 6-months Internship with some private company/industry, the same
+has to be approved by Internship Advisory Committee (IAC) keeping in view whether the company
+profile and intern role are aligned with the domain of the respective department and Internship
+objectives.
+Each department has an Internship Advisory Committee (IAC) appointed by the DUGC and comprising:
+One senior faculty member as Chairperson, HoD, Final year faculty coordinator, and 01 faculty member
+nominated by the DUGC, as members. The role of IAC would be as follows:
+ Evaluate the Internship Notification Form received from the company and make a decision on
+approving the internship.
+ Approving off-campus internships keeping in view whether the company profile and intern role are
+aligned with the domain of the respective department and Internship objectives
+ Evaluation and grading of the students pursuing internship as per the following guidelines:
+Marks to be Awarded by Industry Guide
+Evaluation of
+progress
+(MM-15)
+Sr.
+No
+Evaluation
+Month
+Marks for Punctuality,
+work commitment and
+innovation
+(MM-10)
+Total
+Marks
+(MM-25)
+Attendance
+Grade
+(HH/HL/LH
+/LL)
+1
+Average total marks (25)
+Revised Undergraduate Programme with NEP Implementation 11 | P a g e
+=== PAGE 12 ===
+Annexure-1
+Marks to be Awarded by Institute Guide
+Sr. No. Evaluation
+of Daily
+(soft copy)
+(MM-10)
+Evaluation of progress
+through Oral Presentation
+(MM-15)
+Total Marks
+(MM-25)
+1st Evaluation
+2nd Evaluation
+Average total marks (25)
+Marks to be Awarded by Departmental Evaluation Committee
+Sr.
+No
+Name Roll
+No.
+Name of
+Industry
+Continues
+performance
+evaluation (50)
+End semester
+evaluation (50)
+Total
+Marks
+(100)
+Gra de Atten
+dance
+Marks
+Awarded
+by Internal
+Guide
+(MM25)
+Marks
+Awarded
+by
+Industry
+Guide
+(MM25)
+Abstract
+& Final
+Project
+Report
+(MM20)
+Present
+ation
+&Viva
+Voce
+(MM30)
+% Gra
+de
+1
+The students pursuing 6-months Internship during their 7th/8th semester will have to fulfill the following
+credit requirements in order to complete the requirements of their B.Tech. programme.
+VII Semester VIII Semester
+Students pursuing Internship Students pursuing Internship
+Internship credits- 13
+4-to-6 weeks Industrial Training (After 6th Sem.)- 3
+Internship credits- 13
+Total Credits= 16 Total Credits= 13
+Remaining Students on campus Remaining Students on campus
+03 courses= 09 credits
+4-to-6 weeks Industrial Training (After 6th Sem.)- 3
+Project-21
+- 4
+03 courses= 09 credits
+Project-22
+- 4
+Total Credit= 16 Total Credit= 13
+Flexibility in Evaluation System
+The list of courses to be offered by a department in the subsequent semester is to be finalized during the
+running semester by the concerned DUGC. All the requirements of the course structure are to be
+considered before deciding the courses to be offered in a regular semester. The different components of
+assessment for each offered course need to be mapped with Course Outcomes (COs) of respective
+courses. The assessment model of each course shall be approved by the DUGC of the department and
+shall be communicated to the students before the commencement of the course.
+The evaluation in a theory course will be decided in following component-wise weightage:
+Revised Undergraduate Programme with NEP Implementation 12 | P a g e
+=== PAGE 13 ===
+Annexure-1
+Component Weightage Duration
+Internal Continuous Assessment 20% Throughout Semester
+Mid-Semester Examination 30% 2 Hrs
+End-Semester Examination* 50% 3 Hrs
+The evaluation in a Laboratory course will be decided in following component-wise weightage:
+Component Weightage Duration
+Internal Continuous Assessment 40% Throughout Semester
+Practical file 10% Throughout Semester
+End-Semester
+Examination
+Practical exam 25% 2 Hrs/each sub-group
+Viva-voce 25%
+The project evaluation will be done in following component-wise weightage:
+Component Weightage
+Internal Continuous Assessment By Project Guide 25%
+Mid-Semester review 25%
+End-Semester viva-voce examination 50%
+1. For Industrial Training and Summer Internship, evaluation will be based on the assessment by the
+respective Industry (Profroma-1), report submitted by the student, and presentation and viva-voce
+examination by the assessment committee formulated by the Head of the Department.
+2. A student must secure minimum 30 % in End-Semester Examination and 40% cumulatively to clear
+any course.
+3. The Departments can evolve their own rubrics for the Mid-semester and End-semester evaluation of
+Project work. The marks may be distributed among various components like selection of topic, problem
+statement, literature review, methodology, oral and written presentation of the work done and performance
+in viva-voce examination.
+4. In case of the internal continuous assessment component, the course coordinators will have freedom to
+devise appropriate assessment or evaluation methods of their respective courses. The course coordinators
+may use the mix of quizzes, mini-projects, term paper, open-book tests, case studies or assignments or any
+other challenging and innovative exercise that they deem fit and relevant for the respective course.
+However, the assessment model of the course shall be approved by the DUGC of the department and shall
+be communicated to the students before the commencement of the course.
+5. Mid-semester and End-semester examinations will be coordinated by the Academic section for all the
+courses of different undergraduate programmes. The dates for both examinations will be notified in the
+institute Academic Calendar.
+6. The maximum percentage of students to be awarded ‘S’ grade in a course may be around 5%.
+7. The different components of assessment need to be mapped with Course Outcomes (COs) of respective
+courses.
+Every department shall ensure periodic revision of curriculum every 2 years to align it with the
+technological advancements keeping in view the national and societal needs. Further, 10-20% of course
+coverage may be delivered by Industry personnel in either online or offline mode.
+*****
+Revised Undergraduate Programme with NEP Implementation 13 | P a g e

@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-10-10T09:33:22.336920+00:00",
+  "method": "deterministic fallback (seeded random, fixed names). NOT LLM-generated.",
+  "model": null,
+  "seed": 2026,
+  "students": 32,
+  "edge_cases": {
+    "S1001": [
+      "attendance exactly 75% (30 of 40)"
+    ],
+    "S1002": [
+      "attendance one class below 75% (29 of 40 = 72.5%)"
+    ],
+    "S1003": [
+      "total 39, just below pass mark 40"
+    ],
+    "S1004": [
+      "absent from end-semester exam"
+    ],
+    "S1005": [
+      "detained: attendance 62.5% in two courses"
+    ],
+    "S1006": [
+      "several backlogs: three failed courses"
+    ],
+    "S1007": [
+      "CGPA exactly 7.50 (change-of-discipline cut-off, R15.2)"
+    ],
+    "S1008": [
+      "two supplementary attempts, both failed (R14.2 II limit)"
+    ],
+    "S1009": [
+      "total 45 but end-semester 15 of 70 (below 30%, R13.3)"
+    ],
+    "S1021": [
+      "total exactly 40 with end-semester at 30% (boundary pass)"
+    ]
+  },
+  "validator_skipped_checks": []
+}

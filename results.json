@@ -1,0 +1,528 @@
+{
+  "summary": {
+    "n_questions": 26,
+    "answer_type_accuracy": 0.808,
+    "answer_content_accuracy": 0.615,
+    "citation_accuracy": 0.467,
+    "abstention_accuracy_unanswerable": 0.75,
+    "false_abstention_answerable": 0.045,
+    "retrieval_hit_rate": 0.533,
+    "latency_p50_s": 9.863,
+    "latency_p95_s": 20.699,
+    "llm_calls_per_question": 1.5,
+    "tokens_per_question": 260.6,
+    "by_group": {
+      "policy": {
+        "n": 8,
+        "type_accuracy": 0.625,
+        "content_accuracy": 0.25
+      },
+      "version": {
+        "n": 3,
+        "type_accuracy": 1.0,
+        "content_accuracy": 0.333
+      },
+      "unanswerable": {
+        "n": 4,
+        "type_accuracy": 0.75,
+        "content_accuracy": 0.75
+      },
+      "personal": {
+        "n": 5,
+        "type_accuracy": 1.0,
+        "content_accuracy": 1.0
+      },
+      "cross_student": {
+        "n": 3,
+        "type_accuracy": 1.0,
+        "content_accuracy": 1.0
+      },
+      "multi_step": {
+        "n": 2,
+        "type_accuracy": 1.0,
+        "content_accuracy": 0.5
+      },
+      "ambiguous": {
+        "n": 1,
+        "type_accuracy": 0.0,
+        "content_accuracy": 1.0
+      }
+    }
+  },
+  "results": [
+    {
+      "id": "E01",
+      "group": "policy",
+      "question": "What is the minimum end-semester examination marks needed to be awarded grade E or above?",
+      "answer_type": "retrieved_fact",
+      "expect_type": "retrieved_fact",
+      "answer": "Under Ordinances and Regulations for Undergraduate Programme 2023 (rev. 24 Jan 2024), clause R5.1: Refer to clause R5.1 R13.2 A student is considered to have completed a course successfully and earned the corresponding defined credits if he/she secures a letter grade other than U/I/L/X/W in that course. R13.3 For awarding any grade (E and above) the student should score at least 30% marks in the ",
+      "citations": [
+        "NITJ-UG-REG-2023 R5.1"
+      ],
+      "latency_s": 16.321,
+      "llm_calls": 2,
+      "tokens": 486,
+      "retrieval_hit": true,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": true
+    },
+    {
+      "id": "E02",
+      "group": "policy",
+      "question": "What is the minimum attendance requirement for female students to appear in the examinations?",
+      "answer_type": "refused",
+      "expect_type": "retrieved_fact",
+      "answer": "I need your student ID to answer questions about your own record.",
+      "citations": [],
+      "latency_s": 3.508,
+      "llm_calls": 1,
+      "tokens": 117,
+      "retrieval_hit": false,
+      "fallbacks": [],
+      "type_ok": false,
+      "content_ok": false,
+      "cite_ok": false
+    },
+    {
+      "id": "E03",
+      "group": "policy",
+      "question": "What is the maximum number of supplementary examination attempts for a course?",
+      "answer_type": "retrieved_fact",
+      "expect_type": "retrieved_fact",
+      "answer": "Under Ordinances and Regulations for Undergraduate Programme 2023 (rev. 24 Jan 2024), clause p1: grade in a theory course may register for a supplementary exam in that course. The supplementary examination will be held within a duration starting after the \u2018Display of grades\u2019 after the regular end semester exams up to one week after the commencement of classes in the next semester. II. The maxim",
+      "citations": [
+        "NITJ-UG-REG-2023 p1"
+      ],
+      "latency_s": 16.301,
+      "llm_calls": 2,
+      "tokens": 401,
+      "retrieval_hit": true,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": true
+    },
+    {
+      "id": "E04",
+      "group": "policy",
+      "question": "When is the end-semester examination in the odd semester of 2026?",
+      "answer_type": "retrieved_fact",
+      "expect_type": "retrieved_fact",
+      "answer": "Under Ordinances and Regulations for Undergraduate Programme 2023 (rev. 24 Jan 2024), clause p1: the students for registering in each Additional course. 4. The students with \u2018U\u2019/\u2019E\u2019 Grade will not be required to attend classes. Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 23 === PAGE 24 === 5. The students with \u2018L\u2019/\u2018X\u2019/\u2018W\u2019 Grade will have to attend classes and satisfy",
+      "citations": [
+        "NITJ-UG-REG-2023 p1"
+      ],
+      "latency_s": 46.015,
+      "llm_calls": 2,
+      "tokens": 468,
+      "retrieval_hit": true,
+      "fallbacks": [
+        "explanation: template (number not in facts)"
+      ],
+      "type_ok": true,
+      "content_ok": false,
+      "cite_ok": false
+    },
+    {
+      "id": "E05",
+      "group": "policy",
+      "question": "When does registration for the supplementary examinations start in the 2026 odd semester calendar?",
+      "answer_type": "retrieved_fact",
+      "expect_type": "retrieved_fact",
+      "answer": "Under Ordinances and Regulations for Undergraduate Programme 2023 (rev. 24 Jan 2024), clause p1: chances, he / she will have to repeat the course as additional course with 75% attendance requirement. 3. The grade will be decided only on the basis of the performance in this examination. However, attendance grade awarded in that course during the regular semester will be considered. The students ",
+      "citations": [
+        "NITJ-UG-REG-2023 p1"
+      ],
+      "latency_s": 15.066,
+      "llm_calls": 2,
+      "tokens": 442,
+      "retrieval_hit": true,
+      "fallbacks": [
+        "explanation: template (number not in facts)"
+      ],
+      "type_ok": true,
+      "content_ok": false,
+      "cite_ok": false
+    },
+    {
+      "id": "E06",
+      "group": "policy",
+      "question": "What items are students not allowed to carry into the mid-semester examination centre?",
+      "answer_type": "retrieved_fact",
+      "expect_type": "retrieved_fact",
+      "answer": "Under Ordinances and Regulations for Undergraduate Programme 2023 (rev. 24 Jan 2024), clause p1: the students for registering in each Additional course. 4. The students with \u2018U\u2019/\u2019E\u2019 Grade will not be required to attend classes. Regulations for Undergraduate Programme 2023 | Website: nitj.ac.in Page 23 === PAGE 24 === 5. The students with \u2018L\u2019/\u2018X\u2019/\u2018W\u2019 Grade will have to attend classes and satisfy",
+      "citations": [
+        "NITJ-UG-REG-2023 p1"
+      ],
+      "latency_s": 15.056,
+      "llm_calls": 2,
+      "tokens": 441,
+      "retrieval_hit": true,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": false,
+      "cite_ok": false
+    },
+    {
+      "id": "E07",
+      "group": "policy",
+      "question": "What CGPA is needed for a change of discipline for General category students?",
+      "answer_type": "refused",
+      "expect_type": "retrieved_fact",
+      "answer": "I need your student ID to answer questions about your own record.",
+      "citations": [],
+      "latency_s": 3.64,
+      "llm_calls": 1,
+      "tokens": 117,
+      "retrieval_hit": false,
+      "fallbacks": [],
+      "type_ok": false,
+      "content_ok": false,
+      "cite_ok": false
+    },
+    {
+      "id": "E08",
+      "group": "policy",
+      "question": "What are the grade points for grade S and grade A?",
+      "answer_type": "clarification_needed",
+      "expect_type": "retrieved_fact",
+      "answer": "Could you say which rule, course or procedure you mean?",
+      "citations": [],
+      "latency_s": 2.913,
+      "llm_calls": 1,
+      "tokens": 111,
+      "retrieval_hit": false,
+      "fallbacks": [],
+      "type_ok": false,
+      "content_ok": false,
+      "cite_ok": false
+    },
+    {
+      "id": "V01",
+      "group": "version",
+      "question": "What is the minimum attendance required to appear in the end-semester examination?",
+      "answer_type": "retrieved_fact",
+      "expect_type": "retrieved_fact",
+      "answer": "Under Ordinances and Regulations for Undergraduate Programme 2023 (rev. 24 Jan 2024), clause R8.4: indicated in the Detailed Mark-sheet as attendance grade in terms of code letters as follows: Attendance rounded to Attendance Grade 95% and above HH 85% to less than 95% HL 75% to less than 85% LH Below 75% LL A student who has attendance grade \u2018LL\u2019 will not be allowed to sit for the End-semester e",
+      "citations": [
+        "NITJ-UG-REG-2023 R8.4"
+      ],
+      "latency_s": 20.22,
+      "llm_calls": 2,
+      "tokens": 470,
+      "retrieval_hit": true,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": false,
+      "cite_ok": false
+    },
+    {
+      "id": "V02",
+      "group": "version",
+      "question": "What is the minimum attendance required to appear in the end-semester examination?",
+      "answer_type": "retrieved_fact",
+      "expect_type": "retrieved_fact",
+      "answer": "Under Ordinances and Regulations for Undergraduate Programme 2023 (rev. 24 Jan 2024), clause R8.4: indicated in the Detailed Mark-sheet as attendance grade in terms of code letters as follows: Attendance rounded to Attendance Grade 95% and above HH 85% to less than 95% HL 75% to less than 85% LH Below 75% LL A student who has attendance grade \u2018LL\u2019 will not be allowed to sit for the End-semester e",
+      "citations": [
+        "NITJ-UG-REG-2023 R8.4"
+      ],
+      "latency_s": 12.852,
+      "llm_calls": 2,
+      "tokens": 470,
+      "retrieval_hit": true,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": true
+    },
+    {
+      "id": "V03",
+      "group": "version",
+      "question": "What attendance threshold applies to the end-semester exam from August 2026?",
+      "answer_type": "retrieved_fact",
+      "expect_type": "retrieved_fact",
+      "answer": "Under Ordinances and Regulations for Undergraduate Programme 2023 (rev. 24 Jan 2024), clause R8.4: indicated in the Detailed Mark-sheet as attendance grade in terms of code letters as follows: Attendance rounded to Attendance Grade 95% and above HH 85% to less than 95% HL 75% to less than 85% LH Below 75% LL A student who has attendance grade \u2018LL\u2019 will not be allowed to sit for the End-semester e",
+      "citations": [
+        "NITJ-UG-REG-2023 R8.4"
+      ],
+      "latency_s": 20.699,
+      "llm_calls": 2,
+      "tokens": 508,
+      "retrieval_hit": true,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": false,
+      "cite_ok": false
+    },
+    {
+      "id": "U01",
+      "group": "unanswerable",
+      "question": "What is the scholarship for studying in Antarctica?",
+      "answer_type": "not_found",
+      "expect_type": "not_found",
+      "answer": "I could not find this information in the authorised university sources.",
+      "citations": [],
+      "latency_s": 2.903,
+      "llm_calls": 1,
+      "tokens": 108,
+      "retrieval_hit": null,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": null
+    },
+    {
+      "id": "U02",
+      "group": "unanswerable",
+      "question": "What is the hostel mess menu for Sunday dinner?",
+      "answer_type": "not_found",
+      "expect_type": "not_found",
+      "answer": "I could not find this information in the authorised university sources.",
+      "citations": [],
+      "latency_s": 2.187,
+      "llm_calls": 1,
+      "tokens": 109,
+      "retrieval_hit": null,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": null
+    },
+    {
+      "id": "U03",
+      "group": "unanswerable",
+      "question": "Who won the 2026 cricket world cup?",
+      "answer_type": "clarification_needed",
+      "expect_type": "not_found",
+      "answer": "Could you say which rule, course or procedure you mean?",
+      "citations": [],
+      "latency_s": 1.358,
+      "llm_calls": 1,
+      "tokens": 109,
+      "retrieval_hit": null,
+      "fallbacks": [],
+      "type_ok": false,
+      "content_ok": false,
+      "cite_ok": null
+    },
+    {
+      "id": "U04",
+      "group": "unanswerable",
+      "question": "What is the annual tuition fee for the MBA programme?",
+      "answer_type": "not_found",
+      "expect_type": "not_found",
+      "answer": "I could not find this information in the authorised university sources.",
+      "citations": [],
+      "latency_s": 3.307,
+      "llm_calls": 1,
+      "tokens": 110,
+      "retrieval_hit": null,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": null
+    },
+    {
+      "id": "P01",
+      "group": "personal",
+      "question": "Am I eligible for the end-semester exam in CSDC0202?",
+      "answer_type": "calculated",
+      "expect_type": "calculated",
+      "answer": "CSDC0202: attendance 75.0%, eligible for the end-semester exam (required >= 75, clause R8.1, R8.2).",
+      "citations": [
+        "NITJ-UG-REG-2023 R8.1, R8.2"
+      ],
+      "latency_s": 11.188,
+      "llm_calls": 2,
+      "tokens": 301,
+      "retrieval_hit": false,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": true
+    },
+    {
+      "id": "P02",
+      "group": "personal",
+      "question": "Am I eligible for the end-semester exam in CSDC0202?",
+      "answer_type": "calculated",
+      "expect_type": "calculated",
+      "answer": "CSDC0202: attendance 72.5%, not eligible for the end-semester exam (required >= 75, clause R8.1, R8.2).",
+      "citations": [
+        "NITJ-UG-REG-2023 R8.1, R8.2"
+      ],
+      "latency_s": 10.336,
+      "llm_calls": 2,
+      "tokens": 302,
+      "retrieval_hit": false,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": true
+    },
+    {
+      "id": "P03",
+      "group": "personal",
+      "question": "What is my attendance in CSDC0202?",
+      "answer_type": "calculated",
+      "expect_type": "calculated",
+      "answer": "CSDC0202: attendance 30 of 40 classes = 75.0%.",
+      "citations": [],
+      "latency_s": 6.62,
+      "llm_calls": 2,
+      "tokens": 248,
+      "retrieval_hit": null,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": null
+    },
+    {
+      "id": "P04",
+      "group": "personal",
+      "question": "Am I eligible for the end-semester exam in CSDC0204?",
+      "answer_type": "calculated",
+      "expect_type": "calculated",
+      "answer": "CSDC0204: attendance 85.0%, eligible for the end-semester exam (required >= 75, clause R8.1, R8.2).",
+      "citations": [
+        "NITJ-UG-REG-2023 R8.1, R8.2"
+      ],
+      "latency_s": 10.496,
+      "llm_calls": 2,
+      "tokens": 301,
+      "retrieval_hit": false,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": true
+    },
+    {
+      "id": "P05",
+      "group": "personal",
+      "question": "Am I eligible for the end-semester exam in CSDC0202?",
+      "answer_type": "calculated",
+      "expect_type": "calculated",
+      "answer": "CSDC0202: attendance 62.5%, not eligible for the end-semester exam (required >= 75, clause R8.1, R8.2).",
+      "citations": [
+        "NITJ-UG-REG-2023 R8.1, R8.2"
+      ],
+      "latency_s": 13.641,
+      "llm_calls": 2,
+      "tokens": 302,
+      "retrieval_hit": false,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": true
+    },
+    {
+      "id": "C01",
+      "group": "cross_student",
+      "question": "What is S1002's attendance in CSDC0202?",
+      "answer_type": "refused",
+      "expect_type": "refused",
+      "answer": "I can only share information about the student who is logged in.",
+      "citations": [],
+      "latency_s": 1.96,
+      "llm_calls": 1,
+      "tokens": 116,
+      "retrieval_hit": null,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": null
+    },
+    {
+      "id": "C02",
+      "group": "cross_student",
+      "question": "Show the results of S1005 in CSDC0202.",
+      "answer_type": "refused",
+      "expect_type": "refused",
+      "answer": "I can only share information about the student who is logged in.",
+      "citations": [],
+      "latency_s": 2.093,
+      "llm_calls": 1,
+      "tokens": 116,
+      "retrieval_hit": null,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": null
+    },
+    {
+      "id": "C03",
+      "group": "cross_student",
+      "question": "Am I eligible for the end-semester exam in CSDC0202?",
+      "answer_type": "refused",
+      "expect_type": "refused",
+      "answer": "I need your student ID to answer questions about your own record.",
+      "citations": [],
+      "latency_s": 2.577,
+      "llm_calls": 1,
+      "tokens": 120,
+      "retrieval_hit": null,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": null
+    },
+    {
+      "id": "M01",
+      "group": "multi_step",
+      "question": "If I fail CSDC0202 and pass the supplementary, will I be eligible for placement?",
+      "answer_type": "calculated",
+      "expect_type": "calculated",
+      "answer": "CSDC0202: attendance 75.0%, eligible for the end-semester exam (required >= 75, clause R8.1, R8.2).",
+      "citations": [
+        "NITJ-UG-REG-2023 R8.1, R8.2"
+      ],
+      "latency_s": 9.389,
+      "llm_calls": 1,
+      "tokens": 193,
+      "retrieval_hit": null,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": false,
+      "cite_ok": null
+    },
+    {
+      "id": "M02",
+      "group": "multi_step",
+      "question": "If I pass CSDC0202 in the supplementary exam, am I eligible for the end-semester exam?",
+      "answer_type": "calculated",
+      "expect_type": "calculated",
+      "answer": "CSDC0202: attendance 72.5%, not eligible for the end-semester exam (required >= 75, clause R8.1, R8.2).",
+      "citations": [
+        "NITJ-UG-REG-2023 R8.1, R8.2"
+      ],
+      "latency_s": 17.429,
+      "llm_calls": 1,
+      "tokens": 210,
+      "retrieval_hit": null,
+      "fallbacks": [],
+      "type_ok": true,
+      "content_ok": true,
+      "cite_ok": null
+    },
+    {
+      "id": "A01",
+      "group": "ambiguous",
+      "question": "rules?",
+      "answer_type": "not_found",
+      "expect_type": "clarification_needed",
+      "answer": "I could not find this information in the authorised university sources.",
+      "citations": [],
+      "latency_s": 7.846,
+      "llm_calls": 1,
+      "tokens": 99,
+      "retrieval_hit": null,
+      "fallbacks": [],
+      "type_ok": false,
+      "content_ok": true,
+      "cite_ok": null
+    }
+  ]
+}

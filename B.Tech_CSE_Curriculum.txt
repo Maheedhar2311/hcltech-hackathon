@@ -1,0 +1,3297 @@
+PAGES: 80
+=== PAGE 1 ===
+Annexure-X-A
+3rd
+CURRICULUM
+– 8th Semester July 2023 Admissions onwards
+B.Tech. in
+COMPUTER SCIENCE AND ENGINEERING
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+DR B R AMBEDKAR NATIONAL INSTITUTE OF TECHNOLOGY JALANDHAR
+Jalandhar (Punjab), India - 144008
+Phone: 0181-2690301 Ext: 250, Fax: 0181-2690932
+Website: www.nitj.ac.in
+Page 534
+=== PAGE 2 ===
+VISION
+To be recognized globally for imparting computer science education and research of high
+distinction, both of value and relevance to society.
+MISSION
+M1: To impart contemporary knowledge and skill relevant to the field of Computer
+Science and Engineering to maximize employability and potential.
+M2: To strengthen multifaceted competence in the different core and allied areas of
+Computer Science in order to nurture creativity, innovations and out-of-the-box
+thinking.
+M3: To promote research and expertise in Computer Science and Engineering in order
+to serve the needs of Industry, Government and Society and motivate the students for 5
+M4: To inculcate ethical, human, and social values through co-curricular and extra–
+curricular activities for holistic nation building.
+Page 535
+=== PAGE 3 ===
+Program Educational Objectives
+PEO-1: To create and sustain a community of learning in which students acquire
+knowledge and apply in their concerned fields with due consideration for ethical,
+ecological, and economic issues.
+PEO-2: To provide knowledge based services so as to meet the ever-changing needs of
+industry and society at large.
+PEO-3: To make the students understand, design and implement the concepts in
+multiple arenas.
+PEO-4: To foster holistic growth of students that would provide ample E2 opportunities.
+Page 536
+=== PAGE 4 ===
+Program Outcomes
+1. Engineering Knowledge: Apply the knowledge of mathematics, science,
+engineering fundamentals, and an engineering specialization to the solution of
+complex engineering problems.
+2. Problem Analysis: Identify, formulate, review research literature, and analyse
+complex engineering problems reaching substantiated conclusions using first
+principles of mathematics, natural sciences and engineering sciences.
+3. Design/Development of Solutions: Design solutions for complex engineering
+problems and design system components or processes that meet the specified needs
+with appropriate consideration for the public health and safety, and the cultural,
+societal, and environmental considerations.
+4. Conduct Investigations of Complex Problems: Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of
+data, and synthesis of the information to provide valid conclusions for complex
+problems.
+5. Modern Tool Usage: Create, select, and apply appropriate techniques, resources,
+and modern engineering and IT tools including prediction and modeling to complex
+engineering activities with an understanding of the limitations.
+6. The Engineer and Society: Apply reasoning informed by the contextual knowledge
+to assess societal, health, safety, legal and cultural issues and the consequent
+responsibilities relevant to the professional engineering practice.
+7. Environment and Sustainability: Understand the impact of the professional
+engineering solutions in societal and environmental contexts, and demonstrate the
+knowledge of, and need for sustainable development.
+8. Ethics: Apply ethical principles and commit to professional ethics and
+responsibilities and norms of the engineering practice.
+9. Individual and Team Work: Function effectively as an individual, and as a member
+or leader in diverse teams, and in multidisciplinary settings.
+10. Life-long Learning: Recognize the need for, and have the preparation and ability to
+engage in independent and lifelong learning in the broadest context of technological
+change.
+11. Communication: Communicate effectively on complex engineering activities with
+the engineering community and with society at large, such as, being able to
+comprehend and write effective reports and design documentation, make effective
+presentations, and give and receive clear instructions.
+12. Project Management and Finance: Demonstrate knowledge and understanding of
+the engineering and management principles and apply these to one’s own work, as
+a member and leader in a team, to manage projects and in multidisciplinary
+environments.
+Page 537
+=== PAGE 5 ===
+Program Specific Outcomes
+PSO-1: Analyse, design, develop, evaluate and apply mathematical basics, data
+structures and algorithms for modeling computer hardware/software to solve real-world
+and interdisciplinary research problems.
+PSO-2: Demonstrate contemporary technologies, data analysis and computing skills for
+effective interpretation and decision making in the sustainable development of the
+society.
+Page 538
+=== PAGE 6 ===
+S.
+No
+Course
+Code 1 CSDC0201 2 CSDC0203 3 CSDC0205 4 CSDC0207 5 CSDC0209 6 HMDC0201 7 CSDC0231 8 CSDC0233 9 CSDC0235 10 CSDC0237 S.
+No
+Course
+Code 1 CSDC0202 2 CSDC0204 3 CSDC0206 4 CSDC0208 5 ECDC0214 6 PDFE0xxx 7 CSDC0232 8 CSDC0234 9 CSDC0236 10 ECDC0244 3rd Semester
+Course Title
+Data Structures and Algorithms Object Oriented Programming Computer Organization and Architecture Data Visualization for Product Design Probability and Statistics Business Economics and Financial
+Accounting Data Structures and Algorithms Laboratory Object Oriented Programming Laboratory Computer Organization and Architecture
+Laboratory Data Visualization for Product Design
+Laboratory TOTAL 4th Semester
+Course Title
+Database Management Systems Design and Analysis of Algorithms Computer Networks Formal Language and Automata Theory Microprocessor and Microcontroller Foundation Elective Database Management Systems
+Laboratory Design and Analysis of Algorithms
+Laboratory Computer Networks Laboratory Microprocessor and Microcontroller
+Laboratory TOTAL Teaching
+Load Credit Course
+Type
+L T P
+3 0 0 3 DC
+3 0 0 3 DC
+3 0 0 3 DC
+3 1 0 4 DC
+3 1 0 4 DC
+3 0 0 3 DC
+0 0 3 2 DC
+0 0 2 1 DC
+0 0 2 1 DC
+0 0 2 1 DC
+18 2 9 25
+Teaching
+Load Credit Course
+Type
+L T P
+3 0 0 3 DC
+3 0 0 3 DC
+3 0 0 3 DC
+3 1 0 4 DC
+3 0 0 3 DC
+1 0 0 1 FE3
+0 0 2 1 DC
+0 0 3 2 DC
+0 0 2 1 DC
+0 0 2 1 DC
+16 1 9 22
+Page 539
+=== PAGE 7 ===
+Offered as Foundation Elective - 3
+S.
+No
+Course
+Code
+Course Title 1 PDFE0201 Information Security Offered to ECE and EVE
+S.
+No
+Course
+Code Course Title
+1 CSDC0201 Data Structures and Algorithms 2 CSDC0261 Data Structures Laboratory 3 CSDC0202 Database Management Systems 4 CSDC0232 Database Management Systems
+Laboratory
+Offered to Biotechnology
+S.
+No
+Course
+Code Course Title
+1 CSDC0203 Object Oriented Programming 2 CSDC0233 Object Oriented Programming
+Laboratory
+Offered to ICE
+S. No Course Code Course Title 1 CSDC0201 Data Structures and Algorithms Offered to EE
+S.
+No
+Course
+Code Course Title
+1 CSDC0201 Data Structures and Algorithms 2 CSDC0261 Data Structures Laboratory Teaching
+Load
+Credit L T P
+1 0 0 1 Teaching
+Load Credit
+L T P
+3 0 0 3 0 0 2 1 3 0 0 3 0 0 2 1 Teaching
+Load Credit
+L T P
+3 0 0 3 0 0 2 1 Teaching Load Credit L T P
+3 0 0 3 Teaching
+Load Credit
+L T P
+3 0 0 3 0 0 2 1 Course
+Type
+FE3
+Course
+Type
+DC
+DC
+DC
+DC
+Course
+Type
+DC
+DC
+Course Type
+DC
+Course
+Type
+DC
+DC
+Page 540
+=== PAGE 8 ===
+S.
+No Course
+Code
+1 CSDC0301 2 CSDC0303 3 CSDC0305 4 CSDC0307 5 CSDE03XX/
+XXGE03XX
+6 CSDC0333 7 CSDC0335 8 CSDC0337 9 CSTR0300 10 CSPR0301 S.
+No Course
+Code
+1 CSDC0302 2 CSDC0304 3 CSDC0306 4 CSDC0308 5 CSDE03XX/
+XXGE03XX
+6 CSDC0332 7 CSDC0334 8 CSDC0336 9 CSDC0338 10 CSPR0302 5th Semester
+Course Title
+Teaching
+Load Credit Course
+Type
+L T P
+Artificial Intelligence 3 0 0 3 DC
+Compiler Design 3 0 0 3 DC
+Operating Systems 3 0 0 3 DC
+Data Mining and Analytics 3 0 0 3 DC
+Department Elective – I/
+Generic Elective - I
+3 0 0 3 DE/GE
+Compiler Design Laboratory 0 0 2 1 DC
+Operating Systems Laboratory 0 0 2 1 DC
+Data Mining and Analytics Laboratory 0 0 2 1 DC
+Industrial Practical Training (after 4thSem) 0 0 0 2 TR
+Project-1 (Phase-I) 0 0 2 2 PR
+TOTAL 15 0 8 22
+6th Semester
+Course Title
+Teaching
+Load Credit Course
+Type
+L T P
+Computer Graphics and Image
+Processing 3 0 0 3 DC
+Information Security Systems 3 0 0 3 DC
+Machine Learning 3 0 0 3 DC
+Software Engineering 3 0 0 3 DC
+Department Elective – 2/ Generic Elective -
+2 3 0 0 3 DE/GE
+Computer Graphics and Image
+Processing Laboratory 0 0 2 1 DC
+Information Security System Laboratory 0 0 2 1 DC
+Machine Learning Laboratory 0 0 2 1 DC
+Software Engineering Laboratory 0 0 2 1 DC
+Project-1 (Phase-II) 0 0 2 2 PR
+TOTAL 15 0 10 21
+Page 541
+=== PAGE 9 ===
+S.
+No 1. 2. 3. 4. 5. 6. 7. S.
+No 1. 2. 3. Course
+Code
+CSDE0302 CSDE0304 CSDE0306 CSDE0308 CSDE0310 CSDE0312 CSDE0314 Course
+Code
+CSGE0361 CSGE0362 CSGE0363 List of Department Electives for 3rd year
+Course Title
+Teaching
+Load Credit
+Course
+Type
+L T P
+Advanced DBMS 3 0 0 3 DE
+Natural Language Processing 3 0 0 3 DE
+Advanced Computer Networks 3 0 0 3 DE
+Android Programming and Mobile
+Applications Development
+3 0 0 3 DE
+Software Project Management 3 0 0 3 DE
+Network Security & Cyber Forensics 3 0 0 3 DE
+Cloud Computing 3 0 0 3 DE
+List of Generic Electives for 3rd year
+Course Title
+Teaching
+Load Credit
+Course
+Type
+L T P
+Natural Language Processing Concepts 3 0 0 3 GE
+Software Engineering Concepts 3 0 0 3 GE
+Artificial Intelligence Concepts 3 0 0 3 GE
+Page 542
+=== PAGE 10 ===
+S.
+No Course Code 1 CSDE04XX/
+XXGE04XX
+2 CSDE04XX/
+XXGE04XX
+3 CSDE04XX/
+XXGE04XX
+4 CSTR0400 5 CSPR0401 S.
+No Course Code 1 CSDE04XX/
+XXGE04XX
+2 CSDE04XX/
+XXGE04XX
+3 CSDE04XX/
+XXGE04XX
+4 CSPR0402 7th Semester
+Course Title
+Department Elective – 3/
+Generic Elective Department Elective – 4/
+Generic Elective Department Elective – 5/
+Generic Elective Industrial Practical Training
+(after 6th Sem) Project-2 TOTAL 8th Semester
+Course Title
+Department Elective – 6/ Generic
+Elective Department Elective – 7/ Generic
+Elective Department Elective – 8/ Generic
+Elective Project-2 TOTAL Teaching
+Load Credit Course
+Type
+L T P
+3 0 0 3 DE/GE
+3 0 0 3 DE/GE
+3 0 0 3 DE/GE
+0 0 0 3 TR
+0 0 8 4 PR
+9 0 8 16
+Teaching
+Load Credit Course
+Type
+L T P
+3 0 0 3 DE/GE
+3 0 0 3 DE/GE
+3 0 0 3 DE/GE
+0 0 8 4 PR
+9 0 8 13
+Page 543
+=== PAGE 11 ===
+S. No Specialization 1.
+2. 3. Artificial
+Intelligence
+4. 5. 6.
+7. Data Analytics
+8. 9.
+10. Software
+Engineering
+11. 12.
+13. Computer
+Networks
+14. 15.
+16. Information
+Security
+17. 18. Soft
+Computing
+19.
+20. 21. Internet of
+Things
+22. 23.
+24. 25. 26. Parallel and
+Distributed
+Computing
+27.
+28. Other
+29. List of Department Electives for 4th year
+Course Code Course Title
+CSDE0401/
+CSDC0309
+Computer Vision CSDE0402/
+CSDC0310
+Deep Learning CSDE0403 Reinforcement Learning CSDE0404 Modern AI tools CSDE0406 Human-Computer Interaction CSDE0407 Big data analytics CSDE0408 Social Network Analysis CSDE0409 Optimization Techniques CSDE0410 Software Quality Assurance and
+Automation Testing
+CSDE0411 Software Engineering Ethics and Tools CSDE0412 Green Computing CSDE0413 Evolution of Advanced Wireless
+Networks
+CSDE0414 5G Networks: Architecture,
+Technologies, and Applications CSDE0415 Industry 4.0 CSDE0416 Blockchain Architecture & Use Cases CSDE0417 Ethical Hacking and Penetration
+Testing
+CSDE0418 Soft Computing Techniques CSDE0419 Evolutionary Algorithms CSDE0421 Internet of Things Concepts CSDE0422 Real-time systems CSDE0423 Embedded Systems CSDE0424 Intelligent Robotics CSDE0425 Distributed Systems CSDE0426 Edge and Fog Computing CSDE0427 Quantum Computing CSDE0428 High-Performance Computing CSDE0429 Digital Marketing CSDE0430 Computational Complexity CSDE0431 Drone Technology Teaching
+Load Credit
+L T P
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+3 0 0 3
+Page 544
+=== PAGE 12 ===
+List of Generic Electives for 4th year
+S.
+No Course Code Course Title
+Teaching
+Load Credit
+L T P
+1. CSGE0461 Computer Vision Concepts 3 0 0 3
+2. CSGE0462 Machine Learning Concepts 3 0 0 3
+3. CSGE0463 Deep Learning Concepts 3 0 0 3
+4. CSGE0464 Operating System Concepts 3 0 0 3
+Page 545
+=== PAGE 13 ===
+S.
+No
+Course
+Code 1 CSDC0201 2 CSDC0203 3 CSDC0205 4 CSDC0207 5 CSDC0209 6 HMDC0201 7 CSDC0231 8 CSDC0233 9 CSDC0235 10 CSDC0237 3rd Semester
+Course Title
+Teaching
+Load Credit Course
+Type
+L T P
+Data Structures and Algorithms 3 0 0 3 DC
+Object Oriented Programming 3 0 0 3 DC
+Computer Organization and Architecture 3 0 0 3 DC
+Data Visualization for Product Design 3 1 0 4 DC
+Probability and Statistics 3 1 0 4 DC
+Business Economics and Financial
+Accounting 3 0 0 3 DC
+Data Structures and Algorithms Laboratory 0 0 3 2 DC
+Object Oriented Programming Laboratory 0 0 2 1 DC
+Computer Organization and Architecture
+Laboratory 0 0 2 1 DC
+Data Visualization for Product Design
+Laboratory 0 0 2 1 DC
+TOTAL 18 2 9 25
+Page 546
+=== PAGE 14 ===
+CSDC0201 Data Structures and Algorithms [3 0 0 3]
+Course Contents
+Unit 1: Introduction to Data Structures and Complexity Analysis
+Overview of data structures, algorithms, Asymptotic notations (Big O, Omega, Theta), Time and space
+complexity analysis, Best, average, and worst-case analysis, Time space trade-off, Abstract Data types.
+Unit 2: Array and Linked List
+Arrays, implementing basic algorithms on 1D array (insertion, deletion, searching, traversal),
+Implementing basic algorithms on 2D array (Addition, Subtraction, Multiplication, Transpose),
+Address calculation for multidimensional array, sparse matrix, array sorting: Bubble sort, insertion sort
+and selection sort, Linked List, Representation and Implementation of Singly Linked Lists, Two-way
+Header List, Traversing and Searching of Linked List, Overflow and Underflow, Insertion and deletion
+Algorithms, doubly linked list, Linked List in Array, Polynomial representation, and addition,
+Generalized linked list, Circular linked list, Garbage Collection and Compaction.
+Unit 3: Stack and Queue
+Stack, implementing stack using arrays and linked lists, implement basic operations on stack (create,
+push, pop, full, empty), Applications of stacks, expression evaluation (prefix and postfix), Conversion
+of Infix to prefix and Postfix Expressions, Queue, implementing queue using arrays and linked lists,
+implement basic operations on queue (create, insert, delete, full, empty), Priority Queue, Circular
+Queue.
+Unit 4: Tree and Graph
+Trees, Basic terminologies, Array and linked representation of binary tree, Binary tree traversal (in-
+order, pre-order, post-order), Threaded Binary Tree, Huffman algorithm, Binary search trees (BST),
+Insertion and Deletion in BST, Graphs, Graph terminologies and representation of graphs (adjacency
+matrix, adjacency list), Multigraph, Directed Graph, Traversals - Depth-First Search (DFS) and
+Breadth-First Search (BFS), Connected component, Minimum Spanning Tree (Prim's, Kruskal's),
+Shortest path algorithm, Topological sorting.
+Unit 5: Hashing and Heap
+Hash Table, Hash Functions, Collision Resolution Strategies, Hash Table Implementation, heap-based
+implementations (Min, Max), insertion and deletion in heap, and heap sort.
+Course Outcomes
+CO1: Understand the concepts of data structures, algorithm and analyse their time complexity.
+CO2: Apply sequential data structures e.g. Array and Linked list to solve basic problems.
+CO3: Apply and analyze stack and queue data structures to solve practical problems in real-life
+scenarios.
+CO4: Apply variety of data structures, including trees, graphs, and hashing techniques, to address
+diverse and complex real-time computing problems.
+Page 547
+=== PAGE 15 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 2 3 2 3 2 1 3 1
+CO2 2 1 2 1 1 3
+CO3 3 2 3 3 2 2 3 3 1
+CO4 3 2 3 3 2 2 3 3 1
+1 – Low, 2 – Medium, 3 – High
+Recommended Books
+1. Cormen, Thomas H., et al. Introduction to Algorithms. 4th ed., The MIT Press, 2022.
+2. Tenenbaum, Aaron M., Yedidyah Langsam, and Moshe J. Augenstein. Data Structures Using
+C. 1st ed., Pearson Education, 2019.
+3. Forouzan, Behrouz A., and Richard F. Gilberg. C Programming and Data Structures. 3rd ed.,
+Cengage Learning India Pvt. Ltd., 2022.
+4. Horowitz, Ellis, and Sartaj Sahni. Fundamentals of Data Structures in C++. 2nd ed.,
+Universities Press, 2008.
+5. Lipschutz, Seymour. Data Structures. 2nd ed., McGraw Hill, 2014.
+Page 548
+=== PAGE 16 ===
+CSDC0203 Object Oriented Programming [3 0 0 3]
+Course Contents
+Unit 1: Fundamentals of Object Oriented Programming
+Object oriented thinking: Need for OOP Paradigm, Procedural programming vs object oriented
+programming, object oriented concepts. C++ stream classes: Unformatted IO operations,
+formatted IO operations, managing output with manipulators.
+Unit 2: Functions and Classes
+Functions, inline functions, reference variables, call by reference, Default arguments, function
+overloading, Class, Difference between C structure and class, specifying a class, Defining
+member functions: inside and outside class, scope resolution operator, Array within a class, an
+array of objects, Static data members and member functions, Object as function arguments,
+returning objects, Friend function, memory allocation for objects, pointer to members, pointer
+to object, this pointer local classes.
+Unit 3: Constructors, Operator Overloading, and Inheritance
+Constructor and destructor: Constructor, types of constructors: default, parameterized and copy
+constructor, constructor overloading, constructor with default parameter, dynamic initialization
+of objects, destructor, Operator overloading and Type Conversion: Defining operator
+overloading, overloading unary and binary operator, Data Conversion: Basic to User Defined,
+User defined to basic, Conversion from one user-defined to other. Inheritance and
+polymorphism: Base class, derived class, visibility modes, derivation and friendship, Types of
+inheritance, Containership, virtual function binding, pure virtual functions, Abstract class,
+pointer to derived class.
+Unit 4: File Handling, Exception Handling, and Templates
+Working with files: Classes for file stream operations, opening and closing files, File opening
+modes, file Pointers, Error handling during file operations, and command line arguments.
+Exception Handling: Introduction to Exception Handling, Handling Exceptions with try-catch
+Blocks, Catching Specific Exception Types, Rethrowing Exceptions, Standard Exceptions and
+Custom Exception Classes. Templates: Class template, class template with parameter, function
+template, function template with parameter. Advanced OOP Concepts: Overview of the
+Standard Template Library (STL), Containers: vector, list, set, multiset, map, multimap.
+Page 549
+=== PAGE 17 ===
+Course Outcomes
+CO1: Understand the significance of object-oriented programming and distinguish it from
+procedural programming.
+CO2: Utilize C++ stream classes for various input and output operations effectively.
+CO3: Analyze and implement functions and classes, including function prototyping and member
+functions within classes.
+CO4: Evaluate and implement constructors, destructors, and operator overloading techniques in
+C++ programming.
+CO5: Apply inheritance, polymorphism, and exception-handling concepts to solve complex
+programming problems.
+Course
+Outcomes
+Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PSO
+11
+PSO
+12
+CO1 1 1 1 2 2 2 1
+CO2 2 2 2 2 1 1 1
+CO3 2 2 3 2 2 1 1 3 1
+CO4 2 2 2 2 3 1 1 2 2
+CO5 2 2 3 3 1 2 2 1 1 2 2 3 2
+1 – Low, 2 – Medium, 3 – High
+Recommended Books
+1. Balagurusamy, E. Programming in ANSI C++. 7th ed., Tata McGraw-Hill Education, 2019.
+2. Lafore, Robert. Object-Oriented Programming in C++. 5th ed., Pearson Education, 2019.
+3. Stroustrup, Bjarne. Programming: Principles and Practice Using C++. Pearson Education,
+2014.
+4. Lippman, Stanley B., Josée Lajoie, and Barbara E. Moo. C++ Primer. 5th ed., Addison-Wesley,
+2013.
+5. Meyers, Scott. Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and
+C++14. O'Reilly Media, 2014.
+Page 550
+=== PAGE 18 ===
+CSDC0205 Computer Organization and Architecture [3 0 0 3]
+Course Contents
+Unit 1: Introduction
+Historical background, Architectural and Technological development, Performance measures.
+Functional Units of a computer: CPU, Memory, Input-output subsystems, and Control Unit.
+Unit 2: Central Processing Unit
+Registers, Instruction set, instruction types, Instruction length, Instruction formats, overview of
+Addressing modes, Instruction cycle, Instruction pipelining, Pipelining hazards, RISC versus CISC,
+Instruction-level Parallelism and Superscalar processors.
+Unit 3: Control Unit
+Micro-operations, Control of the processor, Hardwired and Micro-programmed control approaches.
+Unit 4: Memory Organization
+Introduction to Memory hierarchy, Importance of temporal and spatial locality, Main memory,
+Cache organization and performance, Associative memory, Cache coherence, Virtual memory,
+Memory interleaving, Implementing cache controllers, RAID.
+Unit 5: Input/Output
+External devices, Input/Output function, Interrupts, Programmed Input/Output, Interrupt-Driven
+Input/Output.
+Course Outcomes
+CO1: Understand the fundamentals of computer organization and its relevance to classical and
+modern problems of computer design.
+CO2: Understand the architecture and functionality of the central processing unit.
+CO3: Analyze various caching and memory system architectures.
+CO4: To understand how I/O devices communicate with the Processing Unit.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 1 2 1
+CO2 3 1 2 1
+CO3 3 2 2 2 2 1
+CO4 3 2 2 2 2 1
+1 – Low, 2 – Medium, 3 - High
+Page 551
+=== PAGE 19 ===
+Recommended Books
+1. Hennessy, John L., and David A. Patterson. Computer Architecture: A Quantitative Approach.
+7th ed., Morgan Kaufmann, 2025.
+2. Stallings, William. Computer Organization and Architecture. 11th ed., Pearson Education,
+2022.
+3. Hamacher, V. Carl, Zvonko G. Vranesic, Safwat G. Zaky, and Naraig Manjikian. Computer
+Organization. 6th ed., McGraw-Hill Education, 2012.
+4. Shiva, Sajjan G. Computer Organization, Design, and Architecture. 5th ed., CRC Press, 2014.
+5. Sarangi, S. R. Computer Organisation and Architecture. McGraw Hill India, 2014.
+6. Mano, M. Morris. Computer System Architecture. 3rd ed., Pearson Education, 2017.
+Page 552
+=== PAGE 20 ===
+CSDC0207 Data Visualization for Product Design [3 1 0 4]
+Course Contents
+Unit 1: Introduction
+Data Types: Nominal, Binary, Ordinal, Numeric, Discrete, and Continuous, Value for visualization,
+Categorical, time series, and statistical data graphics, Introduction to Visualization Tools, Statistics of
+Data, Similarity & Distance Measures.
+Unit 2: Data Gathering & Data Pre-processing
+Data formats, various sources and types of data- text, video, audio, biology etc., parsing and
+transformation, Scalability and real-time issues, Data Quality, Consistency checking, Heterogeneous
+and missing data, Data Transformation and segmentation, Perspective transform, window transform,
+cleaning data, noise elimination, Data Integration, Feature selection and Dimensionality reduction,
+Normalization.
+Unit 3: Statistics of Data
+Descriptive Statistics, Measures of central tendency- mean, median, and mode; Measures of dispersion:
+variance, standard deviation, and range: Concept of Percentiles and quartiles.
+Unit 4: Prescriptive Analytics
+Creating data for analytics through designed experiments, Regression, Principal component analysis,
+Canonical correlation analysis, Analysis of variance, Creating data for analytics through active
+learning.
+Unit 5: Data Visualization
+Design Principles, Data-Ink, Visualization Typology, Geo Visualization, Data, Visualization Design,
+Tufte’s design principles, Gestalt’s law, Data Analysis and Insights finding, Critiques in data
+visualization, Data visualization with ethics. Visual Storytelling, Use of Data Visualization, Data
+Examples, Basic Charts, table, graph, histogram, pie-chart, area-plot, boxplot, scatter plot, bubble-plot,
+waffle charts, word clouds, Multidimensional Visualization, and Specialized visualization: Online
+Social Networks, Social Data Analysis, Geographical Data, Design of a dashboard.
+Course Outcomes
+CO1: Understand the key techniques and theory used in visualization, including data models,
+graphical perception, and techniques for visual encoding and interaction.
+CO2: Analyse several common data domains and corresponding analysis tasks, including multivariate
+data, networks, text, and cartography.
+CO3: Apply the gained knowledge to build and evaluate visualization systems.
+Page 553
+=== PAGE 21 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 2 2
+CO2 3 3 1 1 1 1
+CO3 3 3 2 2 3 2 1 1
+1 – Low, 2 – Medium, 3 – High
+Recommended Books
+1. Tufte, Edward R. The Visual Display of Quantitative Information. 2nd ed., Graphics
+Press, 2001.
+2. Healy, Kieran. Data Visualization: A Practical Introduction. Princeton University Press,
+2019.
+3. Wilke, Claus O. Fundamentals of Data Visualization: A Primer on Making Informative
+and Compelling Figures. O’Reilly Publications, 2019.
+4. Knaflic, Cole Nussbaumer. Storytelling with Data: A Data Visualization Guide for
+Business Professionals. John Wiley & Sons, 2015.
+5. Han, Jiawei, Jian Pei, and Hanghang Tong. Data Mining: Concepts and Techniques.
+Morgan Kaufmann, 2022.
+Page 554
+=== PAGE 22 ===
+CSDC0209 Probability and Statistics [3 1 0 4]
+Course Contents
+Unit 1: Basic Probability
+The concept of probability, The axioms of probability, Basic probability concepts, theorems on
+Probability, Conditional Probability, Theorems on conditional probability, Independent Event’s,
+Bayes’ Theorem.
+Unit 2: Random Variables and Probability Distributions
+Random variables, Distribution functions for discrete random variables, Continuous probability
+distribution, Distributions for continuous random variables, joint distributions, Two-Dimensional
+Random variables Independence of random variables.
+Mathematical Expectation: Definition, Functions of random variables, some theorems on Expectation,
+the variance and Standard Deviation, Moments, Moment Generating Functions, Covariance,
+Correlation Coefficient.
+Unit 3: Probability Distributions
+Discrete probability distributions Uniform, Bernoulli, Binomial and Poisson Distribution; Continuous
+probability distributions Uniform, normal (Gaussian), and exponential distributions, Relations between
+different distributions. Bayesian Statistics: Bayesian inference: prior, likelihood, and posterior
+distributions, Bayesian estimation.
+Unit 4: Sampling Theory
+Population and Sample, Sampling with and without replacement, the sample mean, Sampling
+distribution of means Central limit theorem and student t distribution, Paired-t distribution and
+distributions of variance Chi-square Distribution and F-distribution, proportions, differences and sums,
+the sample variance, maximum likelihood estimation (MLE).
+Unit 5: Hypothesis Testing
+Tests of Hypotheses and Significance- Statistical Decisions, Statistical hypotheses, Null Hypotheses,
+Tests of hypotheses and significance, Type I and Type II errors, level of significance, Tests involving
+the Normal distribution, One-Tailed and Two-tailed tests, Interval estimation, Special tests of
+significance for large and small samples, The Chi-square test for goodness of fit, P-Values in
+Hypothesis Tests. The Chi-square test for goodness of fit, P-Values in Hypothesis.
+Unit 6: Regression and Applications
+Curve Fitting Regression and Correlation- Curve Fitting, method of least squares, least squares line,
+multiple regressions, Probability interpretation of regression and correlation. Applications of
+Probability Theory in Data Analytics Probabilistic models in data analytics, Case studies and
+applications in various domains.
+Page 555
+=== PAGE 23 ===
+Course Outcomes
+CO1: To develop a solid foundation in probability theory and its applications in data analytics.
+CO2: To understand the principles and properties of probability distributions and random variables.
+CO3: To learn statistical techniques for data analysis, inference, and hypothesis testing.
+CO4: To gain proficiency in applying probability theory to model uncertainty and make informed
+decisions in data-driven contexts.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 2 2 1 1
+CO2 1 2 2 2 2 2 2 3
+CO3 1 3 2 1 2 3
+CO4 2 2 3 3 2 3 3 2 3
+1 – Low, 2 – Medium, 3 – High
+Recommended Books
+1. Walpole, Ronald E., et al. Probability & Statistics for Engineers & Scientists. 10th ed., Pearson,
+2020.
+2. Devore, Jay L. Probability and Statistics for Engineering and the Sciences. 9th ed., Cengage
+Learning, 2015.
+3. Blitzstein, Joseph K., and Jessica Hwang. Introduction to Probability. 2nd ed., CRC Press, 2019.
+4. Wasserman, Larry. All of Statistics: A Concise Course in Statistical Inference. Springer, 2004.
+5. Myers, Raymond H., Sharon L. Myers, and Keying Ye. Classical and Modern Regression with
+Applications. 2nd ed., Duxbury Press, 2012.
+Page 556
+=== PAGE 24 ===
+HMDC0201 Business Economics and Financial Accounting [3 0 0 3]
+Course Contents
+Unit 1: Introduction to Business Economics
+The Economic Perspective, Microeconomics, Macroeconomics, Nature and Scope of Business
+Economics, Economic Optimization, Production Possibilities and Model, Unemployment, Growth,
+and the Future, Markets, Demand, Supply, Market Equilibrium, Changes in Supply, Demand and
+Equilibrium, Applications, Market Failures caused by Externalities and Asymmetric Information.
+Unit 2: Consumer Behavior
+Price Elasticity of Demand, Total Revenue Test, Determinants of Price Elasticity of Demand, Price
+Elasticity of Supply, Cross Elasticity and Income Elasticity of Demand, Law of Diminishing Marginal
+Utility, Theory of Consumer Behavior, Utility Maximization and the Demand Curve, Income and
+Substitution Effects, Applications.
+Unit 3: Introduction to Financial Accounting
+Introduction to Financial Accounting Meaning of Accountancy, Book Keeping and Accounting,
+Accounting Process, Objectives for Accounting, Differences between Book-keeping and Accounting,
+Users of Accounting Information, Limitations of Accounting, Accounting Principles- Accounting
+Concepts and Accounting Conventions, Accounting Standards - Scope and functions of Accounting
+Standards Board, International Financial Reporting Standards (IFRS).
+Unit 4: Double Entry System of Book Keeping and Final Accounts
+Types of Accounts, Accounting rules, Accounting Equation, preparation of journal, preparation of
+ledger accounts, subsidiary book and trial balance, Preparation of profit and loss account, balance sheet
+of sole proprietor and company (with and without adjustments), Adjustment Entries- closing stock,
+prepaid expenses, outstanding expenses, interest on capital and other adjustments, Cash flow
+statements.
+Unit 5: Analysing Financial Statements
+A Managerial Perspective- Understanding and analysing three basic financial statements: Balance
+Sheet, Income statement and Cash Flows, Horizontal and Vertical analysis, Ratio Analysis, Business
+Case.
+Course Outcomes
+CO1: Apply the concepts of business economics in decision-making.
+CO2: Understand basic accounting concepts, such as double-entry bookkeeping, the
+accounting equation, debits and credits, and accrual accounting.
+CO3: Create the financial statements.
+CO4: Analyze accounting statements to evaluate, compare, and contrast a company's financial
+position, performance, and cash flow.
+Page 557
+=== PAGE 25 ===
+Course
+Outcomes
+Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PSO
+1
+PS
+O2
+CO1 3 2 2
+CO2 3
+CO3 3 2
+CO4 3 3 2 3 2
+1 – Low, 2 – Medium, 3 – High
+Recommended Books
+1. Hirschey, Mark. Managerial Economics. 16th ed., Cengage Learning India, 2022.
+2. McConnell, Campbell R., Stanley L. Brue, Sean M. Flynn, and B. R. Chaudhuri.
+Economics. 22nd ed., McGraw Hill Education (India), 2021.
+3. Arora, R. K. Financial Accounting: Fundamentals, Analysis and Reporting. 2nd ed., Wiley
+India Pvt. Ltd., 2018.
+4. Ramachandran, N., and R. K. Kakani. Financial Accounting for Management. McGraw Hill
+Education.
+5. Narayanswamy, R. Financial Accounting: A Managerial Perspective. 6th ed., PHI Learning,
+2017.
+Page 558
+=== PAGE 26 ===
+CSDC0231 Data Structures and Algorithms Laboratory [0 0 3 2]
+List of Experiments
+1. Write a program to implement basic operations on 1D array e.g. Insertion, Deletion, Traversal, and
+Searching. Write a program to rearrange the array so that all negative numbers come before positive
+numbers.
+2. Write a program to implement basic operations on 2D array/ Matrix e.g. Addition, Subtraction,
+Multiplication, Transpose. Write a program to calculate inverse of matrix.
+3. Write a program using dynamic variable & pointers to implement insertion and deletion operation
+on a singly linked list consisting of the following information in each node. Student id (integer),
+student name (character string) & semester (integer). Write a program to search the data in above
+list using given student id.
+4. Write a program to implement basic operations on doubly Linked List e.g. Insertion, Deletion,
+Traversal, and Searching. Write a program to rotate a single linked list by n positions.
+5. Write a program to implement push, pop, and display operations on stack of integers. The program
+should print appropriate messages for stack overflow, stack Underflow & stack empty.
+6. Write a c program to evaluate a valid postfix expression using a Stack, assume that the suffix
+/postfix expression is read as a single line consisting of non-negative single digit operands & binary
+arithmetic operands. The arithmetic operators are + (ADD), - (subtract), *(multiply) & / (divide).
+7. Implementation of queue data structure using array and linked list with the basic functions of
+Create(), IsEmpty(), Insert(), Delete() and IsFull().
+8. Implementation of stack operations to convert a given infix expression into its equivalent postfix
+expression. Implement the stack using an array. Write a program to implement basic operations of
+stack using queue data structure.
+9. Write a program to construct a binary search tree of integers and traverse the tree using all the
+methods i.e. inorder, preorder & Postorder to display the elements in the tree.
+10. Write a program to implement Breadth-First Search (BFS) and Depth-First Search (DFS)
+algorithms.
+11. Implementation of Kruskal and Prims Minimal Spanning Tree algorithms.
+12. Write a modified version of DFS algorithm to print all the connected components of a graph.
+13. Implement various advanced data structures such as min/max heaps and Hash tables.
+14. Write a program to build a hash and map the values by incorporating collision resolution
+techniques.
+*Mini Project may also be planned & carried out throughout the semester to understand the
+important various concepts of Data Structures and Algorithms.
+*This is only the suggested list of Practical’s. Instructor may frame additional Practical’s relevant to
+the course contents
+Page 559
+=== PAGE 27 ===
+Course Outcomes
+CO1: Apply sequential data structures e.g. Array and Linked list to solve basic problems.
+CO2: Apply and analyse stack and queue data structures to solve practical problems in real-life
+scenarios.
+CO3: Apply variety of data structures, including trees, graphs, and hashing techniques, to address
+diverse and complex real-time computing problems.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 2 1 2 1 1 3
+CO2 3 2 3 3 2 2 3 3 1
+CO3 3 2 3 3 2 2 3 3 1
+1 – Low, 2 – Medium, 3 – High
+Page 560
+=== PAGE 28 ===
+CSDC0233 Object Oriented Programming Laboratory [0 0 2 1]
+List of Experiments
+1. Write programs to demonstrate array manipulation, function usage, and structure implementation.
+2. Experiment with manipulators, reference variables, and call-by-reference in C+ + programs.
+3. Write programs to define, instantiate, and utilize classes and objects in C++.
+4. Develop programs to showcase default, parameterized, and copy constructors, along with
+destructors.
+5. Write programs to demonstrate friend functions, friend classes, and the concept of an empty class.
+6. Implement unary operator overloading using both member and friend functions for user-defined
+classes.
+7. Implement binary operator overloading using both member and friend functions for user-defined
+classes.
+8. Develop programs to demonstrate the conversion from basic to custom data types and vice versa.
+9. Implement single inheritance to create derived classes that inherit attributes and behaviors from
+a single base class.
+10. Implement multiple inheritance and its complexities, including the use of virtual inheritance to
+resolve ambiguities.
+11. Hands-on exercises and coding sessions to implement inheritance relationships and utilize derived
+classes in practical programs.
+12. Implementing virtual functions in base and derived classes to demonstrate polymorphic behavior.
+13. Explore try-catch blocks, throw statements, and exception specifications for robust error
+management. Writing code to handle specific exceptions and ensure program stability.
+14. Write programs to perform basic file operations in C+, including reading from files, writing to
+files, appending data to files, and ensuring proper file closure, enabling effective data handling
+and manipulation in real-world applications.
+15. Write programs to create generic classes and functions using templates, and practical sessions
+covering STL containers, algorithms, and iterators.
+*Mini Project may also be planned & carried out throughout the semester to understand the
+important various concepts of Object Oriented Programming.
+*This is only the suggested list of Practical. The instructor may frame additional Practical relevant to
+the course contents.
+Page 561
+=== PAGE 29 ===
+Course Outcomes
+CO1: Understand basic and advanced C++ concepts, including efficient array, function, and
+structure manipulation, alongside advanced language features such as manipulators, reference
+variables, and call-by-reference, for effective programming.
+CO2: Define, instantiate, and utilize classes and objects, including constructors and destructors.
+CO3: Apply advanced C++ techniques, such as operator overloading, inheritance, and exception
+handling.
+CO4: Perform basic file operations in C++, ensuring proper data handling and manipulation.
+CO5: Utilize templates and STL containers, algorithms, and iterators for generic programming
+tasks.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 3 3 1 3 1
+CO2 2 3 2 3 2 3 1
+CO3 2 1 3 2
+CO4 2 2 3 2 2 3
+CO5 2 2 3 2
+1 – Low, 2 – Medium, 3 – High
+Page 562
+=== PAGE 30 ===
+CSDC0235 Computer Organization and Architecture Laboratory [0 0 2 1]
+List of Experiments
+1. Verify various laws of Boolean Algebra. Implementation of a given Boolean function using logic
+gates in both SOP and POS forms.
+2. Realize NAND and NOR Gates as universal gates.
+3. Implementation of Adders, Subtractors, Multiplexer, and Demultiplexer.
+4. Construct different types of Flip-flops and verify their truth tables.
+5. Design and verify 4-bit BCD adder.
+6. Design and verify 2-bit magnitude comparator.
+7. Implementation and verification of Decoder, and Encoder.
+8. Demonstrate the working of a BCD-to-7 Segment decoder and to verify the truth table.
+9. Design and implement shift registers.
+10. Design and implement synchronous and asynchronous counters.
+11. To study the operation of Arithmetic and logic Unit using 74181 IC.
+12. Implement cache memory approaches in ParaCache Simulator.
+* This is only the suggested list of Practical. The instructor may frame additional Practical
+relevant to the course contents.
+Course Outcomes
+CO1: Realize the Boolean function using basic gates in both SOP/POS form.
+CO2: Realize different combinational circuits with basic gates.
+CO3: Analyse and design sequential digital circuits like flip-flops, registers, counters.
+CO4: Explore the architecture and functionality of memory hierarchy.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 2 2 2 3 3 2
+CO2 3 3 2 2 3 3 2
+CO3 3 3 2 2 3 3 2
+CO4 3 2 2 2 2 3 2
+1 – Low, 2 – Medium, 3 – High
+Page 563
+=== PAGE 31 ===
+CSDC0237 Data Visualization for Product Design Laboratory [0 0 2 1]
+List of Experiments
+1. Introduction to data visualization using Excel, Python and R.
+2. Installation and hands-on exploration of Data Analysis and visualization tools: Power BI,
+Knime and Tableau.
+3. Import a dataset from any repository and perform data cleaning. To Note: Add steps in
+procedure explaining how a dataset has been imported, followed by the steps for data
+cleaning.
+4. Implement Exploratory Data Analysis techniques on a publicly available dataset.
+5. Explore visualization tools for implementing basic plots: Box plot, histogram, heatmap,
+Scatter plot.
+6. Perform feature engineering: Normalization, Binning. Should contain brief explanations about
+each function and their respective inference from the figures.
+7. For features of a dataset, analyze the following values along with their inference:
+a) correlation (chi-squared test and Pearson’s correlation coefficient)
+b) covariance.
+8. Demonstrate the following:
+a) Analyze time series data using any data visualization tool.
+b) Generate a tree map in the tool for any dataset and interpret it.
+9. Import required libraries on any data visualization tool required for clustering and
+classification.
+10. Explain step wise how these libraries can be utilized for various ML algorithms.
+11. Generate a data visualization dashboard
+*This is only the suggested list of Practical. The instructor may frame additional Practical
+relevant to the course contents.
+Course Outcomes
+CO1: Apply the key techniques and theory used in visualization, including data models, graphical
+perception, and techniques for visual encoding and interaction.
+CO2: Analyse several common data domains and corresponding analysis tasks, including multivariate
+data, networks, text, and cartography.
+CO3: Apply the gained knowledge to build and evaluate visualization systems.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PSO
+2
+CO1 2 2
+CO2 3 2 1 1 1 1 1
+CO3 3 2 1 2 2 2 2 1
+1 – Low, 2 – Medium, 3 – High
+Page 564
+=== PAGE 32 ===
+4th Semester
+S.
+No
+Course
+Code Course Title
+Teaching
+Load Credit Course
+Type
+L T P
+1 CSDC0202 Database Management Systems 3 0 0 3 DC
+2 CSDC0204 Design and Analysis of Algorithms 3 0 0 3 DC
+3 CSDC0206 Computer Networks 3 0 0 3 DC
+4 CSDC0208 Formal Language and Automata Theory 3 1 0 4 DC
+5 ECDC0214 Microprocessor and Microcontroller 3 0 0 3 DC
+6 PDFE0xxx Foundation Elective 1 0 0 1 FE3
+7 CSDC0232 Database Management Systems
+Laboratory 0 0 2 1 DC
+8 CSDC0234 Design and Analysis of Algorithms
+Laboratory 0 0 3 2 DC
+9 CSDC0236 Computer Networks Laboratory 0 0 2 1 DC
+10 ECDC0244 Microprocessor and Microcontroller
+Laboratory 0 0 2 1 DC
+TOTAL 16 1 9 22
+Page 565
+=== PAGE 33 ===
+CSDC0202 Database Management Systems [3 0 0 3]
+Course Contents
+Unit 1: Introduction
+An overview of the database management system, Database system Vs file system, Database system
+concepts and architecture, Data models, Schema and instances, Data independence, Overall Database
+Structure, ER model concepts, Notation for ER diagram, Mapping Constraints, Keys, Extended ER
+model: Generalization, Specialization and Aggregation, Reduction of ER diagram to tables.
+Unit 2: Relational Data Model and Language
+Relational data model concepts, Integrity constraints: Domain constraints, Entity integrity, Referential
+integrity, Keys constraints: Concepts of Super, Candidate, Primary and Foreign Keys, Relational
+algebra, Relational calculus: Tuple and Domain calculus, Introduction to SQL: SQL data types and
+literals. Types of SQL commands. Data Definition Language(DDL), Data Manipulation Language
+DML SQL operators, Queries, and subqueries. Aggregate functions. Insert, update, and delete
+operations. Joins, Unions, Intersection, Minus, Cursors, Triggers, Views, and Indexes.
+Unit 3: Database Desig1qn & Normalization
+Functional dependencies, normal forms, first, second, third normal forms, BCNF, Lossless join
+decompositions, Normalization using FD, MVD, and JDs, Query Processing and Optimization:
+Translating SQL Queries into Relational Algebra Operators, Algorithms for SELECT, PROJECT,
+JOIN and Set operations, Query Trees and Heuristics for Query Optimization.
+Unit 4: Transaction Processing Concepts
+Transaction processing, Transaction, and system concepts, Desirable properties of Transactions,
+Serializability of schedules: conflict & view the serializable schedule, Schedules based on
+recoverability, Database Recovery: Failure classification, Recovery from transaction failures, Log-
+based recovery: Deferred update and immediate update, shadow paging, Concurrency Control
+Techniques: Concurrency control, Two-phase locking Techniques for concurrency control, Time
+stamping protocols for concurrency control, Multi-version Concurrency Control, Validation protocol,
+and Multiple granularity schemes, Database Security: Database Security Issues, Discretionary Access
+Control, Mandatory Access Control, Role-Based Access Control, Encryption, and Public Key
+Infrastructures, Challenges to maintain Database Security.
+Course Outcomes
+CO1: Learn data models, conceptualize, and depict a database system using ER diagram
+CO2: Understand and use data manipulation language to query, update, and manage a database
+CO3: Apply normalization on the database design to eliminate anomalies
+CO4: Do the analysis of database transactions and control them by applying ACID properties
+Page 566
+=== PAGE 34 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 2 3 1 2 2 1 2 3
+CO2 3 3 2
+CO3 3 2 2 2 2 2 3
+CO4 2 1 3 3 2 2 2
+1 – Low, 2 – Medium, 3 - High
+Recommended Books
+1. Elmasri, Ramez, and Shamkant B. Navathe. Fundamentals of Database Systems. 7th ed.,
+Pearson Education, 2016.
+2. Korth, Henry F., Abraham Silberschatz, and S. Sudarshan. Database System Concepts. 7th ed.,
+McGraw Hill, 2021.
+3. Date, C. J. An Introduction to Database Systems. 8th ed., Addison Wesley, 2020.
+4. Desai, Bipin C. An Introduction to Database Systems. Galgotia Publication, 2015.
+5. Ramakrishnan, Raghu, and Johannes Gehrke. Database Management Systems. 3rd ed.,
+McGraw-Hill, 2002.
+Page 567
+=== PAGE 35 ===
+CSDC0204 Design and Analysis of Algorithms [3 0 0 3]
+Course Contents
+Unit 1: Foundation of Algorithms
+Introduction to Algorithms and Recurrence Relation Analysis: Definition and characteristics of
+algorithms Importance of algorithm analysis, Amortized analysis Solving recurrence relations,
+Master’s Theorem and substitution method, recursion-tree method, Advanced Sorting and order
+statistics: Merge sort, quick sort, sorting in linear time - Counting sort, Radix sort, Bucket sort, medians
+and order statistics.
+Unit 2: Algorithm Paradigms
+Divide and Conquer Algorithms: Recursive algorithms: Binary search; merge sort; quick sort, Closest
+pair problem, Strassen's matrix multiplication algorithm, Greedy Algorithms: Definition and
+characteristics of greedy algorithms Examples: fractional Knapsack problem, Huffman coding, Job
+scheduling, Dijkstra’s algorithm, optimal merge pattern, Articulation point, Dynamic Programming:
+Principle of optimality Memorization and tabulation techniques Examples: 0-1 knapsack problem,
+longest common subsequence, matrix chain multiplication algorithm, Floyd Warshall algorithm,
+convex hull.
+Unit 3: Backtracking and Branch and Bound
+Backtracking: Overall technique, generation of combinatorial objects such as graphs, sets,
+permutations, graph colorings, cliques, Hamiltonian cycles, N Queen, Branch and Bound method:
+Overall method, the 0/1 knapsack problem, the job assignment problem, the traveling salesman
+problem, etc.
+Unit 4: Advanced Topics
+Advanced Data Structures: Red-Black trees, Binomial Heaps, Fibonacci Heaps, bi-connected
+component and max flow, Complexity Theory: P vs NP problem NP-completeness and NP-hardness
+Reduction techniques Cook's theorem
+Course Outcomes
+CO1: Understand the theoretical foundations of algorithm design and evaluate various techniques for
+analyzing time and space complexity.
+CO2: Analyse and apply various algorithm design paradigms and problem-solving techniques.
+CO3: Analyse the efficiency and correctness of algorithms using mathematical methods and empirical
+analysis.
+CO4: Develop proficiency in implementing and evaluating algorithms for solving real-world
+problems.
+Page 568
+=== PAGE 36 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 3 3 1 1 3 3 2
+CO2 2 3 3 3 2 1 2 2 3
+CO3 2 2 2 2 2 1 3 2 2 3
+CO4 2 3 3 3 2 1 3 3 3 3
+1 – Low, 2 – Medium, 3 – High
+Recommended Books
+1. Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. Introduction
+to Algorithms. 4th ed., The MIT Press, 2022.
+2. Kleinberg, Jon, and Éva Tardos. Algorithm Design. 1st ed., Pearson/Addison-Wesley, 2022.
+3. Sedgewick, Robert, and Kevin Wayne. Algorithms. 5th ed., Addison-Wesley, 2021.
+4. Levitin, Anany. The Design and Analysis of Algorithms. 3rd ed., Pearson, 2011.
+5. Levitin, Anany, and Maria Levitin. Introduction to the Design and Analysis of Algorithms. 3rd
+ed., Pearson, 2011.
+Page 569
+=== PAGE 37 ===
+CSDC0206 Computer Networks [3 0 0 3]
+Course Contents
+Unit 1: Introduction to Computer Networks
+Overview of computer network and its topologies, Network models: layered tasks, OSI model and its
+layers, TCP/IP protocol suite.
+Unit 2: Physical and Data Link Layer
+Physical Layer: Data and signals, Digital transmission, Analog transmission, Bandwidth utilization,
+Transmission media, Switching, Data Link Layer: Error detection and correction: block coding, cyclic
+codes, checksum; Data link control: framing, flow and error control, High level data link control, Point
+to point protocol, multiple access protocols: random access protocol, controlled access protocol,
+channelization protocol.
+Unit 3: Network Layer
+Network Layer: Network layer functions and services, Packet forwarding and routing, Routing
+algorithms: distance vector routing and link state routing and their implementations, Shortest path
+computation, Network layer protocols: IP & ICMP, IP addressing, Sub-netting and super netting
+(CIDR), Address mapping- ARP, RARP, BOOTS, and DHCP.
+Unit 4: Transport Layer
+Transport Layer: Transport Layer Services, User datagram protocol (UDP), Transmission control
+protocol (TCP), TCP connection management, Flow control, Congestion control, TCP congestion
+avoidance algorithms, Quality of service (QoS).
+Unit 5: Session, Presentation and Application Layer
+Session Layer: Session establishment, management, and termination, Dialog control, Synchronization,
+and Session Protocols, Presentation Layer: Data formatting and conversion, Character encoding
+schemes, Data compression, Encryption and decryption, Application Layer: Naming and addressing
+schemes, Domain name system, Hypertext transfer protocol, Remote login protocols- Secure shell and
+Telnet, Electronic mail: SMTP, POP3, File transfer protocol- Secure File Transfer: SFTP and FTPS,
+World wide web, Simple network management protocol.
+Course Outcomes
+CO1: Understand the principles of computer networks, including network topologies, layering
+models, and protocol functions.
+CO2: Explain the functions and services of the network layer, including IP addressing, subnetting,
+CIDR, and routing protocols.
+CO3: Analyse IP addressing schemes and their role in efficient network design and optimization.
+CO4: Evaluate TCP & UDP transport layer protocols for connection management, flow control,
+congestion control, and reliability.
+Page 570
+=== PAGE 38 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 2 2 2 2 1
+CO2 3 1 2 2 1 2 2 2
+CO3 2 3 3 1 2 1 3 2
+CO4 3 3 1 2 2 1 2 2 2
+1 – Low, 2 – Medium, 3 – High
+Recommended Books
+1. Forouzan, Behrouz A. Data Communications and Networking. 6th ed., McGraw Hill, 2022.
+2. Stallings, William. Data and Computer Communications. 10th ed., Pearson Education, 2021.
+3. Forouzan, Behrouz A. TCP/IP Protocol Suite. 4th ed., McGraw-Hill Higher Education, 2009.
+4. Tanenbaum, Andrew S. Computer Networks. 6th ed., Pearson Education India, 2022.
+5. Kurose, James F., and Keith W. Ross. Computer Networking: A Top-Down Approach. 9th ed.,
+Addison-Wesley, 2025.
+Page 571
+=== PAGE 39 ===
+CSDC0208 Formal Language and Automata Theory [3 1 0 4]
+Course Contents
+Unit 1: Introduction
+Languages and Grammars: Alphabets, Strings and their Properties, Language, Operation on Languages.
+Languages and Automata. Grammar, Chomsky Classification of Formal Languages.
+Unit 2: Finite Automata and Regular Languages
+Finite Automata: DFA, NFA, ε-NFA, Equivalence of DFA and NFA, Equivalence of NFA and ε-NFA,
+Moore and Mealy Machines, Equivalence of Moore and Mealy Machines. Minimization of Finite
+Automata, Regular Expressions: Regular Expression, Equivalence of Regular Expression and Finite
+Automata, Closure Properties of Regular Languages, Pumping Lemma and their Application for
+Regular Languages, Decision problems for DFAs and Regular Languages. Regular Sets and Regular
+Grammars.
+Unit 3: Context-free Languages
+Context-free Language: Context-free Grammar, Derivation trees, Leftmost and Rightmost Derivation
+Trees, Ambiguity, Simplification of Context-free Grammars, Normal Forms for Context-free
+Grammars, Pumping Lemma for Context-free Languages, Proving Languages are not Context-free,
+Pushdown Automata: Definition, Equivalence of PDA by Empty Stack and Final State. Construction
+of PDA for CFLs, Closure properties of Context-free Languages, DPDA, NPDA.
+Unit 4: Turing Machines
+Turing Machines: Introduction and Turing Machine Model, Definition of Recursive and recursively
+enumerable languages, Church’s Hypothesis, Computable functions, Methods for Turing Machine
+Construction, Different variations of the Turing Machines, NTM and DTM, TMs as enumerators,
+Characterization of Recursive and Recursively Enumerable Sets Enumerators.
+Unit 5: Decidability
+Decidability, Undecidability, Closure Properties of Recursive and Recursively Enumerable Languages,
+Rice’s Theorem, Enumerability, The Halting Problem.
+Course Outcomes
+CO1: Identify the core concepts in automata theory and formal languages.
+CO2: Design automata and grammars for different language classes.
+CO3: Analyze formal language classes and prove language membership properties.
+CO4: Explain the power and the limitations of regular languages, context-free languages, Recursive,
+and Recursive Enumerable Languages.
+CO5: Measure analytically and intuitively for problem-solving situations in related areas of theory in
+computer science.
+Page 572
+=== PAGE 40 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PSO
+1
+PSO
+2
+CO1 3 1 2
+CO2 2 3 3 1 3 1
+CO3 3 2 2 2 3 3
+CO4 1 2 2 2 2
+CO5 1 3 3 3 2 1 1 2 2
+1 – Low, 2 – Medium, 3 - High
+Recommended Books
+1. Hopcroft, John E., and Jeffrey D. Ullman. Introduction to Automata Theory, Languages and
+Computation. 3rd ed., Pearson Publishers, 2008.
+2. Linz, Peter. An Introduction to Formal Languages and Automata. 7th ed., Jones & Bartlett
+Learning, 2022.
+3. Sipser, Michael. Introduction to the Theory of Computation. 3rd ed., Cengage Learning, 2013.
+4. Krithivasan, Kamala. Introduction to Formal Languages, Automata Theory and Computation.
+Pearson Education India, 2009.
+5. Lewis, Harry R., and Christos H. Papadimitriou. Elements of the Theory of Computation. 2nd
+ed., Prentice-Hall, 1997.
+Page 573
+=== PAGE 41 ===
+ECDC0214 Microprocessor and Microcontroller [3 0 0 3]
+Course Contents
+Unit 1: Number Systems
+Computer Number Systems, Codes and Digital Devices: Review of computer number systems,
+conversions and codes, Arithmetic operations on binary, HEX, and BCD numbers, Basic digital
+devices.
+Unit 2: Microprocessors
+Computers, Microcomputers and Microprocessors: Computers and Microcomputers, Overview of
+microcomputer structure and operation, Insights into 8085 Microprocessor Architecture and its
+Programming, 8086 Microprocessor: its Architecture, its Functional diagram, its Register Organization
+and Memory Segmentation, its Programming Model, its Memory addresses and Physical Memory
+Organization, 8086 Pin Functions, 8086 Addressing Modes and its assembly language instruction set,
+its string and flag Control Instructions and operations, Processor Control Instructions, Stack operations,
+Programming Examples, Multitasking and Multiprogramming, MIN/MAX Modes.
+Unit 3: Memories and Interrupts
+Memories, Coprocessors, and EDA Tools: Maximum Mode, Interfacing and Refreshing Dynamic
+RAMs, The 8087 Math Coprocessor, 8089, Computer Based Design and development Tools, Interrupts
+and I/O Interfacing: 8086 Interrupts and Types, Software Interrupt Applications, Programmable
+Parallel Ports and Handshake Input/output, Interfacing Keyboards and Alphanumeric Displays, Serial
+I/O, Developing the Prototype of a Microcomputer Based Instrument
+Unit 4: Microcontrollers
+Introduction to 8051 Microcontroller: its architecture and pin diagram, Registers, Flags, Special
+Function Registers, Addressing Modes, Data types, assembly language instructions and programming,
+Single –bit operations, Timer and Counter, Interrupts, Serial communication.
+Unit 5: Hardware Interface
+Hardware interfacing: I/O Port programming, Bit manipulation, interfacing to a LED, LCD, Keyboard,
+ADC, Stepper Motors and sensors.
+Page 574
+=== PAGE 42 ===
+Course Outcomes
+CO1: Apply the digital concepts in order to understand the architecture and organization of 16-
+bit microprocessor along with instruction coding formats and interrupt applications.
+CO2: Understand and write structured and well-commented programs in assembly language with
+an ability to test and debug them.
+CO3: Analyse the concept of software/ hardware interrupts and to perform I/O using handshaking
+and interrupts.
+CO4: Understand the architecture and programming model of 8051 microcontroller and its
+interfacing applications.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PSO
+1
+PS
+O2
+CO1 3 3 2 1 2
+CO2 2 2 3 2 3 2 1
+CO3 1 2 3 2
+CO4 2 1 2 2
+1 – Low, 2 – Medium, 3 – High
+Recommended Books
+1. Hall, Douglas V. Microprocessors and Interfacing. Tata McGraw-Hill, 1989.
+2. Brey, Barry B. The Intel Microprocessors: 8086/8088, 80186/80188, 80286, 80386 and 80486,
+Pentium and Pentium Pro Processor Architecture, Programming and Interfacing. Pearson
+Education, 2003.
+3. Mathur, Aditya P. Introduction to Microprocessors. Tata McGraw-Hill, 1989.
+4. Mazidi, Muhammad Ali, Janice Gillispie Mazidi, and Rolin D. McKinlay. The 8051
+Microcontrollers & Embedded Systems. 2nd Indian reprint, Pearson Education, 2002.
+5. Gaonkar, Ramesh S. Microprocessor Architecture, Programming, and Applications with the
+8085. 6th ed., Penram International Publishing, 2013.
+Page 575
+=== PAGE 43 ===
+CSDC0232 Database Management Systems Laboratory [0 0 2 1]
+List of Experiments
+1. Hands-on practice in creating and modifying database tables using Data Definition Language
+(DDL) and Data Manipulation Language (DML) commands.
+2. Implementation and enforcement of data integrity constraints such as Primary Key, Foreign Key,
+Unique, and Not Null constraints.
+3. Writing and executing SQL queries involving aggregate functions, grouping data, and sorting
+results using Group By, Having, and Order By clauses.
+4. Applying relational algebra operations like UNION, INTERSECT, and MINUS in SQL queries for
+data manipulation.
+5. Constructing SQL queries to retrieve data from multiple tables using various types of joins
+including Equi-Join, Non-Equi-Join, and Outer Join.
+6. Formulating SQL queries containing subqueries and nested queries for complex data retrieval.
+7. Utilizing advanced SQL query techniques involving subqueries, set operators (ANY, ALL, IN),
+and constraints for comprehensive data analysis.
+8. Creating and managing database views, indexes, and sequences for efficient data access and
+manipulation.
+9. Practicing Data Control Language (DCL) and Transaction Control Language (TCL) commands for
+managing database security and transactions.
+10. Introduction to PL/SQL programming basics, including variables, control structures, and basic
+query construction.
+11. Writing PL/SQL code with CASE statements, loops, and exception handling mechanisms for
+effective database programming.
+12. Developing stored procedures and user-defined functions in PL/SQL for modular code reuse and
+customization.
+13. Designing and implementing database triggers for automatic actions in response to database events.
+14. Understanding and utilizing cursors in PL/SQL for iterative processing of query results.
+15. Integrating SQL statements within host programming languages for seamless database interaction.
+* Students are advised to use Oracle/MySQL or other latest database software for above-listed
+experiments.
+* Mini Project may also be planned & carried out throughout the semester to understand the
+important various concepts of Database.
+* This is only the suggested list of Practical’s. Instructor may frame additional Practical’s relevant
+to the course contents.
+Page 576
+=== PAGE 44 ===
+Course Outcomes
+CO1: CO2: CO4: CO5: Apply DDL and DML commands proficiently, ensuring data integrity with various constraints.
+Execute advanced SQL queries with aggregate functions and subqueries.
+CO3: Design and implement database optimizations for performance and security using views,
+indexes, and sequences.
+Apply PL/SQL fundamentals for effective transaction management.
+Utilize Embedded SQL in host languages, showcasing advanced database skills through a mini-
+project.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PSO
+2
+CO1 2 3 1 2 2 1 3 3 1
+CO2 3 3 2 1 2
+CO3 3 2 2 2 2 2 1
+CO4 2 1 3 2 3 2 1 2
+CO5 1 1 2 2 1 1 2 2
+1 – Low, 2 – Medium, 3 – High
+Page 577
+=== PAGE 45 ===
+CSDC0234 Design and Analysis of Algorithms Laboratory [0 0 3 2]
+List of Experiments
+1. Implement and classical sorting algorithms (insertion sort, selection sort, bubble sort) and
+advanced algorithms (merge sort, quick sort, heap sort).
+2. Implement linear time sorting algorithms (counting sort, radix sort, bucket sort) and order
+statistics algorithms (medians and order statistics).
+3. Implement divide and conquer algorithms such as binary search, merge sort, quick sort, closest
+pair problem, and Strassen's matrix multiplication algorithm.
+4. Implement and analyze greedy algorithms including fractional Knapsack problem, Huffman
+coding, Job scheduling, Dijkstra’s algorithm, optimal merge pattern, Articulation point.
+5. Implement dynamic programming algorithms using memoization and tabulation techniques for
+problems such as the 0-1 knapsack, longest common subsequence, convex hull and matrix chain
+multiplication.
+6. Implement backtracking algorithms for combinatorial problems such as graph coloring, set
+generation, permutations, cliques, Hamiltonian cycles, and N Queen.
+7. Implement branch and bound algorithms for optimization problems such as the 0/1 knapsack
+problem, job assignment problem, and traveling salesman problem.
+8. Study and analyze complexity theory concepts including P vs NP problem, NP-completeness,
+NP-hardness, and reduction techniques such as Cook's theorem.
+9. Implement various advanced data structures such as Red-Black trees, Binomial Heaps, and
+Fibonacci Heaps. Perform operations like insertion, deletion, and search, and analyze their time
+complexities.
+*Mini Project may also be planned & carried out throughout the semester to understand the
+important various concepts of Design and Analysis of Algorithms.
+*This is only the suggested list of Practical’s. Instructor may frame additional Practical’s relevant to
+the course contents.
+Course Outcomes
+CO1: Develop practical skills in implementing algorithms and data structures.
+CO2: Understand the efficiency and correctness of algorithms through empirical analysis.
+CO3: Develop experience in analyzing and evaluating algorithm performance using experimental
+methods.
+CO4: Apply algorithmic problem-solving techniques to solve real-world problems.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 3 3 1 1 3 3 2
+CO2 2 3 3 3 2 1 2 2 3
+CO3 2 2 2 2 2 1 3 2 2 3
+CO4 2 3 3 3 2 1 3 3 3 3
+1 – Low, 2 – Medium, 3 – High
+Page 578
+=== PAGE 46 ===
+CSDC0236 Computer Networks Laboratory [0 0 2 1]
+List of Experiments
+1. Hands-on with Network Physical Components (Network Cabling, cable pairing)
+2. Introduction to Cisco Packet Tracer/GNS3/Wireshark/NetSim/Mininet/Network
+Simulator/OPNET – Cover network devices, cables, and end-devices.
+3. Connect a PC to another PC and design a network using a hub/switch. Assign IP addresses and
+subnet masks. Implement network topologies.
+4. Topology Implementation: Implement Bus, Ring, Mesh, and Hybrid topologies.
+5. Implementation of error detection and correction techniques.
+6. Implementation of ARQ protocols such as Stop-and-Wait, Go-Back-N and Selective Repeat.
+7. Assign IP addresses and subnet masks, use the ping command for connectivity checks, and
+observe message flow and configuration status.
+8. Network Design Using Routers: Connect two separate networks using a router.
+9. Route Configuration: Design static, dynamic, and default route configurations.
+10. NAT and PAT Design: Configure Network Address Translation (NAT) and Port Address
+Translation (PAT).
+11. VLAN Configuration: Design and implement VLANs.
+12. Real-world Network Infrastructure: Experience the setup and management of real-world network
+infrastructure.
+13. Network Programming – IP Handling, Sending Packets, and UDP/TCP Sockets
+14. Client/Server Application Implementation
+15. Packet Capturing and Analysis: Use monitoring tools for packet analysis.
+16. Application Testing: Use network monitoring tools for application testing.
+17. Scripting especially Linux/Unix environment may be encouraged.
+* This is only the suggested list of practicals. The instructor may frame additional practicals relevant
+to the course contents.
+Course Outcomes
+CO1: Understand the processes involved in setting up and configuring network devices, cables, and
+end-end-devices using simulation tools
+CO2: Apply routing configurations to connect separate networks and design route configurations,
+including static, dynamic, and default routes.
+CO3: Create comprehensive network designs that incorporate routers, NAT and PAT, and VLAN
+configurations, and simulating real-world network infrastructures.
+CO4: Apply knowledge of network programming (IP handling, sending packets, UDP/TCP sockets)
+to develop and test network applications.
+Page 579
+=== PAGE 47 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 3 2 3
+CO2 3 3 2 3
+CO3 3 3 3 3
+CO4 2 3 2 3 3 3
+1 – Low, 2 – Medium, 3 – High
+Page 580
+=== PAGE 48 ===
+ECDC0244 Microprocessor and Microcontroller Laboratory [0 0 2 1]
+List of Experiments
+I. Microprocessor 8086:
+1. Brief introduction to 8085 ALP.
+2. Arithmetic operation – Multi byte Addition and Subtraction, Multiplication and
+Division – Signed and unsigned Arithmetic operation, ASCII – arithmetic operation
+based 8086 assembly language programs.
+3. Logic operations – Shift and rotate – Converting packed BCD to unpacked BCD, BCD
+to ASCII conversion based 8086 assembly language programs.
+4. By using 8086 string operation and Instruction prefix: Move Block, Reverse string,
+Sorting, Inserting, Deleting, Length of the string, String comparison.
+5. DOS/BIOS programming: Reading keyboard (Buffered with and without echo) –
+Display characters, Strings.
+6. 8086 based interfacing
+II. Microcontroller 8051:
+1. Assembly language programs for Data transfer, arithmetic and logical operations.
+2. I/O port programming
+3. Timer and counter programming in different modes.
+4. Serial communication implementation.
+5. Interrupts
+6. 8051 based interfacing of LEDs, LCD, Seven-segment display,
+Switches, keyboard, A/D converter, Sensor, Relays etc.
+* This is only the suggested list of Practical’s. Instructor may frame additional
+Practical’s relevant to the course contents.
+Course Outcomes
+CO1: Understand and gain the knowledge of computer hardware to configure computer systems
+CO2: Understand the concept of 8085 programming and write 8086 ALPs to design an I/O
+application. Configure and do various port programming.
+CO3: Design and configure 8051 based ALPs and perform port, timers etc. programming. To
+implement assembly language programming for 8085, 8086 microprocessors.
+CO4: Design 8051 based interfacing application to interface I/O devices.
+Page 581
+=== PAGE 49 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO1
+0
+PO1
+1
+PO1
+2
+PSO
+1 PSO2
+CO1 2 1 2 1
+CO2 1 2 2 2 1
+CO3 2 2 2 2 1 2
+CO4 2 3 2 2 2
+1 – Low, 2 – Medium, 3 – High
+Page 582
+=== PAGE 50 ===
+PDFE0201 Information Security [1 0 0 1]
+Course Contents
+Unit 1: Introduction to Information Security
+Definition, Importance, and Key Principles (Confidentiality, Integrity, Availability - CIA Triad); Types
+of Security Threats & their Preventions: Malware, Phishing, Social Engineering; Overview of Cyber
+Laws (IT Act 2000 & Amendments), and Digital Personal Data Protection Act. 2023; Challenges Faced
+by Law Enforcement Agencies and Their Consequences Across Various Domains
+Unit 2: Basics of Cryptography and Authentication
+Basic Encryption and Decryption Concepts (Symmetric & Asymmetric Encryption); Introduction to
+Hashing (MD5, SHA); Authentication Methods: Passwords, Multi-Factor Authentication (MFA)
+Unit 3: Network and Web Security
+Basics of Firewalls, VPNs, and Secure Communication (SSL/TLS); Common Web Attacks: SQL
+Injection, Cross-Site Scripting (XSS); Safe Browsing Practices
+Unit 4: Cybersecurity and Best Practices
+Cybercrime and Preventive Measures; Ethical Hacking and Basic Security Audits; Security Best
+Practices: Strong Passwords, Software Updates, Backups; Best Practices with a Special Emphasis on
+Ethics.
+Course Outcomes
+CO1: Understand the fundamentals of information security and the CIA triad.
+CO2: Identify various security threats and explain their preventive measures.
+CO3: Analyze cyber laws and data protection regulations.
+CO4: Differentiate cryptographic concepts, authentication methods, and network security principles.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 2 2 1 2 1
+CO2 3 3 2 2 2 2
+CO3 3 3 3 2 3 2
+CO4 3 3 2 2 2 2 2
+1 – Low, 2 – Medium, 3 – High
+Page 583
+=== PAGE 51 ===
+Recommended Books
+1. Stallings, William. Cryptography and Network Security: Principles and Practice. 8th ed.,
+Pearson Education, 2024.
+2. Kahate, Atul. Cryptography and Network Security. 4th ed., McGraw-Hill, 2019.
+3. Pfleeger, Charles P., and Shari Lawrence Pfleeger. Security in Computing. 6th ed., Addison-
+Wesley Professional, 2023.
+4. Stamp, Mark. Information Security: Principles and Practice. 3rd ed., Wiley, 2021.
+5. Information Technology Act, 2000 (No. 21 of 2000) as amended by the Information
+Technology (Amendment) Act, 2008 (No. 10 of 2009). Government of India Gazette, 27 Oct.
+2009.
+6. Digital Personal Data Protection Act, 2023 (No. 22 of 2023). Government of India Gazette, 11
+Aug. 2023.
+Page 584
+=== PAGE 52 ===
+CSDC0261 Data Structures Laboratory [0 0 2 1]
+List of Experiments
+1. Write a program to implement basic operations on 1D array e.g. Insertion, Deletion, Traversal, and
+Searching.
+2. Write a program to implement basic operations on 2D array/ Matrix e.g. Addition, Subtraction,
+Multiplication, Transpose.
+3. Write a program using dynamic variable & pointers to implement insertion and deletion operation
+on a singly linked list consisting of the following information in each node. Student id (integer),
+student name (character string) & semester (integer).
+4. Write a program to implement basic operations on doubly Linked List e.g. Insertion, Deletion,
+Traversal, and Searching.
+5. Write a program to implement push, pop, and display operations on stack of integers. The program
+should print appropriate messages for stack overflow, stack Underflow & stack empty.
+6. Write a c program to evaluate a valid postfix expression using a Stack, assume that the
+suffix/postfix expression is read as a single line consisting of non-negative single digit operands
+& binary arithmetic operands. The arithmetic operators are + (ADD), - (subtract), *(multiply) & /
+(divide).
+7. Implementation of queue data structure using array and linked list with the basic functions of
+Create(), IsEmpty(), Insert(), Delete() and IsFull().
+8. Write a program to construct a binary search tree of integers and traverse the tree using all the
+methods i.e. inorder, preorder & Postorder to display the elements in the tree.
+9. Write a program to implement Breadth-First Search (BFS) and Depth-First Search (DFS)
+algorithms.
+10. Implementation of Kruskal and Prims Minimal Spanning Tree algorithms.
+11. Write a modified version of DFS algorithm to print all the connected components of a graph.
+12. Write a program to sort a list of N integers using the merge sort, quick sort, insertion sort, Heap
+sort algorithm.
+* This is only the suggested list of practicals. The instructor may frame additional practicals relevant
+to the course contents.
+Course Contents
+CO1: Apply sequential data structures e.g. Array and Linked list to solve basic problems.
+CO2: Apply and analyze stack and queue data structures to solve practical problems in
+real-life scenarios.
+CO3: Apply variety of data structures, including trees, and graphs to address diverse and complex
+real- time computing problems.
+CO4: Evaluate different sorting algorithms and their applicability in various contexts. Assess and
+select suitable data structures for specific applications.
+Page 585
+=== PAGE 53 ===
+Course
+Outcomes Programme Outcomes
+P
+O
+1
+P
+O
+2
+P
+O
+3
+P
+O
+4
+P
+O
+5
+P
+O
+6
+P
+O
+7
+P
+O
+8
+P
+O
+9
+P
+O
+10
+P
+O
+11
+P
+O
+12
+PS
+O
+1
+PS
+O
+2
+CO1 2 3 2 3 2 1 3 1
+CO2 2 1 2 1 1 3
+CO3 3 2 3 3 2 2 3 3 1
+CO4 1 1 1 2 2 3 1
+1 – Low, 2 – Medium, 3 – High
+Page 586
+=== PAGE 54 ===
+5th Semester
+S.
+No Course
+Code
+Course Title
+1 CSDC0301 Artificial Intelligence 2 CSDC0303 Compiler Design 3 CSDC0305 Operating Systems 4 CSDC0307 Data Mining and Analytics 5 CSDE03XX/
+XXGE03XX
+Department Elective – I/
+Generic Elective - I
+6 CSDC0333 Compiler Design Laboratory 7 CSDC0335 Operating Systems Laboratory 8 CSDC0337 Data Mining and Analytics Laboratory 9 CSTR0300 Industrial Practical Training (after 4thSem) 10 CSPR0301 Project-1 (Phase-I) TOTAL Teaching
+Load Credit Course
+Type
+L T P
+3 0 0 3 DC
+3 0 0 3 DC
+3 0 0 3 DC
+3 0 0 3 DC
+3 0 0 3 DE/GE
+0 0 2 1 DC
+0 0 2 1 DC
+0 0 2 1 DC
+0 0 0 2 TR
+0 0 2 2 PR
+15 0 8 22
+Page 587
+=== PAGE 55 ===
+CSDC0301 Artificial Intelligence [3 0 0 3]
+Course Contents
+Unit 1: Introduction to Artificial Intelligence
+Definitions, The foundations of Artificial Intelligence, The History of Artificial Intelligence, The state
+of the art. Intelligent: Agents and Environments, The concept of Rationality, The Nature of
+Environments, The Structure of Agents.
+Unit 2: Problem Solving
+Solving Problems by Searching: Problem-Solving Agents, Example Problems, Searching for Solutions,
+Uninformed Search, Informed (Heuristic Search), Heuristic Functions. Hill climbing search,
+Adversarial search: Game Playing Optimal decision in Games, Mini-max search procedure, Alpha-beta
+cut-offs, Constraint Satisfaction Problems.
+Unit 3: Knowledge Representation
+Logical Agents, Propositional Logic, First order Logic, Inference in First Order Logic: Unification and
+Resolution.
+Unit 4: Uncertain Knowledge and Reasoning
+Quantifying Uncertainty- Acting under uncertainty, Inference using full joint Distributions,
+Independence, Bayes Rule. Probabilistic reasoning, representing knowledge in uncertain domain, the
+semantics of Bayesian networks, Exact Inference in Bayesian Networks, Approximate Inference in
+Bayesian Networks
+Unit 5: Case Studies & Trends in AI
+Landmark AI case studies (AlphaFold, ChatGPT, AlphaGo, autonomous vehicles, AI in healthcare),
+AI in industries (finance, marketing, cybersecurity, legal tech), ethical & societal issues (bias, XAI,
+misinformation, privacy), and emerging trends (multimodal AI, neuroscience, sustainability, generalist
+AI models.
+Course Outcomes
+CO1: Analyse and evaluate problems to determine their suitability for AI based solutions
+CO2: Apply AI algorithms to formalize a given problem and represent knowledge using various
+languages/frameworks
+CO3: Understand the fundamental principles underlying various AI algorithms, such as standard
+search algorithms or resolution
+CO4: Analyse and apply modern tools and technologies to solve real-world problems
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 2 3 3 3 2 2 2 1
+CO2 2 3 2 2 3 1 2 2
+CO3 2 3 2 1 1
+CO4 2 3 3 3 2 1
+1 – Low, 2 – Medium, 3 – High
+Page 588
+=== PAGE 56 ===
+Recommended Books
+1. Russell, Stuart, and Peter Norvig. Artificial Intelligence: A Modern Approach. 4th ed., Prentice
+Hall, 2020.
+2. Michalski, Ryszard S., Jaime G. Carbonell, and Tom M. Mitchell. Machine Learning: An
+Artificial Intelligence Approach. Morgan Kaufmann, 1983.
+3. Alpaydin, Ethem. Introduction to Machine Learning. 2nd ed., MIT Press, 2010.
+4. Mitchell, Tom. Machine Learning. 1st ed., McGraw Hill Education, 2017.
+5. Biere, Armin, Marijn Heule, Hans van Maaren, and Toby Walsh, editors. Handbook of
+Satisfiability. IOS Press, 2009.
+Page 589
+=== PAGE 57 ===
+CSDC0303 Compiler Design [3 0 0 3]
+Course Contents
+Unit 1: Introduction
+Language Processors, Single and multi-pass compilers, Phases of a compiler, Applications of
+compilers, Compiler Construction tools. Bootstrapping, Back patching.
+Unit 2: Lexical Analysis and Syntax Analysis
+Lexical Analysis: The role of lexical analyzer, Input Buffering, Specification of Tokens, Recognition
+of Tokens, Lex, Finite Automata, RE to FA, Design of a Lexical-Analyzer Generator, Optimization of
+DFA-based pattern matchers, Syntax Analysis: Parser, CFG, Writing a grammar (Eliminating
+Ambiguity, Eliminating Left Recursion, Left Factoring), Top-down Parsing (Recursive-descent
+parsing, LL(1) grammars, Non-recursive predictive parsing), Bottom-up parsing (Shift-reduce parsing,
+LR-parsing algorithm, Construction of SLR parse tables for Ambiguous grammar. Canonical LR
+parser, LALR parser, YACC, Parser Generators, Error Recovery in Top Down and Bottom up Parsing.
+Unit 3: Syntax-Directed Translation and Intermediate Code Generation
+Syntax-Directed Translation: Syntax-Directed Definitions, Syntax tree construction, bottom up and top
+down evaluation of attributes, S-attributed and L-attributed definitions, Intermediate Code Generation:
+Dependency graph, Postfix notation; Three address codes, quadruples, triples and indirect triples,
+Control flow and translation of assignment statements, Case Statements, Boolean expression and
+Procedure Calls, Type checking.
+Unit 4: Code Optimization
+Code Generation: Issues in the design of a code generator, The target language, Addresses in the target
+code, Basic blocks and flow graphs, The Dag representation of basic block, Optimization of basic
+blocks, Peephole optimization, Register allocation and assignment, Instruction selection by tree
+rewriting, Optimal code generation for expressions, Dynamic programming code generation, Code
+Optimization: Redundancy, Semantic-preserving transformations, Global common sub- expressions,
+copy propagation, dead-code elimination, Code Motion, Induction Variables and Reduction in strength,
+Data-flow analysis, Constant Propagation, Partial-redundancy Elimination, Loops in flow graphs,
+Region-based analysis, Symbolic Analysis.
+Unit 5: Run-time Environments:
+Storage organization, Stack allocation of space, Access to the non- local data on the stack, Heap
+management, Garbage Collection, Trace-based collection, Short-pause garbage collection.
+Course Outcomes
+CO1: Understand the lexical, syntactic and semantic structures of advanced language features.
+CO2: Analyze the lexical, syntactic and semantic analysis into meaningful phases for a compiler to
+undertake language translation.
+CO3: Create a scanner, parser, and semantic analyser without the aid of automatic generators.
+CO4: Apply different techniques for intermediate code and machine code optimization
+Page 590
+=== PAGE 58 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 1 2
+CO2 2 3 3 1 3 1
+CO3 3 2 2 2 3 3
+CO4 1 2 2 2 2
+1 – Low, 2 – Medium, 3 – High
+Recommended Books
+1. Aho, Alfred V., Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman. Compilers: Principles,
+Techniques, and Tools. 2nd ed., Jan. 2023.
+2. Louden, Kenneth C. Compiler Construction: Principles and Practice. 1st ed., Cengage Learning,
+24 Jan. 1997.
+3. Holub, Christopher. Compiler Design in C. 2nd ed., Prentice-Hall, 1993.
+4. Bergmann, Seth D. Compiler Design: Theory, Tools, and Examples. Version 2, 17 May 2024,
+Rowan Digital Works.
+5. Mogensen, Torben Ægidius. Introduction to Compiler Design. 3rd ed., Springer, 2024.
+Page 591
+=== PAGE 59 ===
+CSDC0305 Operating Systems [3 0 0 3]
+Course Contents
+Unit 1: Operating Systems Objectives, Services, and Functions
+Introduction to operating system, Types of operating systems and differences among them; Basic
+Computer Architecture, OS as a virtual machine; User and Operating System View, System Calls,
+System Services, Linkers and Loaders, Booting, OS as a resource manager, Interrupts and traps, System
+calls, Limited direct execution, user versus kernel mode.
+Unit 2: Processes and Deadlocks
+Introduction to processes management, various process transition states, Introduction to Processor
+scheduling, types of schedulers, Performance criteria in scheduling algorithms, FCFS scheduling
+algorithm, Priority scheduling algorithm like SJF, Non-preemptive and Preemptive algorithms, Round-
+robin scheduling algorithm, Concept of multi-level queues, feedback queues,, Real- Time CPU
+Scheduling, Thread v/s process, Process and Thread APIs, Process Synchronization: Inter-process
+communication and Processes: IPC in Shared-Memory Systems and Message-Passing Systems, Race
+condition, mutual exclusion, The Critical Section Problem (CSP), Algorithmic solutions to CSP –
+Dekker’s, Peterson’s, Lamport Bakery Solution; Hardware Support for Synchronization – Test and Set,
+Compare and Swap; OS support for synchronization - Mutex Locks, Semaphores, Monitors; Condition
+Variables; Classic Problems of Synchronization – Producer Consumer, Sleeping Barber; Dining
+Philosopher’s Problem, Deadlocks: Deadlocks, issues related to its prevention, avoidance and detection
+/ recovery,
+Unit 3: Memory Management
+Need of Memory management and its requirements, paging, segmentation, fragmentation.
+Characteristics of contiguous & non-contiguous allocation techniques, Virtual memory management,,
+Paging Techniques, FIFO and optimal page-replacement algorithms, Anomalies, Segmentation
+Techniques and combination with Paging
+Unit 4: I/O Management
+Overview of Mass-Storage Structure, HDD Scheduling,,; I/O Systems -Overview; I/O Hardware;
+Kernel I/O Subsystem, Transforming I/O Requests to Hardware Operations.
+Unit 5: File Management
+File Concept, Access Methods, Directory Structure, Protection, File System Interface, Shared files. File-
+System Implementation: Structure and Operations; Directory Implementation; Allocation Methods;
+Free-Space Management; Case study: EXT, NTFS, HFS.
+Course Outcomes
+CO1: Understand the fundamental functions and components of an operating system.
+CO2: Compare and contrast different operating system designs and algorithms, and assess their
+suitability for various scenarios.
+CO3: Examine the operational mechanisms of various subcomponents within the operating system.
+CO4: Demonstrate proficiency in implementing programming and system-level tasks
+within an operating system.
+CO5: Apply problem-solving strategies and critical-thinking skills in the context of operating systems.
+Page 592
+=== PAGE 60 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 1 3
+CO2 3 2 1 1 1
+CO3 2 2 3 1
+CO4 2 3 3 3 3
+CO5 3 3 3 2 2 1
+1 – Low, 2 – Medium, 3 – High
+Recommended Books
+1. Peterson, Abraham, and Galvin Silberschatz. Operating System Concepts. 10th ed., Addison-
+Wesley, 2023.
+2. Tanenbaum, Andrew S. Modern Operating Systems. 5th ed., Pearson Education, 2024.
+3. Stallings, William. Operating Systems. 9th ed., Pearson, 2018.
+4. Dhamdhere, D. M. Introduction to Systems Software. 3rd ed., Tata McGraw-Hill, 2017.
+5. Chauhan, N. Principles of Operating Systems. 1st ed., 2018.
+Page 593
+=== PAGE 61 ===
+CSDC0307 Data Mining and Analytics [3 0 0 3]
+Course Contents
+Unit 1: Foundations of Data Mining and Analytics
+What is Data Mining, Data Mining: An essential step in knowledge discovery, Diversity of data types for data
+mining, Mining various kinds of knowledge, Data Mining and applications. Data, measurements and data
+preprocessing, Statistics of data, Similarity and distance measures, Data quality, data cleaning and data
+integration, Data transformation, Dimensionality reduction. Overview of Data analytics and its importance,
+Introduction to Data Analytics Life Cycle
+Unit 2: Pattern Mining
+Basic concepts, Frequent itemset mining methods: Apriori Algorithms, Generating association rules from
+frequent itemsets, Improving the efficiency of Apriori, Frequent-Pattern growth. Pattern evaluation methods.
+Unit 3: Data Warehousing
+Data warehouse modelling: schema for multidimensional data models, concept hierarchies, measures:
+categorization and computations. OLAP operations, Data cube computations
+Unit 4: Tools for Data Mining & Analytics
+Introduction to MongoDB, Data Types, and MongoDB Query Language. Introduction to Hadoop, RDBMS vs
+Hadoop, key aspects of Hadoop, Hadoop components
+Unit 5: Ethics & Trends in Data Mining & Analytics
+Case Study and real-world applications of data mining and analytics, Mining Rich data types, Data Mining
+Methodologies and systems. Ethical consideration and data privacy, Bias and fairness in data analytics, Ethical
+challenges and guidelines, Responsible data analytics practices, Emerging Trends in data analytics
+Course Outcomes
+CO1: To explain core concepts of data mining and analytics, including data types, preprocessing,
+statistics, and lifecycle.
+CO2: To apply mining algorithms like Apriori and FP-Growth for pattern discovery and association
+analysis.
+CO3: To design data warehouse models and use tools like MongoDB and Hadoop for data analytics.
+CO4: To evaluate ethical concerns, privacy issues, and emerging trends using case studies.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 2 2 2 2 2
+CO2 3 3 2 2 2 3
+CO3 3 3 2 3 3 3
+CO4 3 3 2
+1 – Low, 2 – Medium, 3 – High
+Page 594
+=== PAGE 62 ===
+Recommended Books
+1. Han, Jiawei, Jian Pei, and Hanghang Tong. Data Mining: Concepts and Techniques. Morgan
+Kaufmann, 2022.
+2. Leskovec, Jure, Anand Rajaraman, and Jeffrey David Ullman. Mining of Massive Data Sets.
+Cambridge University Press, 2020.
+3. Acharya, Seema, and Subhashini Chellappan. Big Data and Analytics. Wiley, 2019.
+4. Black, Ken. Business Statistics: For Contemporary Decision Making. John Wiley & Sons,
+2023.
+5. Russell, Matthew A. Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn,
+Google+, GitHub, and More. O'Reilly Media, 2013.
+Page 595
+=== PAGE 63 ===
+CSDC0333 Compiler Design Laboratory [0 0 2 1]
+List of Experiments
+1. Write a program to search the number of occurrences of any word, string and sub-sequence in
+string.
+2. Write a program to find the number of occurrences of any word in a file and replace that with
+another word.
+3. Implement the lexical analyser using Lex, Flex or other lexical analyser generating tools and
+write the following programs using LEX:
+- Count the number of characters, words, spaces, and lines in each input file.
+- Count the number of comment lines in each C program. Also eliminate them and copy the
+resulting program into a separate file.
+- Recognize a valid arithmetic expression and the identifiers and operators present. Print them
+separately.
+- Recognize and count the number of identifiers in each input file.
+4. Write a program to check whether a string belongs to the grammar or not. Also, generate a parse
+tree.
+5. Write programs to check for left recursion and left factoring. Also, implement removal of left
+recursion and left factoring.
+6. Write a program to implement FIRST and FOLLOW for a given grammar.
+7. Write programs to implement Recursive-Descent and Non-recursive Predictive parser.
+8. Write a program to check whether a given grammar is LL(1) or not.
+9. Write a program to implement shift-reduce parsing algorithm.
+10. Write a program to:
+- Construct LR Parsing table and implement LR parsing algorithm,
+- Construct CLR Parsing table and implement CLR parsing algorithm,
+- Construct LALR Parsing table and implement LALR parsing algorithm.
+11. Write YACC programs to recognize:
+- A valid arithmetic expression using operators +, -, *, /
+- Strings like 'aabb', 'abbb', 'ab', and 'a' using the grammar (aⁿbⁿ, n ≥ 10)
+12. Write a program to:
+- Implement the syntax-directed definition of 'if E then S1' and 'if E then S1 else S2'
+- Implement a Symbol Table with functions to create, insert, modify, search and display
+* This is only the suggested list of Practical’s. Instructor may frame additional Practicals relevant to
+the course contents.
+Course Outcomes
+CO1: Design a Lexical analyser for a given language using C and LEX tools.
+CO2: Design and convert BNF rules into YACC form to generate various parsers.
+CO3: Generate the intermediate code.
+CO4: Generate machine code from the intermediate code forms.
+CO5: Implement Symbol table and compiler design aspects.
+Page 596
+=== PAGE 64 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 2 2 2
+CO2 2 3 2 3 3 2 3
+CO3 3 3
+CO4 2 3 2 2
+CO5 2 3 3 2
+1 – low, 2 – Medium, 3 - High
+Page 597
+=== PAGE 65 ===
+CSDC0335 Operating Systems Laboratory [0 0 2 1]
+List of Experiments
+1. Installation and working with GCC on Linux
+2. Write a shell script that performs the following tasks:
+a) File manipulation: Create, delete, copy, and move files and directories.
+b) Text processing: Search for specific patterns in files and perform text transformations.
+c) System monitoring: Retrieve system information like CPU usage, memory utilization, and disk
+space.
+d) Automation: Automate a repetitive task on your Linux system using a shell script.
+3. Develop a program that interacts with the Linux file system. Your program should enable users to:
+a) Create files and directories.
+b) Navigate through directories and display their contents.
+c) Copy or move files and directories.
+d) Change file permissions and ownership.
+4. Implement a program in Linux that demonstrates the following process management concepts:
+a) Process creation: Create child processes using the fork() system call.
+b) Process termination: Terminate processes using the exit() system call.
+c) Process synchronization: Synchronize processes using semaphores, mutexes, or other
+synchronization mechanisms.
+d) Signal handling: Handle signals like SIGINT or SIGTERM in your program
+5. Simulation of the CPU scheduling algorithms such as Round Robin, SJF, FCFS, Priority
+6. Simulation of MUTEX and SEMAPHORES.
+7. Simulation of Bankers Deadlock Avoidance and Prevention algorithms.
+8. Implementation of Process Synchronization (Reader-Writer, Sleeping Barber and Dining
+Philosopher’s Problem)
+9. Simulation of page Replacement Algorithms such as FIFO, LRU, and Optimal
+10. Simulation of paging techniques of memory management.
+11. Simulation of Disk Scheduling Algorithms such as SSTF, SCAN, LOOK etc.
+12. Simulation of file allocation Strategies like Sequential, Indexed, Linked
+13. Simulation of file organization techniques such as Single Level Directory, Two Level,
+Hierarchical, DAG.
+* This is only the suggested list of Practicals. Instructor may frame additional relevant Practical
+Course Outcomes
+CO1: Analyse the working of an operating system and its components and define and analyse the
+synchronization process.
+CO2: Identify the working methodology of multithreaded applications.
+CO3: Compare and analyse different file systems being used in different operating systems.
+CO4: Design and implement main memory and secondary memory systems.
+Page 598
+=== PAGE 66 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 2 3 2 2 2
+CO2 2 3 1 2
+CO3 2 3 2 2 1
+CO4 1 1 2 2 1 1
+1 – low, 2 – Medium, 3 - High
+Page 599
+=== PAGE 67 ===
+CSDC0337 Data Mining and Analytics Laboratory [0 0 2 1]
+List of Experiments
+1. Installation of R and Perform the basic operations in R.
+2. Perform various operations on data structures in R.
+3. To perform different operations on data frames.
+4. To explore various built-in R functions for descriptive statistics (mean, median, variance,
+standard deviation, percentile, quartile, skewness, kurtosis, etc) and probability distributions
+(binomial, normal, uniform, chi-square, Poisson, etc.).
+5. Load a built-in dataset in R, manipulate and analyse the data using dplyr functions and apply
+techniques for clean and pre-processing data by normalising, transforming, and handling
+missing values.
+6. Conducting feature selection and filtering on large datasets using PCA or decision trees.
+7. To know and implement different types of regressions. Perform Logistic Regression on any
+suitable dataset.
+8. To perform classification on any suitable dataset using a decision tree, naive Bayes, known and
+SVM algorithms.
+9. Implementing the Apriori algorithm to identify frequent item sets in a dataset.
+10. Implementing and comparing various clustering techniques (K-means, hierarchical, DBSCAN)
+on given datasets.
+11. Install Hadoop, perform the given file management, and configure tasks.
+12. Using MongoDB, create a collection hotel with the given document & demonstrate the CRUD
+operations.
+* This is only the suggested list of Practicals. The instructor may frame additional Practical relevant
+to the course contents.
+Course Outcomes
+CO1: Understand and implement data pre-processing and exploratory data analysis techniques,
+enabling effective visualization and identification of patterns in data for insightful analytics.
+CO2: Understand descriptive statistics, including measures of central tendency and dispersion, and
+master basic and advanced statistical analysis techniques.
+CO3: Apply machine learning algorithms for predictive modeling and data mining.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 3 3 2 3
+CO2 2 3 1 3
+CO3 3 2 3 3 3
+1 – low, 2 – Medium, 3 - High
+Page 600
+=== PAGE 68 ===
+S.
+No Course
+Code
+1 CSDC0302 2 CSDC0304 3 CSDC0306 4 CSDC0308 5 CSDE03XX/
+XXGE03XX
+6 CSDC0332 7 CSDC0334 8 CSDC0336 9 CSDC0338 10 CSPR0302 6th Semester
+Course Title
+Teaching
+Load Credit Course
+Type
+L T P
+Computer Graphics and Image
+Processing 3 0 0 3 DC
+Information Security Systems 3 0 0 3 DC
+Machine Learning 3 0 0 3 DC
+Software Engineering 3 0 0 3 DC
+Department Elective – 2/ Generic
+Elective - 2 3 0 0 3 DE/GE
+Computer Graphics and Image
+Processing Laboratory 0 0 2 1 DC
+Information Security System Laboratory 0 0 2 1 DC
+Machine Learning Laboratory 0 0 2 1 DC
+Software Engineering Laboratory 0 0 2 1 DC
+Project-1 (Phase-II) 0 0 2 2 PR
+TOTAL 15 0 10 21
+Page 601
+=== PAGE 69 ===
+CSDC0302 Computer Graphics and Image Processing [3 0 0 3]
+Course Contents
+Unit 1: Overview of Graphics Systems
+Overview of Hardware & Software, Input & Output Technology, Application areas of Computer
+Graphics, raster-scan systems, video display devices, Graphics imaging pipeline, Rasterization, CRT
+displays, Random scan display, Raster scan display, Raster Scan Basics.
+Unit 2: Transformations
+Drawing algorithms, Bresenham’s algorithm &DDA algorithms for line drawing, circle, ellipse
+algorithms, parabola and hyperbola. Polygon filing, Scan line polygon fill algorithm, boundary-fill and
+flood-fill algorithms, polygon filling, 2D Transformations, Translations and Homogeneous
+Coordinates, Rotation, Reflection, Scaling, Combined Transformation, Transformation of Points, 2-D
+viewing pipeline, viewing coordinate reference frame, window to view-port coordinate
+transformation.3D transformations, Parallel projection, Perspective projection, Vanishing points,
+Viewing Transformation, Stages in 3D viewing.
+Unit 3: Visible Surfaces & Curves
+Problems of Aliasing, end-point ordering and clipping lines, Scan Converting Circles, Scan Converting
+Ellipses, Clipping Lines algorithms– Cyrus-Beck, Cohen-Sutherland, Clipping Polygons, Back face
+removal, The z-Buffer Algorithm, Painter’s algorithms (depth sorting), BSP trees methods, curve
+Representation, Nonparametric Curves, Parametric Curves, Parametric Representation of a Circle,
+Parametric Representation of an Ellipse, Hermite curve, Bezier curve and B-Spline curves, Bezier and
+B-Spline surfaces.
+Unit 4: Illumination and Shading
+Illumination and Shading Models for Polygons, Reflectance properties of surfaces, Ambient, Specular
+and Diffuse reflections, Atmospheric attenutation, Phong’s model, Gouraud shading, Shading
+Polygons & Surface, & Shadows.
+Unit 5: Basics of Digital Image Processing
+Introduction, Fundamental steps in Digital Image Processing, Sampling and Quantization, Neighboring
+of Pixels, image representation, pre-processing, image enhancement, histogram equalization,
+smoothing, sharpening, Line and Edge detection, segmentation, pattern recognition and use of machine
+learning in image processing.
+Course Outcomes
+CO1: Create an understanding of contemporary graphics hardware and formation of images.
+CO2: Illustrate graphics transformations in 2D and 3D objects and visible surface detection methods.
+CO3: Understand the concepts of lighting and shading in computer graphics
+CO4: Analyze algorithms in image enhancement and solve real-world problems
+Page 602
+=== PAGE 70 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 2 1 2
+CO2 3 2 1 1 2 1
+CO3 3 1 1 2 2 2 2
+CO4 2 2 2 2 3 2 1 2
+1 – low, 2 – Medium, 3 – High
+Recommended Books
+1. Hearn, Donald, and M. Pauline Baker. Computer Graphics (C Version). 2nd ed., Pearson
+Education, 2004.
+2. Pratt, William K. Digital Image Processing. 3rd ed., John Wiley, 2002.
+3. Jain, Anil K. Fundamentals of Digital Image Processing. 1st ed., Prentice Hall, 2015.
+4. Gonzalez, Rafael C., and Richard E. Woods. Digital Image Processing. 3rd ed., Pearson, 2014.
+5. Foley, James D., et al. Computer Graphics: Principles and Practice in C. 2nd ed., Addison
+Wesley, 1997.
+Page 603
+=== PAGE 71 ===
+CSDC0304 Information Security Systems [3 0 0 3]
+Course Contents
+Unit 1: Introduction to Computer Security and Information Security
+Computer Security: Introduction to Computer Security, Computer Security Technology and Principles,
+Software Security and Trusted Systems, Networking and Distributed System Security, Information
+Security: History and Evolution of Cryptography, OSI Security Architecture, A Model for Network
+Security, Classical Encryption Techniques: Symmetric Cipher Model, Substitution Techniques,
+Transposition Techniques, Steganography, Block Ciphers and Data Encryption Standard: Block Cipher
+Principles, Simplified DES, Data Encryption Standard, Strength of DES, Block Cipher Modes of
+Operation, confusion and diffusion & their measurement.
+Unit 2: Mathematical Foundation and Symmetric Key Cryptography
+Introduction to Finite Fields: Groups, Rings, and Fields, Modular Arithmetic, Euclid’s Algorithm, and
+Forms of Finite Fields, Advanced Encryption Standard: Evaluation Criteria for AES, AES Cipher,
+Contemporary Symmetric Ciphers: Triple DES, Blowfish, Characteristics of Advanced Symmetric
+Block Ciphers, RC4 Stream Cipher, Confidentiality Using Symmetric Encryption: Placement of
+Encryption Function, Traffic Confidentiality, Key Distribution, Random Number Generation.
+Unit 3: Asymmetric Key Cryptography
+Public-Key Encryption: Introduction to Number Theory: Prime Numbers, Fermat’s and Euler's
+Theorems, Testing for Primality, Chinese Remainder Theorem, Public-Key Cryptography and RSA:
+Principles of Public-Key Cryptosystems, RSA Algorithm, Key Management and Other Public-Key
+Cryptosystems: Key Management, Diffie-Hellman Key Exchange, Elliptic Curve Arithmetic, Elliptic
+Curve Cryptography.
+Unit 4: Message Authentication and Hash Functions
+Message Authentication and Hash Functions: Authentication Requirements, Authentication Functions,
+Message Authentication Codes, Hash Functions, Security of Hash Functions and MACs, Hash
+Algorithms: Message Digest Algorithm (MD5), Secure Hash Algorithm, RIPEMD-160, and HMAC,
+Digital Signatures and Authentication Protocols: Digital Signatures, Authentication Protocols, Digital
+Signature Standard.
+Unit 5: Cryptanalysis
+Cryptanalysis: Time-Memory Trade-off Attack, Cryptanalysis of the Substitution Cipher,
+Cryptanalysis of the Hill Cipher, Cryptanalysis of the LFSR Stream Cipher, Cryptanalysis on Stream
+Cipher, Modern Stream Ciphers, Shamir’s Secret Sharing, Differential and Linear Cryptanalysis.
+Page 604
+=== PAGE 72 ===
+Course Outcomes
+CO1: Understand fundamental principles of cryptography, including Integrity, Confidentiality,
+authentication, and Non-repudiation, to secure communication systems.
+CO2: Analyse security issues and vulnerabilities in networks and cryptographic systems
+CO3: Assess network security threats and develop effective countermeasures, implementing secure
+network architectures using cryptographic techniques.
+CO4: Evaluate security mechanisms, including key ciphers and hash functions, using rigorous
+mathematical and computational approaches for cryptographic security.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 3 1 1 1 2 1 2
+CO2 2 2 1 1 1 1 2
+CO3 2 1 3 2 2 2 2 2 2
+CO4 1 2 2 2 1 2
+1 – Low, 2 – Medium, 3 - High
+Recommended Books
+1. Stallings, William. Cryptography and Network Security: Principles and Practice. 8th ed.,
+Pearson Education, 2024.
+2. Forouzan, Behrouz A., and Debdeep Mukhopadhyay. Cryptography and Network Security. 3rd
+ed., Tata McGraw-Hill, 2015.
+3. Boneh, Dan, and Victor Shoup. A Graduate Course in Applied Cryptography. Version 0.6, Jan.
+2023.
+4. Stinson, Douglas R., and Maura Paterson. Cryptography: Theory and Practice. 4th ed.,
+Chapman & Hall/CRC, 2018.
+5. Menezes, Alfred J., Paul Van Oorschot, and Scott Vanstone. Handbook of Applied
+Cryptography. CRC Press, 2018.
+6. Gupta, Prakash C. Cryptography and Network Security. 1st ed., PHI Learning, 2015.
+Page 605
+=== PAGE 73 ===
+CSDC0306 Machine Learning [3 0 0 3]
+Course Contents
+Unit 1: Introduction to Machine Learning and Mathematical Foundations
+Introduction to ML: Definitions, Applications, Types (Supervised, Unsupervised, Reinforcement
+Learning). History and Evolution of ML, Comparison with Traditional Programming ML Pipeline:
+Data Collection, Processing, Model Selection, Training, Evaluation.
+Linear Algebra: Vectors, Matrices, Eigenvalues & Eigenvectors, Optimization Techniques: Gradient
+Descent, Convex Optimization, Loss Functions: MSE, Cross-Entropy, Hinge Loss, Evaluation Metrics:
+Accuracy, Precision, Recall, F1 Score, ROC Curve.
+Unit 2: Supervised Learning
+Regression Models, Linear Regression: Model, Cost Function, Gradient Descent, Multiple Linear
+Regression & Polynomial Regression Ridge & Lasso Regression
+Classification Models Logistic Regression, Decision Trees: Splitting Criteria (Gini Index, Entropy),
+Pruning of decision tree, Multivariate Trees, Hypothesis space search in decision tree learning,
+Inductive bias in decision tree learning, Issues in decision tree learning. Random Forests & Ensemble
+Learning (Bagging, Boosting, Stacking), Support Vector Machines (SVM): Kernel Trick, Hyperplane
+Concept, k-Nearest Neighbors (k-NN) Algorithm, Naïve Bayes Classifier, Bayesian belief networks
+Case Study: Predicting House Prices and Spam Classification, Artificial Neural Network (ANN).
+Unit 3: Unsupervised Learning
+Introduction to Unsupervised Learning, Clustering: K-Means, k-medoid Hierarchical Clustering,
+DBSCAN, Clustering & Gaussian Mixture Models (GMM), Case Study: Customer Segmentation &
+Anomaly Detection.
+Unit 4: Reinforcement Learning
+Overview of Reinforcement Learning: Elements of Reinforcement Learning, Markov Decision Process
+(MDP) and its Components, Exploration vs. Exploitation Trade-off, Dynamic Programming for RL:
+Bellman Equations, Value Iteration and Policy Iteration, Finding Optimal Policies, Model-Free
+Reinforcement Learning, Temporal Difference (TD) Learning: SARSA (On-Policy Learning) Q-
+Learning (Off-Policy Learning), REINFORCE Algorithm and Actor-Critic Methods (A2C, A3C),
+Exploration Strategies: ε-Greedy, Softmax Exploration, Applications of Reinforcement Learning.
+Course Outcomes
+CO1: Understand fundamental machine learning concepts and their real-world applications.
+CO2: Implement and analyze machine learning algorithms, including regression, classification,
+clustering, and reinforcement learning.
+CO3: Evaluate machine learning models using metrics like accuracy, precision, recall, and F1-score.
+CO4: Apply machine learning techniques to real-world problems, optimize models, and interpret
+results for better decision-making.
+Page 606
+=== PAGE 74 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PSO
+1
+PSO
+2
+CO1 3 2 1 1 1 2 2
+CO2 3 3 3 3 2 3 1
+CO3 2 2 1 3 1 3 2 2 2
+CO4 2 2 2 2 1 3 2 1
+1 – Low, 2 – Medium, 3 - High
+Recommended Books
+1. Mohri, Mehryar, Afshin Rostamizadeh, and Ameet Talwalkar. Foundations of Machine
+Learning. 2nd ed., MIT Press, 2018.
+2. Sammut, Claude, and Geoffrey I. Webb, editors. Encyclopedia of Machine Learning and Data
+Mining. 3rd ed., Springer, 2023.
+3. Witten, Ian H., Eibe Frank, Mark A. Hall, and Christopher J. Pal. Data Mining: Practical
+Machine Learning Tools and Techniques. 5th ed., Morgan Kaufmann, 2024.
+4. Müller, Andreas C., and Sarah Guido. Introduction to Machine Learning with Python: A Guide
+for Data Scientists. O'Reilly Media, 2016.
+5. Bishop, Christopher M. Pattern Recognition and Machine Learning. Springer, 2013.
+Page 607
+=== PAGE 75 ===
+CSDC0308 Software Engineering [3 0 0 3]
+Course Contents
+Unit 1: Introduction to Software engineering
+Software engineering approach, the evolving role of software, Software myths, Software process,
+Characteristics of software process, Software development process models.
+Unit 2: Software requirements specification
+Software requirements, problem analysis, requirements specification, functional specification with use
+cases, validation.
+Unit 3: Design Concepts
+Abstraction, Refinement, Modularity, and Architectural design. Object-Oriented Approach: Concepts,
+Design methodology, Design issues, UML, Design patterns. User interface design: User interface
+analysis and design, Interface design steps, Design evaluation.
+Unit 4: Quality Management
+Software quality assurance, Software configuration management, Software testing strategies, Black-
+Box and White-Box testing, Validation testing, System testing, designing test cases, Debugging, Bug
+tracking, CASE tools, Product metrics
+Unit 5: Introduction to Agile Development
+Agile Methodologies, Agile Practices, Agile Project Management, Agile Estimation and Budgeting,
+Agile Scheduling and Risk Management, Agile Tools and Case Studies
+Unit 6: Advanced Topics
+Software process improvement, emerging trends in software engineering
+Course Outcomes
+CO1: Describe the concepts of software development and software engineering.
+CO2: Differentiate between various software engineering process models and explain their
+applicability.
+CO3: Implement testing and debugging techniques and evaluate their effectiveness.
+CO4: Assess software risks, apply risk management strategies, and analyze software quality and
+reliability based on international quality standards.
+Page 608
+=== PAGE 76 ===
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+P
+O7 PO8 PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 1 2 2 1 1
+CO2 2 3 2 2
+CO3 3 2 3 2 2
+CO4 3 3 3 2 3 3 3 3
+1 – Low, 2 – Medium, 3 - High
+Recommended Books
+1. Peters, James F., and Witold Pedrycz. Software Engineering: An Engineering Approach. 1st
+ed., John Wiley & Sons, 2000.
+2. Jawadekar, Waman S. Software Engineering: Principles and Practice. 1st ed., McGraw-Hill
+Education, 2004.
+3. Pressman, Roger S., and Bruce R. Maxim. Software Engineering: A Practitioner's Approach.
+9th ed., McGraw-Hill Education, 2019.
+4. Sommerville, Ian. Software Engineering. 10th ed., Pearson Education, 2015.
+5. Jalote, Pankaj. Software Engineering: A Precise Approach. John Wiley & Sons, 2010.
+6. Fox, Armando, David A. Patterson, and Samuel Joseph. Engineering Software as a Service: An
+Agile Approach Using Cloud Computing. Strawberry Canyon LLC, 2013.
+Page 609
+=== PAGE 77 ===
+CSDC0332 Computer Graphics and Image Processing Laboratory [0 0 2 1]
+List of Experiments
+1. Develop a program to draw a line using Bresenham’s line drawing technique.
+2. Develop a program to demonstrate basic geometric operations on the 2D object.
+3. Develop a program to demonstrate basic geometric operations on the 3D object.
+4. Develop a program to demonstrate 2D transformation on basic objects.
+5. Develop a program to demonstrate 3D transformation on 3D objects.
+6. Develop a program to demonstrate Animation effects on simple objects.
+7. Write a Program to read a digital image. Split and display image into 4 quadrants, up, down, right
+and left.
+8. Write a program to show rotation, scaling, and translation on an image.
+9. Read an image and extract and display low-level features such as edges, textures using filtering
+techniques.
+10. Write a program to blur and smoothing an image.
+11. Write a program to contour an image.
+12. Write a program to detect a faces in an image.
+* This is only the suggested list of practical. The instructor may frame additional Practical relevant to
+the course contents.
+Course Outcomes
+CO1: Develop skills to draw lines, circle and ellipses using different algorithms.
+CO2: Apply knowledge to clip lines as per problem statement.
+CO3: Analyses various transformations on 2D and 3D images.
+CO4: Apply basic image processing capabilities.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+P
+O7 PO8 PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 1 1 2
+CO2 2 2 2 1
+CO3 3 1 2 2 2 2 1 2
+CO4 1 1 2 2 2 3 1
+1 – Low, 2 – Medium, 3 - High
+Page 610
+=== PAGE 78 ===
+CSDC0334 Information Security System Laboratory [0 0 2 1]
+List of Experiments
+1. Implementation of various transposition ciphers.
+2. Implementation of various substitution ciphers.
+3. Implementation of S-DES algorithm for data encryption.
+4. Implementation of S-AES algorithm for data encryption.
+5. Implementation of Symmetric Encryption Scheme – Mode of operations and RC4.
+6. Implementation of Chinese remainder theorem.
+7. Implementation of RSA cryptosystem.
+8. Implementation of Rabin cryptosystem.
+9. Implementation of ElGamal cryptosystem.
+10. Implementation of various Secure Hash algorithms.
+11. Implementation of MAC algorithm.
+12. Implementation of RSA digital signatures.
+13. Implementation of Rabin digital signatures.
+14. Implementation of ElGamal digital signatures.
+15. Implementation of Diffie-Hellman key exchange algorithms
+* This is only the suggested list of Practical’s. Instructor may frame additional Practicals relevant to
+the course contents.
+Course Outcomes
+CO1: Understanding of various information security threats.
+CO2: Understanding of security measures to encounter threats.
+CO3: Implementation and understanding of encryption techniques.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+P
+O7 PO8 PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 1 3 2 2 1 1 1 2
+CO2 2 1 2 3 2 2 2
+CO3 1 2 3 2 2 1 1 2 3
+1 – low, 2 – Medium, 3 - High
+Page 611
+=== PAGE 79 ===
+CSDC0336 Machine Learning Laboratory [0 0 2 1]
+List of Experiments
+1. Programs based on Numpy, Pandas, Visualization based python libraries.
+2. Implementation of regression and logistic regression for classification purpose.
+3. Implementation of Decision Tree for solving regression as well as classification problems,
+4. Solving classification and regression problems with application of Support Vector Machines
+(SVM) in Data Analytics.
+5. Implement Dimensionality reduction using Principle Component Analysis (PCA) method,
+6. Implement Naïve Bayes Classification in Python, Build KNN Classification model for a given
+dataset.
+7. Implement various ensemble methods on a given dataset,
+8. Implement Random Forest ensemble method on a given dataset,
+9. Implement Boosting ensemble method on a given dataset.
+10. Implementation of clustering techniques, such as, K-Means clustering Algorithm.
+11. Estimate the accuracy of decision classifier on breast cancer dataset using 5-fold cross-validation
+12. Develop a machine learning method to Cluster gene expression data, how to modify existing
+methods to solve the problem better.
+13. Select two datasets. Each dataset should contain examples from multiple classes. For training
+purposes assume that the class label of each example is unknown (if it is known, ignore it).
+Implement the K-means algorithm and apply it to the data you selected. Evaluate performance by
+measuring the sum of Euclidean distance of each example from its class center. Test the
+performance of the algorithm as a function of the parameter k.
+14. Implement the EM algorithm assuming a Gaussian mixture. Apply the algorithm to your datasets
+and report the parameters you obtain. Evaluate performance by measuring the sum of Mahalanobis
+distance of each example from its class center. Test performance as a function of the number of
+clusters.
+* This is only the suggested list of Practicals. Instructor may frame additional Practical’s relevant to
+the course contents.
+Course Outcomes
+CO1: Develop hands-on knowledge of methods and theories in the field of machine learning for
+learning principles, techniques, and applications of machine learning.
+CO2: Design and Implement Regression for real-world problems.
+CO3: Design and implement various classification techniques.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+PO
+7
+PO
+8
+PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 3 2
+CO2 3 2 3 3
+CO3 3 2 2 2 1
+1 – Low, 2 – Medium, 3 - High
+Page 612
+=== PAGE 80 ===
+CSDC0338 Software Engineering Laboratory [3 0 0 3]
+List of Experiments
+1. Introduction and project definition
+2. Introduction to project management software (e.g., Trello, Jira)
+3. Software process overview (Waterfall, Agile, Scrum, DevOps)
+4. Project planning (WBS, Gantt charts, risk management)
+5. Software Requirements Specification (SRS)
+6. Introduction to UML and use case diagrams
+7. Flow of events and activity diagrams
+8. Object-oriented analysis: discovering classes and class diagrams
+9. Interaction diagrams: sequence and collaboration diagrams
+10. Software design: architecture and object-oriented design
+11. Effort and cost estimation using COCOMO
+12. State transition diagrams
+13. Component and deployment diagrams
+14. Issue tracking systems (e.g., GitHub, Bitbucket, GitLab)
+15. Software configuration management tools (e.g., Git, SVN, CVS)
+16. Software testing (Unit, integration, system, acceptance testing)
+17. Continuous integration and delivery tools (e.g., Jenkins, GitHub Actions)
+18. Writing test cases and using test management tools (e.g., TestLink)
+19. Code review practices and tools (e.g., GitHub pull requests)
+* This is only the suggested list of Practicals. Instructor may frame additional Practical’s relevant to
+the course contents.
+Course Outcomes
+CO1: Apply project planning techniques and tools in software project management.
+CO2: Use SDLC models and project management software effectively.
+CO3: Create UML diagrams and SRS for software requirements.
+Course
+Outcomes Programme Outcomes
+PO
+1
+PO
+2
+PO
+3
+PO
+4
+PO
+5
+PO
+6
+P
+O7 PO8 PO
+9
+PO
+10
+PO
+11
+PO
+12
+PS
+O1
+PS
+O2
+CO1 3 2 2 2 2 3 3 1
+CO2 2 3 2
+CO3 3 3 2 2 3
+1 – Low, 2 – Medium, 3 - High
+Page 613

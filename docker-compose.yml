@@ -1,0 +1,45 @@
+# Starts the API and the UI. The vector store and the SQLite database live in ./data,
+# so they survive restarts (no re-ingestion on restart, guide Section 5).
+#
+# Ollama runs on the host machine. From inside Docker it is reached at host.docker.internal.
+# Set MOCK_LLM=false in .env to use the live model; MOCK_LLM=true runs without it.
+
+services:
+  api:
+    build: .
+    image: university-assistant:latest
+    command: >
+      sh -c "python scripts/setup_db.py --db /app/data/app.sqlite3 &&
+             uvicorn app.api.main:get_app --factory --host 0.0.0.0 --port 8000"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      SQLITE_PATH: /app/data/app.sqlite3
+      CHROMA_PATH: /app/data/chroma
+      OLLAMA_BASE_URL: http://host.docker.internal:11434
+      MOCK_LLM: ${MOCK_LLM:-true}
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "8000:8000"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8000/health', timeout=5).status == 200 else 1)"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+
+  ui:
+    build: .
+    image: university-assistant:latest
+    depends_on:
+      api:
+        condition: service_healthy
+    command: streamlit run src/app/ui/app.py --server.address 0.0.0.0 --server.port 8501 --server.headless true
+    environment:
+      API_URL: http://api:8000
+    ports:
+      - "8501:8501"
